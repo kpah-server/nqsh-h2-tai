@@ -16,11 +16,11 @@
     "ngay": "2026-10-14 14:31"
   },
   "pc": {
-    "ban": 3,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-PC-3.zip",
-    "sha256": "edb9d9c307562234cb3e13e16929035be061fb8e8f0f52718f9de16bafac3829",
-    "kichThuoc": 37719280,
-    "ghiChu": "Sửa lỗi cập nhật lặp lại",
-    "ngay": "2026-10-14 13:58"
+    "ban": 4,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-PC-4.zip",
+    "sha256": "4fa909f0e13b982db616f5fbe1fb48f1981254c21157f7cf3b1395eb77e7882e",
+    "kichThuoc": 37719364,
+    "ghiChu": "Tự cập nhật danh sách server, giao diện cập nhật mới",
+    "ngay": "2026-10-14 14:31"
   }
 }
