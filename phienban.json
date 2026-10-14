@@ -1,0 +1,10 @@
+{
+  "jar": {
+    "ban": 150,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-v150.jar",
+    "sha256": "27bcad0f288a68fb93ea6d4a9ccf07fbeefc50b99a5126652105d7422f99e66b",
+    "kichThuoc": 1141116,
+    "ghiChu": "Bản jar NQSH-H2",
+    "ngay": "2026-10-14 19:45"
+  }
+}
