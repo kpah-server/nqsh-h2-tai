@@ -8,12 +8,12 @@
     "ngay": "2026-10-14 14:31"
   },
   "android": {
-    "ban": 1420,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-1420.apk",
-    "sha256": "d65ad5451406c48fc342e2a8cd755a538080d0041b615b39e5c4c2c9e83fd752",
+    "ban": 1421,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-1421.apk",
+    "sha256": "9860c185fd77e9ad6e33846db62cdd3991fb0334d4b1bce38f5402082e58984d",
     "kichThuoc": 2651459,
-    "ghiChu": "test",
-    "ngay": "2026-10-14 13:42"
+    "ghiChu": "Tự cập nhật danh sách server, giao diện cập nhật mới",
+    "ngay": "2026-10-14 14:31"
   },
   "pc": {
     "ban": 3,
