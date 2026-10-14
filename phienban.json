@@ -14,5 +14,13 @@
     "kichThuoc": 2651459,
     "ghiChu": "Bản Android NQSH-H2 có tự cập nhật",
     "ngay": "2026-10-14 19:46"
+  },
+  "pc": {
+    "ban": 1,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-PC-1.zip",
+    "sha256": "021365eea60d704ec2eb469470fec0f8184d1565764863d574fe97f93f50dd54",
+    "kichThuoc": 37719425,
+    "ghiChu": "Bản PC NQSH-H2 có tự cập nhật",
+    "ngay": "2026-10-14 19:47"
   }
 }
