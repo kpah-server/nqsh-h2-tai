@@ -8,12 +8,12 @@
     "ngay": "2026-10-15 19:14"
   },
   "android": {
-    "ban": 1433,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-1433.apk",
-    "sha256": "9a30bfd368f87a634b44029437d81cb350d1b18eb8d574f2d7b21cfc3d183ef5",
+    "ban": 1434,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-1434.apk",
+    "sha256": "d8075149b5c10c461a1930cfee42974a2d25664bc36bdc1478016a24888cf90f",
     "kichThuoc": 1424463,
-    "ghiChu": "Hieu ung di chuyen + man hinh (menu Auto > Hieu ung); jar: nut mod cam ung, sua o den thanh skill",
-    "ngay": "2026-10-16 01:58"
+    "ghiChu": "",
+    "ngay": "2026-10-15 19:14"
   },
   "pc": {
     "ban": 18,
