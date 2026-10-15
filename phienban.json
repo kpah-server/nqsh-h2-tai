@@ -16,11 +16,11 @@
     "ngay": "2026-10-15 07:47"
   },
   "pc": {
-    "ban": 9,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-PC-9.zip",
-    "sha256": "30b0304342018945a9d061917b0169e4f7b3564a334d2e7590f98237fa64db6a",
-    "kichThuoc": 29974398,
+    "ban": 10,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-PC-10.zip",
+    "sha256": "13756c66f0a20b0435ee82cd4468bd18788e2c110cb8e792389d032efdd815a8",
+    "kichThuoc": 29974403,
     "ghiChu": "",
-    "ngay": "2026-10-15 07:33"
+    "ngay": "2026-10-15 07:47"
   }
 }
