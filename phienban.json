@@ -18,9 +18,9 @@
   "pc": {
     "ban": 16,
     "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-PC-16.zip",
-    "sha256": "3c29ef53d1c333538468c3502cb3b7164d797b8d85e6b3cf23c8101c23b8a02f",
-    "kichThuoc": 36705512,
-    "ghiChu": "PK: nut DOI PET",
-    "ngay": "2026-10-16 00:57"
+    "sha256": "f783693229025bf365160b7070b051a3e42c705271625f19a33615e5eb47d546",
+    "kichThuoc": 30000862,
+    "ghiChu": "",
+    "ngay": "2026-10-15 18:04"
   }
 }
