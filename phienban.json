@@ -8,12 +8,12 @@
     "ngay": "2026-10-16 00:35"
   },
   "android": {
-    "ban": 1429,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-1429.apk",
-    "sha256": "4a3fba93c1791ef4f81e76d318c515d1c12986d3f8a88c86a14b47f2e360b697",
-    "kichThuoc": 1420211,
-    "ghiChu": "Van tieu theo ban doi tieu (nut TIEU), them PK (nut PK)",
-    "ngay": "2026-10-16 00:25"
+    "ban": 1430,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-1430.apk",
+    "sha256": "21fefc3159168dd6c73a53bfa1eb2b0a995b95c17bd21f7cd57746eb4d828874",
+    "kichThuoc": 1420287,
+    "ghiChu": "Van tieu: tra xong tu chay chuyen tiep",
+    "ngay": "2026-10-16 00:35"
   },
   "pc": {
     "ban": 12,
