@@ -8,12 +8,12 @@
     "ngay": "2026-10-16 00:25"
   },
   "android": {
-    "ban": 1428,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-1428.apk",
-    "sha256": "6e7c5bed02631e89e82e2668bc5a38da2b6360f512071ec1477ad6e602b2be05",
-    "kichThuoc": 1414819,
-    "ghiChu": "",
-    "ngay": "2026-10-15 13:28"
+    "ban": 1429,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-1429.apk",
+    "sha256": "4a3fba93c1791ef4f81e76d318c515d1c12986d3f8a88c86a14b47f2e360b697",
+    "kichThuoc": 1420211,
+    "ghiChu": "Van tieu theo ban doi tieu (nut TIEU), them PK (nut PK)",
+    "ngay": "2026-10-16 00:25"
   },
   "pc": {
     "ban": 11,
