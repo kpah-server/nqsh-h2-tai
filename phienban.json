@@ -16,11 +16,11 @@
     "ngay": "2026-10-15 18:04"
   },
   "pc": {
-    "ban": 16,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-PC-16.zip",
-    "sha256": "f783693229025bf365160b7070b051a3e42c705271625f19a33615e5eb47d546",
-    "kichThuoc": 30000862,
-    "ghiChu": "",
-    "ngay": "2026-10-15 18:04"
+    "ban": 17,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-PC-17.zip",
+    "sha256": "36a90cc58c89a4b118b53a4d1735fa026b2f4bb71a4281b7b02dd29d6cb24274",
+    "kichThuoc": 36705735,
+    "ghiChu": "Sua loi crash khi vao map (ban PC 16)",
+    "ngay": "2026-10-16 01:15"
   }
 }
