@@ -16,11 +16,11 @@
     "ngay": "2026-10-16 00:35"
   },
   "pc": {
-    "ban": 12,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-PC-12.zip",
-    "sha256": "9329bca60ae886e7e56a737f90e42edbff86b69ce1c7cc69ca54dd96ce08d85c",
-    "kichThuoc": 36704863,
-    "ghiChu": "Van tieu theo ban doi tieu (nut TIEU), them PK (nut PK)",
-    "ngay": "2026-10-16 00:26"
+    "ban": 13,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-PC-13.zip",
+    "sha256": "6b02009871cf1147bb166f456fbe74d47ad26d58a25ca1e8a333bc4a923a3509",
+    "kichThuoc": 36704958,
+    "ghiChu": "Van tieu: tra xong tu chay chuyen tiep",
+    "ngay": "2026-10-16 00:36"
   }
 }
