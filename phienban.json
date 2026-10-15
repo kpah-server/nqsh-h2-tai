@@ -8,12 +8,12 @@
     "ngay": "2026-10-15 06:25"
   },
   "android": {
-    "ban": 1424,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-1424.apk",
-    "sha256": "7122858ef9d5be24a11b8118e5ab8be5700e3523f960031f0b7945997a5583b2",
-    "kichThuoc": 1882731,
+    "ban": 1425,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-1425.apk",
+    "sha256": "3975320605a65f41796bc388a3b6244ea64134e48fcb65fad6e2e8063fec8ab7",
+    "kichThuoc": 1414571,
     "ghiChu": "",
-    "ngay": "2026-10-14 18:47"
+    "ngay": "2026-10-15 06:25"
   },
   "pc": {
     "ban": 7,
