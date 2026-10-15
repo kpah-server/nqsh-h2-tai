@@ -10,10 +10,10 @@
   "android": {
     "ban": 1432,
     "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-1432.apk",
-    "sha256": "2121b85d2f41124b45747da0b87cd36ce5b1be032f31f4264e7730a54aa74360",
-    "kichThuoc": 1420951,
-    "ghiChu": "PK: nut DOI PET",
-    "ngay": "2026-10-16 00:57"
+    "sha256": "fc2bb4a96897d613ffab644f7d5292d2409515fcb25fdfc91e13999ad4fff7b8",
+    "kichThuoc": 1420767,
+    "ghiChu": "",
+    "ngay": "2026-10-15 18:04"
   },
   "pc": {
     "ban": 16,
