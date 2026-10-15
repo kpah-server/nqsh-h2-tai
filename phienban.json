@@ -1,11 +1,11 @@
 {
   "jar": {
-    "ban": 156,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-v156.jar",
-    "sha256": "d9fd42aa0efa0c87bef6add7f5042547f29cf28115a27a393f89833bd0029c29",
-    "kichThuoc": 1140393,
+    "ban": 157,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-v157.jar",
+    "sha256": "87326898c0e20e34fa43c835c16afec521fa4faaa6d684e839b3e3f3bcbb4506",
+    "kichThuoc": 1140392,
     "ghiChu": "",
-    "ngay": "2026-10-14 18:47"
+    "ngay": "2026-10-15 06:25"
   },
   "android": {
     "ban": 1424,
