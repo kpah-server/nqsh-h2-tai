@@ -16,11 +16,11 @@
     "ngay": "2026-10-15 19:14"
   },
   "pc": {
-    "ban": 18,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-PC-18.zip",
-    "sha256": "5149b386e8337df8142d20b378e067ebf9e9fc193f47c23c5e2f2c8890e65391",
-    "kichThuoc": 36708960,
-    "ghiChu": "Hieu ung di chuyen + man hinh (menu Auto > Hieu ung); jar: nut mod cam ung, sua o den thanh skill",
-    "ngay": "2026-10-16 01:58"
+    "ban": 19,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-PC-19.zip",
+    "sha256": "4406e1bb59696eb5a757b078ab9b215647d7712673aec577d3b207e8b4028820",
+    "kichThuoc": 36708949,
+    "ghiChu": "",
+    "ngay": "2026-10-15 19:14"
   }
 }
