@@ -1,11 +1,11 @@
 {
   "jar": {
-    "ban": 161,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-v161.jar",
-    "sha256": "1eef6c9bf0250ac50d315f95101e20ff719530f1cc9f95ecf49570eb67ab5350",
-    "kichThuoc": 1147450,
-    "ghiChu": "Van tieu theo ban doi tieu (nut TIEU), them PK (nut PK)",
-    "ngay": "2026-10-16 00:25"
+    "ban": 162,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-v162.jar",
+    "sha256": "2004fe4131881ce9328d731ea45b58b9ade4028140f3387c96be0fa97ccd272d",
+    "kichThuoc": 1147533,
+    "ghiChu": "Van tieu: tra xong tu chay chuyen tiep",
+    "ngay": "2026-10-16 00:35"
   },
   "android": {
     "ban": 1429,
