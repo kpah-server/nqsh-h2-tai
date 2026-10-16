@@ -8,12 +8,12 @@
     "ngay": "2026-10-16 19:49"
   },
   "android": {
-    "ban": 1436,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-1436.apk",
-    "sha256": "089815b9ee46dd333b43f9322dc0f04ec9ce1545207f37cff5f4ff463eec316c",
-    "kichThuoc": 1425131,
-    "ghiChu": "Bản mới: nâng cấp engine, sửa lỗi tự cập nhật trên PC, sửa lỗi lưu danh sách tên tự up.",
-    "ngay": "2026-10-16 13:36"
+    "ban": 1437,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-1437.apk",
+    "sha256": "defe5f24c514864f3c51b1dd3b4352cce876f259434ec3b9f7ef9fb1230012b4",
+    "kichThuoc": 1425899,
+    "ghiChu": "Sửa lỗi nhân vật cưỡi ngựa bị lệch, không mở được khảm/cường hoá/chế đồ, xem đồ, mua đồ NPC.",
+    "ngay": "2026-10-16 19:59"
   },
   "pc": {
     "ban": 21,
