@@ -8,12 +8,12 @@
     "ngay": "2026-10-16 13:35"
   },
   "android": {
-    "ban": 1435,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-1435.apk",
-    "sha256": "b47852c69d28070b34e9b71e98c33553a45f81733dca8ad3b8741abbf7462c4c",
-    "kichThuoc": 1425119,
-    "ghiChu": "Bản mới: chạy mượt hơn (60 FPS), tối ưu hiệu năng, sửa lỗi cập nhật và tự up.",
-    "ngay": "2026-10-16 11:19"
+    "ban": 1436,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-1436.apk",
+    "sha256": "089815b9ee46dd333b43f9322dc0f04ec9ce1545207f37cff5f4ff463eec316c",
+    "kichThuoc": 1425131,
+    "ghiChu": "Bản mới: nâng cấp engine, sửa lỗi tự cập nhật trên PC, sửa lỗi lưu danh sách tên tự up.",
+    "ngay": "2026-10-16 13:36"
   },
   "pc": {
     "ban": 20,
