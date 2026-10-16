@@ -16,11 +16,11 @@
     "ngay": "2026-10-16 11:19"
   },
   "pc": {
-    "ban": 19,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-PC-19.zip",
-    "sha256": "4406e1bb59696eb5a757b078ab9b215647d7712673aec577d3b207e8b4028820",
-    "kichThuoc": 36708949,
-    "ghiChu": "",
-    "ngay": "2026-10-15 19:14"
+    "ban": 20,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-PC-20.zip",
+    "sha256": "c5ef61407c3e085f82f98dc36fdd4726b5cd963d0940a148c01ec515a7a7bd5d",
+    "kichThuoc": 30020168,
+    "ghiChu": "Bản mới: chạy mượt hơn (60 FPS), tối ưu hiệu năng, sửa lỗi cập nhật và tự up.",
+    "ngay": "2026-10-16 11:19"
   }
 }
