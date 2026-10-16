@@ -1,11 +1,11 @@
 {
   "jar": {
-    "ban": 1002,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-v1002.jar",
-    "sha256": "37ddb0c0ca6e407dcef49c646f416f635c2d9cfcc2f19a88fe3d6e39e71b85ca",
-    "kichThuoc": 1151790,
-    "ghiChu": "Bản mới: chạy mượt hơn (60 FPS), tối ưu hiệu năng, sửa lỗi cập nhật và tự up.",
-    "ngay": "2026-10-16 11:19"
+    "ban": 1003,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-v1003.jar",
+    "sha256": "245b2873b2ea60989c1530d44f6b54070a0910183764b46e7c896f5b837b583b",
+    "kichThuoc": 1151795,
+    "ghiChu": "Bản mới: nâng cấp engine, sửa lỗi tự cập nhật trên PC, sửa lỗi lưu danh sách tên tự up.",
+    "ngay": "2026-10-16 13:35"
   },
   "android": {
     "ban": 1435,
