@@ -8,12 +8,12 @@
     "ngay": "2026-10-18 16:45"
   },
   "android": {
-    "ban": 1437,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-1437.apk",
-    "sha256": "defe5f24c514864f3c51b1dd3b4352cce876f259434ec3b9f7ef9fb1230012b4",
-    "kichThuoc": 1425899,
-    "ghiChu": "Sửa lỗi nhân vật cưỡi ngựa bị lệch, không mở được khảm/cường hoá/chế đồ, xem đồ, mua đồ NPC.",
-    "ngay": "2026-10-16 19:59"
+    "ban": 1438,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-1438.apk",
+    "sha256": "7de0342bfe95be5736cf0e7141788d9656ea226b2a7455893ce86fdbc30e5c2f",
+    "kichThuoc": 1425891,
+    "ghiChu": "Sửa thần thú Lân luôn quay mặt sang trái khi đi theo nhân vật.",
+    "ngay": "2026-10-18 16:45"
   },
   "pc": {
     "ban": 21,
