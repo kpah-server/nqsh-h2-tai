@@ -1,11 +1,11 @@
 {
   "jar": {
-    "ban": 1004,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-v1004.jar",
-    "sha256": "7c3ca2075dbf5ee0dac447e3286573bb21552764409b6c5aebfe9135164ed83c",
-    "kichThuoc": 1151765,
-    "ghiChu": "Sửa lỗi bản jar không hiện quái, không mở được ép/chế/khảm/cường hoá đồ.",
-    "ngay": "2026-10-16 19:49"
+    "ban": 1005,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-v1005.jar",
+    "sha256": "79541c3a862f5414a6db709236a5d211e340474fad3bc4eb9c87a92f3ef5ac79",
+    "kichThuoc": 1151775,
+    "ghiChu": "Sửa thần thú Lân luôn quay mặt sang trái khi đi theo nhân vật.",
+    "ngay": "2026-10-18 16:45"
   },
   "android": {
     "ban": 1437,
