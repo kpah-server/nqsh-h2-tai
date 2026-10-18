@@ -16,11 +16,11 @@
     "ngay": "2026-10-18 16:45"
   },
   "pc": {
-    "ban": 21,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-PC-21.zip",
-    "sha256": "230c13ced9f0e0ff2e8de1d6400cb375695b12dc86c0899e55b103c793a2931c",
-    "kichThuoc": 30235688,
-    "ghiChu": "Bản mới: nâng cấp engine, sửa lỗi tự cập nhật trên PC, sửa lỗi lưu danh sách tên tự up.",
-    "ngay": "2026-10-16 13:36"
+    "ban": 22,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-PC-22.zip",
+    "sha256": "2d379e5cd45a257f68921f5cfb8633ff2cdf8868649368a052cf8ed44c3b7081",
+    "kichThuoc": 30235472,
+    "ghiChu": "Sửa thần thú Lân luôn quay mặt sang trái khi đi theo nhân vật.",
+    "ngay": "2026-10-18 16:45"
   }
 }
