@@ -8,12 +8,12 @@
     "ngay": "2026-10-18 17:51"
   },
   "android": {
-    "ban": 1438,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-1438.apk",
-    "sha256": "7de0342bfe95be5736cf0e7141788d9656ea226b2a7455893ce86fdbc30e5c2f",
+    "ban": 1439,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-1439.apk",
+    "sha256": "1ea8c8f8961555c4079724ea209d03ff2b310d15db45a78999a7cef5574363e8",
     "kichThuoc": 1425891,
-    "ghiChu": "Sửa thần thú Lân luôn quay mặt sang trái khi đi theo nhân vật.",
-    "ngay": "2026-10-18 16:45"
+    "ghiChu": "",
+    "ngay": "2026-10-18 17:51"
   },
   "pc": {
     "ban": 22,
