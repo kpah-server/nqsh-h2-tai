@@ -1,11 +1,11 @@
 {
   "jar": {
-    "ban": 1005,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-v1005.jar",
-    "sha256": "79541c3a862f5414a6db709236a5d211e340474fad3bc4eb9c87a92f3ef5ac79",
-    "kichThuoc": 1151775,
-    "ghiChu": "Sửa thần thú Lân luôn quay mặt sang trái khi đi theo nhân vật.",
-    "ngay": "2026-10-18 16:45"
+    "ban": 1006,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-v1006.jar",
+    "sha256": "f9112ab3545c4702141e1462deb67cc4b850a9fc05ed91d060db233cbdfb1f8c",
+    "kichThuoc": 1151777,
+    "ghiChu": "",
+    "ngay": "2026-10-18 17:51"
   },
   "android": {
     "ban": 1438,
