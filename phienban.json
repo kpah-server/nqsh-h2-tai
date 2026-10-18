@@ -16,11 +16,11 @@
     "ngay": "2026-10-18 17:51"
   },
   "pc": {
-    "ban": 22,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-PC-22.zip",
-    "sha256": "2d379e5cd45a257f68921f5cfb8633ff2cdf8868649368a052cf8ed44c3b7081",
-    "kichThuoc": 30235472,
-    "ghiChu": "Sửa thần thú Lân luôn quay mặt sang trái khi đi theo nhân vật.",
-    "ngay": "2026-10-18 16:45"
+    "ban": 23,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-PC-23.zip",
+    "sha256": "7e9764d90d1d3226bd2a515f63b736568fe725715e6b8bce9752b13ab8541b24",
+    "kichThuoc": 30235473,
+    "ghiChu": "",
+    "ngay": "2026-10-18 17:51"
   }
 }
