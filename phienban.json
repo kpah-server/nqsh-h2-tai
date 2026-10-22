@@ -8,12 +8,12 @@
     "ngay": "2026-10-18 17:51"
   },
   "android": {
-    "ban": 1439,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-1439.apk",
-    "sha256": "1ea8c8f8961555c4079724ea209d03ff2b310d15db45a78999a7cef5574363e8",
-    "kichThuoc": 1425891,
-    "ghiChu": "",
-    "ngay": "2026-10-18 17:51"
+    "ban": 1440,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-1440.apk",
+    "sha256": "e4cefa926217960e734b13a4fa46726ec8990ef694e188161a01d1bd9e50655f",
+    "kichThuoc": 1426583,
+    "ghiChu": "Menu mod 'Nut tren man hinh': an/hien tung nut noi de khong che skill",
+    "ngay": "2026-10-23 00:55"
   },
   "pc": {
     "ban": 23,
