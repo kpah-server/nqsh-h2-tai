@@ -16,11 +16,11 @@
     "ngay": "2026-10-23 12:42"
   },
   "pc": {
-    "ban": 23,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-PC-23.zip",
-    "sha256": "7e9764d90d1d3226bd2a515f63b736568fe725715e6b8bce9752b13ab8541b24",
-    "kichThuoc": 30235473,
-    "ghiChu": "",
-    "ngay": "2026-10-18 17:51"
+    "ban": 24,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-PC-24.zip",
+    "sha256": "55c791aa61247df1872de61071e172b2ab8b2ffa85afe1d2f92e0a5092187d0e",
+    "kichThuoc": 30241285,
+    "ghiChu": "Menu an/hien nut tren man hinh; mua nguyen lieu / cua hang dac biet theo so luong (toi da 20.000); o nhap so luong khi mua lo nguyen lieu o gian hang",
+    "ngay": "2026-10-23 06:13"
   }
 }
