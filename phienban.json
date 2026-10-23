@@ -1,11 +1,11 @@
 {
   "jar": {
-    "ban": 1006,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-v1006.jar",
-    "sha256": "f9112ab3545c4702141e1462deb67cc4b850a9fc05ed91d060db233cbdfb1f8c",
-    "kichThuoc": 1151777,
-    "ghiChu": "",
-    "ngay": "2026-10-18 17:51"
+    "ban": 1010,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-v1010.jar",
+    "sha256": "b5b337e5af84ee9ba0b3e1a200c33d2bd3f1a2ecd60fd7691296485cc4c76341",
+    "kichThuoc": 1154453,
+    "ghiChu": "Mua nguyen lieu theo so luong (toi da 20.000), o nhap so luong khi mua lo nguyen lieu o gian hang",
+    "ngay": "2026-10-23 12:30"
   },
   "android": {
     "ban": 1442,
