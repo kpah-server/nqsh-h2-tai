@@ -16,11 +16,11 @@
     "ngay": "2026-10-23 18:29"
   },
   "pc": {
-    "ban": 24,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-PC-24.zip",
-    "sha256": "55c791aa61247df1872de61071e172b2ab8b2ffa85afe1d2f92e0a5092187d0e",
-    "kichThuoc": 30241285,
-    "ghiChu": "Menu an/hien nut tren man hinh; mua nguyen lieu / cua hang dac biet theo so luong (toi da 20.000); o nhap so luong khi mua lo nguyen lieu o gian hang",
-    "ngay": "2026-10-23 06:13"
+    "ban": 25,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-PC-25.zip",
+    "sha256": "5545476ea3a83f289b2c1802ba6930cc576e80e0814c7dd8a9f2dce3ff4849e2",
+    "kichThuoc": 30241665,
+    "ghiChu": "Sửa lỗi: mua nguyên liệu số lượng lớn bị ngắt kết nối, vận tiêu/auto up, màn chọn nhân vật",
+    "ngay": "2026-10-23 11:47"
   }
 }
