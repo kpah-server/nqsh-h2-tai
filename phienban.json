@@ -8,12 +8,12 @@
     "ngay": "2026-10-23 13:08"
   },
   "android": {
-    "ban": 1445,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-1445.apk",
-    "sha256": "02c4272c8a99dc1dc72c136afb4008e72047beb79b153362c4117d30cb96449f",
-    "kichThuoc": 1428467,
-    "ghiChu": "Chặn crash: lỗi khi vẽ không còn làm tắt game, hiện thông báo lỗi để gửi admin",
-    "ngay": "2026-10-23 16:21"
+    "ban": 1446,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-1446.apk",
+    "sha256": "87e289b97cc946c8d0ad8e0e3873f106264b7a7dc6e150a66021614efffbbaf0",
+    "kichThuoc": 1428543,
+    "ghiChu": "Sửa treo game khi qua cổng sang map khác, mua nguyên liệu số lượng lớn bị ngắt kết nối, lỗi nhặt ngọc/giao dịch/ép đồ thú",
+    "ngay": "2026-10-23 18:29"
   },
   "pc": {
     "ban": 24,
