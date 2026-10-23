@@ -8,12 +8,12 @@
     "ngay": "2026-10-23 13:08"
   },
   "android": {
-    "ban": 1444,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-1444.apk",
-    "sha256": "47ac346e9c7ce330a00fe191cb65e29068f46b43dde007f970d53f7388430f10",
-    "kichThuoc": 1427915,
-    "ghiChu": "Sửa NPC (lính gác, Phú ông...) bị nhoè / lệch hình trên Android",
-    "ngay": "2026-10-23 16:11"
+    "ban": 1445,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-1445.apk",
+    "sha256": "02c4272c8a99dc1dc72c136afb4008e72047beb79b153362c4117d30cb96449f",
+    "kichThuoc": 1428467,
+    "ghiChu": "Chặn crash: lỗi khi vẽ không còn làm tắt game, hiện thông báo lỗi để gửi admin",
+    "ngay": "2026-10-23 16:21"
   },
   "pc": {
     "ban": 24,
