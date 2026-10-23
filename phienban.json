@@ -8,12 +8,12 @@
     "ngay": "2026-10-23 12:30"
   },
   "android": {
-    "ban": 1442,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-1442.apk",
-    "sha256": "5ecc026ec4eef7adf9afa3deed23e563ebec826df5fd2dea234bf74c8a201df4",
-    "kichThuoc": 1427399,
-    "ghiChu": "Mua nguyen lieu theo so luong (toi da 20.000), o nhap so luong khi mua lo nguyen lieu o gian hang",
-    "ngay": "2026-10-23 12:30"
+    "ban": 1443,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-1443.apk",
+    "sha256": "7d6ea9ec839090bcc29971f265df775fb7b67a196cae5904e922efcd1cbb1166",
+    "kichThuoc": 1427907,
+    "ghiChu": "Mua theo so luong o cua hang dac biet (Gian hang NPC), toi da 20.000",
+    "ngay": "2026-10-23 12:42"
   },
   "pc": {
     "ban": 23,
