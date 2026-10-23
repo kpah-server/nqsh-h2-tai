@@ -8,12 +8,12 @@
     "ngay": "2026-10-18 17:51"
   },
   "android": {
-    "ban": 1441,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-1441.apk",
-    "sha256": "16ee181339ccd6413093fde3ea1a671ed505bdfb320cb7c06ecee3560e1419b8",
-    "kichThuoc": 1426647,
-    "ghiChu": "Sua joystick: bam mui ten len nhan vat chi quay mat khong di",
-    "ngay": "2026-10-23 01:05"
+    "ban": 1442,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-1442.apk",
+    "sha256": "5ecc026ec4eef7adf9afa3deed23e563ebec826df5fd2dea234bf74c8a201df4",
+    "kichThuoc": 1427399,
+    "ghiChu": "Mua nguyen lieu theo so luong (toi da 20.000), o nhap so luong khi mua lo nguyen lieu o gian hang",
+    "ngay": "2026-10-23 12:30"
   },
   "pc": {
     "ban": 23,
