@@ -1,11 +1,11 @@
 {
   "jar": {
-    "ban": 1014,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-v1014.jar",
-    "sha256": "9aa7ae5567e48181b3977f0863f8524a3ea2960f7980e3fc230050422ea4aa91",
-    "kichThuoc": 1156976,
-    "ghiChu": "Them muc 'Nut tren man hinh' trong menu mod (an/hien tung nut noi)",
-    "ngay": "2026-10-23 13:08"
+    "ban": 1015,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-v1015.jar",
+    "sha256": "562500e13aa1bf402efca621838454c88922bd1693ef0d9a3c5125c88ccf8446",
+    "kichThuoc": 1157060,
+    "ghiChu": "Sửa mua nguyên liệu số lượng lớn bị ngắt kết nối, màn chọn nhân vật, vận tiêu/auto up",
+    "ngay": "2026-10-23 18:30"
   },
   "android": {
     "ban": 1446,
