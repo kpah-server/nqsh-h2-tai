@@ -8,12 +8,12 @@
     "ngay": "2026-10-23 13:08"
   },
   "android": {
-    "ban": 1443,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-1443.apk",
-    "sha256": "7d6ea9ec839090bcc29971f265df775fb7b67a196cae5904e922efcd1cbb1166",
-    "kichThuoc": 1427907,
-    "ghiChu": "Mua theo so luong o cua hang dac biet (Gian hang NPC), toi da 20.000",
-    "ngay": "2026-10-23 12:42"
+    "ban": 1444,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-1444.apk",
+    "sha256": "47ac346e9c7ce330a00fe191cb65e29068f46b43dde007f970d53f7388430f10",
+    "kichThuoc": 1427915,
+    "ghiChu": "Sửa NPC (lính gác, Phú ông...) bị nhoè / lệch hình trên Android",
+    "ngay": "2026-10-23 16:11"
   },
   "pc": {
     "ban": 24,
