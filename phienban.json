@@ -1,11 +1,11 @@
 {
   "jar": {
-    "ban": 1010,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-v1010.jar",
-    "sha256": "b5b337e5af84ee9ba0b3e1a200c33d2bd3f1a2ecd60fd7691296485cc4c76341",
-    "kichThuoc": 1154453,
-    "ghiChu": "Mua nguyen lieu theo so luong (toi da 20.000), o nhap so luong khi mua lo nguyen lieu o gian hang",
-    "ngay": "2026-10-23 12:30"
+    "ban": 1012,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-v1012.jar",
+    "sha256": "df143bd2858108e7b7e6c7fea7ad90c6e88ccae9ee0562ef199229fb75c97def",
+    "kichThuoc": 1155799,
+    "ghiChu": "Mua theo so luong o cua hang dac biet (Gian hang NPC), toi da 20.000",
+    "ngay": "2026-10-23 12:43"
   },
   "android": {
     "ban": 1443,
