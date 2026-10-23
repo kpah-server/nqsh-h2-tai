@@ -1,11 +1,11 @@
 {
   "jar": {
-    "ban": 1012,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-v1012.jar",
-    "sha256": "df143bd2858108e7b7e6c7fea7ad90c6e88ccae9ee0562ef199229fb75c97def",
-    "kichThuoc": 1155799,
-    "ghiChu": "Mua theo so luong o cua hang dac biet (Gian hang NPC), toi da 20.000",
-    "ngay": "2026-10-23 12:43"
+    "ban": 1014,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-v1014.jar",
+    "sha256": "9aa7ae5567e48181b3977f0863f8524a3ea2960f7980e3fc230050422ea4aa91",
+    "kichThuoc": 1156976,
+    "ghiChu": "Them muc 'Nut tren man hinh' trong menu mod (an/hien tung nut noi)",
+    "ngay": "2026-10-23 13:08"
   },
   "android": {
     "ban": 1443,
