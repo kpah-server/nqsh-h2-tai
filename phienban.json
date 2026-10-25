@@ -112,12 +112,12 @@
     "ngay": "2026-10-25 05:18"
   },
   "pc_up": {
-    "ban": 27,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-Up-PC-27.zip",
-    "sha256": "22bb4d2f9d8b2a8c13984620b55380aa436f9efb4a247ea64946f91335559982",
-    "kichThuoc": 30244917,
-    "ghiChu": "NQSH-H2 tách thành 4 phiên bản: Chế Đồ, Up, PK, Đi Tiêu",
-    "ngay": "2026-10-25 05:32"
+    "ban": 28,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-Up-PC-28.zip",
+    "sha256": "9900cf18c4b355ab923a0c34f76d5c16ef59ed4fc3a1515317ddd6de2ba93679",
+    "kichThuoc": 30249373,
+    "ghiChu": "Auto up chế độ di chuyển: đi mượt hơn, hết chạy giật zig-zag",
+    "ngay": "2026-10-25 07:11"
   },
   "ios_chedo": {
     "ban": 1,
