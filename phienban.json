@@ -64,12 +64,12 @@
     "ngay": "2026-10-25 05:17"
   },
   "android_up": {
-    "ban": 1448,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-Up-1448.apk",
-    "sha256": "5a1e8c7d0528e3c6f23313b7c836da50e8fa56e57f011e6ac7ba302007821c06",
-    "kichThuoc": 1413307,
-    "ghiChu": "Auto up chế độ di chuyển: đi mượt hơn, hết chạy giật zig-zag",
-    "ngay": "2026-10-25 07:11"
+    "ban": 1449,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-Up-1449.apk",
+    "sha256": "ed521cde0f045e6089a291fb73dfd4ba035214f5ddf8adb7bad2366125a12e1b",
+    "kichThuoc": 1413331,
+    "ghiChu": "Auto up chế độ di chuyển: đi mượt, đi thẳng rồi rẽ, không quay đầu",
+    "ngay": "2026-10-25 07:30"
   },
   "android_pk": {
     "ban": 1447,
