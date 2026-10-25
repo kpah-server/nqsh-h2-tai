@@ -142,5 +142,13 @@
     "kichThuoc": 20306632,
     "ghiChu": "Bản iOS đầu tiên của NQSH-H2",
     "ngay": "2026-10-25 06:43"
+  },
+  "ios_ditieu": {
+    "ban": 1,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-DiTieu-1.ipa",
+    "sha256": "4fa7fe4bbc2f4869103af33aec5b0c3e47f96145cc41691c0441a8d0292da13d",
+    "kichThuoc": 20306885,
+    "ghiChu": "Bản iOS đầu tiên của NQSH-H2",
+    "ngay": "2026-10-25 06:43"
   }
 }
