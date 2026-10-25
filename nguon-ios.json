@@ -43,12 +43,12 @@
       "category": "games",
       "versions": [
         {
-          "version": "2",
-          "buildVersion": "2",
-          "date": "2026-10-25T07:58:00Z",
-          "localizedDescription": "Auto up chế độ di chuyển: đi mượt, đi thẳng rồi rẽ, không quay đầu",
-          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-Up-2.ipa",
-          "size": 20312052,
+          "version": "3",
+          "buildVersion": "3",
+          "date": "2026-10-25T16:06:00Z",
+          "localizedDescription": "Thêm Về làng; sửa chữ bị mất; bản Up: auto quay số, tự mặc phụ kiện, khoá vị trí, lọc đồ",
+          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-Up-3.ipa",
+          "size": 20340786,
           "minOSVersion": "15.0"
         }
       ],
