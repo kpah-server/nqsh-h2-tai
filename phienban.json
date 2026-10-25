@@ -128,12 +128,12 @@
     "ngay": "2026-10-25 16:06"
   },
   "ios_up": {
-    "ban": 2,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-Up-2.ipa",
-    "sha256": "5ebfcf2120fdad7de7e5188ef5a43cbcf3a026314baf47531eb3463f35e914d8",
-    "kichThuoc": 20312052,
-    "ghiChu": "Auto up chế độ di chuyển: đi mượt, đi thẳng rồi rẽ, không quay đầu",
-    "ngay": "2026-10-25 07:58"
+    "ban": 3,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-Up-3.ipa",
+    "sha256": "e42055e47b37019ff9797ea5ea74212b6eb57db05efd5259c8e2873694eae79d",
+    "kichThuoc": 20340786,
+    "ghiChu": "Thêm Về làng; sửa chữ bị mất; bản Up: auto quay số, tự mặc phụ kiện, khoá vị trí, lọc đồ",
+    "ngay": "2026-10-25 16:06"
   },
   "ios_pk": {
     "ban": 1,
