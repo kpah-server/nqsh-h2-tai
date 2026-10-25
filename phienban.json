@@ -56,12 +56,12 @@
     "ngay": "2026-10-25 14:57"
   },
   "android_chedo": {
-    "ban": 1447,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-CheDo-1447.apk",
-    "sha256": "f6731f1ceb7173c7f2b21c35a267c77a285697b50f469e5475e7f89ab8533792",
-    "kichThuoc": 1409055,
-    "ghiChu": "NQSH-H2 tách thành 4 phiên bản: Chế Đồ, Up, PK, Đi Tiêu",
-    "ngay": "2026-10-25 05:17"
+    "ban": 1450,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-CheDo-1450.apk",
+    "sha256": "6508c6d7453d8d03167493d5f27fe27de2982afd9a69bec8a2f01f64a1c4f48a",
+    "kichThuoc": 1409187,
+    "ghiChu": "Thêm Về làng trong Tiện ích; sửa chữ bị mất trong menu",
+    "ngay": "2026-10-25 14:58"
   },
   "android_up": {
     "ban": 1449,
