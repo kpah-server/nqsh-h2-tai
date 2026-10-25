@@ -120,12 +120,12 @@
     "ngay": "2026-10-25 15:35"
   },
   "ios_chedo": {
-    "ban": 1,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-CheDo-1.ipa",
-    "sha256": "e69d9ad57c3c6e2ced8499815425e33178206f3dc50aaa55482fed4d9b52dd1f",
-    "kichThuoc": 20306668,
-    "ghiChu": "Bản iOS đầu tiên của NQSH-H2",
-    "ngay": "2026-10-25 06:42"
+    "ban": 3,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-CheDo-3.ipa",
+    "sha256": "247f4e47f95a2b92aa4de2698041e308f8a097b8356b76ed2b3a23ed78c57316",
+    "kichThuoc": 20340831,
+    "ghiChu": "Thêm Về làng; sửa chữ bị mất; bản Up: auto quay số, tự mặc phụ kiện, khoá vị trí, lọc đồ",
+    "ngay": "2026-10-25 16:06"
   },
   "ios_up": {
     "ban": 2,
