@@ -1,11 +1,11 @@
 {
   "jar": {
-    "ban": 1015,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-v1015.jar",
-    "sha256": "562500e13aa1bf402efca621838454c88922bd1693ef0d9a3c5125c88ccf8446",
-    "kichThuoc": 1157060,
-    "ghiChu": "Sửa mua nguyên liệu số lượng lớn bị ngắt kết nối, màn chọn nhân vật, vận tiêu/auto up",
-    "ngay": "2026-10-23 18:30"
+    "ban": 1016,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1016.jar",
+    "sha256": "f9afbab091f7d0ec202c1602e8d0b45215f9a2dd5c3f276400f9f6325d71cc9f",
+    "kichThuoc": 1172410,
+    "ghiChu": "NQSH-H2 tách thành 4 phiên bản: Chế Đồ, Up, PK, Đi Tiêu",
+    "ngay": "2026-10-25 05:17"
   },
   "android": {
     "ban": 1446,
@@ -22,5 +22,13 @@
     "kichThuoc": 30241665,
     "ghiChu": "Sửa lỗi: mua nguyên liệu số lượng lớn bị ngắt kết nối, vận tiêu/auto up, màn chọn nhân vật",
     "ngay": "2026-10-23 11:47"
+  },
+  "jar_chedo": {
+    "ban": 1016,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1016.jar",
+    "sha256": "f9afbab091f7d0ec202c1602e8d0b45215f9a2dd5c3f276400f9f6325d71cc9f",
+    "kichThuoc": 1172410,
+    "ghiChu": "NQSH-H2 tách thành 4 phiên bản: Chế Đồ, Up, PK, Đi Tiêu",
+    "ngay": "2026-10-25 05:17"
   }
 }
