@@ -96,12 +96,12 @@
     "ngay": "2026-10-25 14:58"
   },
   "pc_pk": {
-    "ban": 30,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-PK-PC-30.zip",
-    "sha256": "73df5f00227f8a9f9e0d5da519243b59d180b166a91ac89b541c7ed1512f8b4f",
-    "kichThuoc": 30248944,
-    "ghiChu": "Có trình cài đặt .exe",
-    "ngay": "2026-10-25 13:53"
+    "ban": 31,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-PK-PC-31.zip",
+    "sha256": "7bcd2bdecd4053bcc75a322338de58659b0736efd5eb5257b2bd97b13fa0332e",
+    "kichThuoc": 30249644,
+    "ghiChu": "Thêm Về làng trong Tiện ích; sửa chữ bị mất trong menu",
+    "ngay": "2026-10-25 14:58"
   },
   "pc_ditieu": {
     "ban": 30,
