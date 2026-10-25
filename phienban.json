@@ -64,12 +64,12 @@
     "ngay": "2026-10-25 14:58"
   },
   "android_up": {
-    "ban": 1451,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-Up-1451.apk",
-    "sha256": "1e4dfd05707244bd5a6102f686053ce8604b057f9cef772b3f5840fceb01d854",
-    "kichThuoc": 1418079,
-    "ghiChu": "Bản Up: auto quay số, tự mặc phụ kiện, khoá vị trí, lọc đồ / auto lọc rác",
-    "ngay": "2026-10-25 15:13"
+    "ban": 1452,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-Up-1452.apk",
+    "sha256": "85d037d236dca1a07cfa385fddb584c076d3990f6f8e99f7f969a0a7f8e0741b",
+    "kichThuoc": 1418303,
+    "ghiChu": "Khoá vị trí: bị đẩy / lệch khỏi chỗ khoá là tự về ngay",
+    "ngay": "2026-10-25 15:35"
   },
   "android_pk": {
     "ban": 1450,
