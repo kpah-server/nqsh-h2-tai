@@ -136,12 +136,12 @@
     "ngay": "2026-10-25 16:06"
   },
   "ios_pk": {
-    "ban": 1,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-PK-1.ipa",
-    "sha256": "cc51072114a7d84b8e6e8a9fc5392ce76d23ff9976cdc55cd43d8b86d46a9bbf",
-    "kichThuoc": 20306632,
-    "ghiChu": "Bản iOS đầu tiên của NQSH-H2",
-    "ngay": "2026-10-25 06:43"
+    "ban": 4,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-PK-4.ipa",
+    "sha256": "927bd27a932d6a0f6e24a928f6ffe138fc3a232f15066eebb8004190b11e777b",
+    "kichThuoc": 20340782,
+    "ghiChu": "Thêm Về làng; sửa chữ bị mất",
+    "ngay": "2026-10-25 16:21"
   },
   "ios_ditieu": {
     "ban": 1,
