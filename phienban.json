@@ -1,11 +1,11 @@
 {
   "jar": {
-    "ban": 1017,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-Up-v1017.jar",
-    "sha256": "e08d28aee0add45c2afb0b9765ae19454a8c96e383db6e2f75a6bbfbd0325f43",
-    "kichThuoc": 1172534,
-    "ghiChu": "Auto up chế độ di chuyển: đi mượt hơn, hết chạy giật zig-zag",
-    "ngay": "2026-10-25 07:11"
+    "ban": 1018,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-Up-v1018.jar",
+    "sha256": "40cf25776f0dd85a5c1500c180cc4cead3a64830faf54f696a820ab3a3bf346e",
+    "kichThuoc": 1172559,
+    "ghiChu": "Auto up chế độ di chuyển: đi mượt, đi thẳng rồi rẽ, không quay đầu",
+    "ngay": "2026-10-25 07:30"
   },
   "android": {
     "ban": 1446,
@@ -32,12 +32,12 @@
     "ngay": "2026-10-25 05:17"
   },
   "jar_up": {
-    "ban": 1017,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-Up-v1017.jar",
-    "sha256": "e08d28aee0add45c2afb0b9765ae19454a8c96e383db6e2f75a6bbfbd0325f43",
-    "kichThuoc": 1172534,
-    "ghiChu": "Auto up chế độ di chuyển: đi mượt hơn, hết chạy giật zig-zag",
-    "ngay": "2026-10-25 07:11"
+    "ban": 1018,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-Up-v1018.jar",
+    "sha256": "40cf25776f0dd85a5c1500c180cc4cead3a64830faf54f696a820ab3a3bf346e",
+    "kichThuoc": 1172559,
+    "ghiChu": "Auto up chế độ di chuyển: đi mượt, đi thẳng rồi rẽ, không quay đầu",
+    "ngay": "2026-10-25 07:30"
   },
   "jar_pk": {
     "ban": 1016,
