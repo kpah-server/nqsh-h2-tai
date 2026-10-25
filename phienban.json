@@ -38,5 +38,13 @@
     "kichThuoc": 1172408,
     "ghiChu": "NQSH-H2 tách thành 4 phiên bản: Chế Đồ, Up, PK, Đi Tiêu",
     "ngay": "2026-10-25 05:17"
+  },
+  "jar_pk": {
+    "ban": 1016,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-PK-v1016.jar",
+    "sha256": "a363de79b72b36571a97b9c6dfa560457db313445e846163b636b6c2c02e9eb7",
+    "kichThuoc": 1172407,
+    "ghiChu": "NQSH-H2 tách thành 4 phiên bản: Chế Đồ, Up, PK, Đi Tiêu",
+    "ngay": "2026-10-25 05:17"
   }
 }
