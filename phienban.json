@@ -1,11 +1,11 @@
 {
   "jar": {
-    "ban": 1019,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1019.jar",
-    "sha256": "08f9eb7f76c201c33674cf3bc7a1fb5aa05cca6cd35e0abdedbf7c4a7ca1c232",
-    "kichThuoc": 1172937,
-    "ghiChu": "Thêm Về làng trong Tiện ích; sửa chữ bị mất trong menu",
-    "ngay": "2026-10-25 14:57"
+    "ban": 1020,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-Up-v1020.jar",
+    "sha256": "ff53a20f6fd159719d4256110eca91b747784b39a5fae906eed0f634c4a78d0f",
+    "kichThuoc": 1188478,
+    "ghiChu": "Bản Up: auto quay số, tự mặc phụ kiện, khoá vị trí, lọc đồ / auto lọc rác",
+    "ngay": "2026-10-25 15:13"
   },
   "android": {
     "ban": 1446,
@@ -32,12 +32,12 @@
     "ngay": "2026-10-25 14:57"
   },
   "jar_up": {
-    "ban": 1019,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-Up-v1019.jar",
-    "sha256": "e40ee46ea6dc1f7388b2552df06c1b30a7ca3618d20ddec48c382abf136e1efa",
-    "kichThuoc": 1172935,
-    "ghiChu": "Thêm Về làng trong Tiện ích; sửa chữ bị mất trong menu",
-    "ngay": "2026-10-25 14:57"
+    "ban": 1020,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-Up-v1020.jar",
+    "sha256": "ff53a20f6fd159719d4256110eca91b747784b39a5fae906eed0f634c4a78d0f",
+    "kichThuoc": 1188478,
+    "ghiChu": "Bản Up: auto quay số, tự mặc phụ kiện, khoá vị trí, lọc đồ / auto lọc rác",
+    "ngay": "2026-10-25 15:13"
   },
   "jar_pk": {
     "ban": 1019,
