@@ -118,5 +118,13 @@
     "kichThuoc": 30244917,
     "ghiChu": "NQSH-H2 tách thành 4 phiên bản: Chế Đồ, Up, PK, Đi Tiêu",
     "ngay": "2026-10-25 05:32"
+  },
+  "ios_chedo": {
+    "ban": 1,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-CheDo-1.ipa",
+    "sha256": "e69d9ad57c3c6e2ced8499815425e33178206f3dc50aaa55482fed4d9b52dd1f",
+    "kichThuoc": 20306668,
+    "ghiChu": "Bản iOS đầu tiên của NQSH-H2",
+    "ngay": "2026-10-25 06:42"
   }
 }
