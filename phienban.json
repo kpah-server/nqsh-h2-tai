@@ -112,12 +112,12 @@
     "ngay": "2026-10-25 14:58"
   },
   "pc_up": {
-    "ban": 32,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-Up-PC-32.zip",
-    "sha256": "20401d114c8bfef9e866197221be6b7f3f614b09c078f0833ad8c93925ad5a98",
-    "kichThuoc": 30268011,
-    "ghiChu": "Bản Up: auto quay số, tự mặc phụ kiện, khoá vị trí, lọc đồ / auto lọc rác",
-    "ngay": "2026-10-25 15:13"
+    "ban": 33,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-Up-PC-33.zip",
+    "sha256": "35a7b5d02c63b52416f306dd6f7d7ba385a309481ad99e5c05130435e4608ec4",
+    "kichThuoc": 30269812,
+    "ghiChu": "Khoá vị trí: bị đẩy / lệch khỏi chỗ khoá là tự về ngay",
+    "ngay": "2026-10-25 15:35"
   },
   "ios_chedo": {
     "ban": 1,
