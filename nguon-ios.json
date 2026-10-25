@@ -1,0 +1,112 @@
+{
+  "name": "NQSH-H2",
+  "identifier": "top.nqsh-h2.ios",
+  "subtitle": "Khí Phách Anh Hùng - máy chủ NQSH-H2",
+  "description": "4 bản NQSH-H2 cho iPhone: Chế Đồ, Up, PK, Đi Tiêu.",
+  "iconURL": "https://raw.githubusercontent.com/kpah-server/nqsh-h2-tai/main/icon.png",
+  "website": "https://nqsh-h2.top/download",
+  "tintColor": "#F9C02A",
+  "apps": [
+    {
+      "name": "NQSH-H2 Chế Đồ",
+      "bundleIdentifier": "com.nqsh.h2.chedo",
+      "developerName": "NQSH-H2",
+      "subtitle": "Chế đồ nhanh + dòng ẩn trang bị",
+      "localizedDescription": "Khí Phách Anh Hùng - máy chủ NQSH-H2, bản Chế Đồ: Chế đồ nhanh + dòng ẩn trang bị. Các tiện ích chung: Xa phu, Vận may, Hiệu ứng, Tiện ích, Nút trên màn hình. Hướng dẫn: https://nqsh-h2.top/news/huong-dan-cai-ios",
+      "iconURL": "https://raw.githubusercontent.com/kpah-server/nqsh-h2-tai/main/icon.png",
+      "tintColor": "#F9C02A",
+      "category": "games",
+      "versions": [
+        {
+          "version": "1",
+          "buildVersion": "1",
+          "date": "2026-10-25T06:42:00Z",
+          "localizedDescription": "Bản iOS đầu tiên của NQSH-H2",
+          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-CheDo-1.ipa",
+          "size": 20306668,
+          "minOSVersion": "15.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "NQSH-H2 Up",
+      "bundleIdentifier": "com.nqsh.h2.up",
+      "developerName": "NQSH-H2",
+      "subtitle": "Auto up: tự đánh quái, mời/nhận party, mua bình",
+      "localizedDescription": "Khí Phách Anh Hùng - máy chủ NQSH-H2, bản Up: Auto up: tự đánh quái, mời/nhận party, mua bình. Các tiện ích chung: Xa phu, Vận may, Hiệu ứng, Tiện ích, Nút trên màn hình. Hướng dẫn: https://nqsh-h2.top/news/huong-dan-cai-ios",
+      "iconURL": "https://raw.githubusercontent.com/kpah-server/nqsh-h2-tai/main/icon.png",
+      "tintColor": "#F9C02A",
+      "category": "games",
+      "versions": [
+        {
+          "version": "2",
+          "buildVersion": "2",
+          "date": "2026-10-25T07:58:00Z",
+          "localizedDescription": "Auto up chế độ di chuyển: đi mượt, đi thẳng rồi rẽ, không quay đầu",
+          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-Up-2.ipa",
+          "size": 20312052,
+          "minOSVersion": "15.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "NQSH-H2 PK",
+      "bundleIdentifier": "com.nqsh.h2.pk",
+      "developerName": "NQSH-H2",
+      "subtitle": "Công cụ PK: phím tắt, Mã PK, tự hồi HP/MP",
+      "localizedDescription": "Khí Phách Anh Hùng - máy chủ NQSH-H2, bản PK: Công cụ PK: phím tắt, Mã PK, tự hồi HP/MP. Các tiện ích chung: Xa phu, Vận may, Hiệu ứng, Tiện ích, Nút trên màn hình. Hướng dẫn: https://nqsh-h2.top/news/huong-dan-cai-ios",
+      "iconURL": "https://raw.githubusercontent.com/kpah-server/nqsh-h2-tai/main/icon.png",
+      "tintColor": "#F9C02A",
+      "category": "games",
+      "versions": [
+        {
+          "version": "1",
+          "buildVersion": "1",
+          "date": "2026-10-25T06:43:00Z",
+          "localizedDescription": "Bản iOS đầu tiên của NQSH-H2",
+          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-PK-1.ipa",
+          "size": 20306632,
+          "minOSVersion": "15.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "NQSH-H2 Đi Tiêu",
+      "bundleIdentifier": "com.nqsh.h2.ditieu",
+      "developerName": "NQSH-H2",
+      "subtitle": "Auto vận tiêu: tự nhận, chạy và trả tiêu",
+      "localizedDescription": "Khí Phách Anh Hùng - máy chủ NQSH-H2, bản Đi Tiêu: Auto vận tiêu: tự nhận, chạy và trả tiêu. Các tiện ích chung: Xa phu, Vận may, Hiệu ứng, Tiện ích, Nút trên màn hình. Hướng dẫn: https://nqsh-h2.top/news/huong-dan-cai-ios",
+      "iconURL": "https://raw.githubusercontent.com/kpah-server/nqsh-h2-tai/main/icon.png",
+      "tintColor": "#F9C02A",
+      "category": "games",
+      "versions": [
+        {
+          "version": "1",
+          "buildVersion": "1",
+          "date": "2026-10-25T06:43:00Z",
+          "localizedDescription": "Bản iOS đầu tiên của NQSH-H2",
+          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-DiTieu-1.ipa",
+          "size": 20306885,
+          "minOSVersion": "15.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    }
+  ],
+  "news": []
+}
