@@ -1,11 +1,11 @@
 {
   "jar": {
-    "ban": 1016,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1016.jar",
-    "sha256": "f9afbab091f7d0ec202c1602e8d0b45215f9a2dd5c3f276400f9f6325d71cc9f",
-    "kichThuoc": 1172410,
-    "ghiChu": "NQSH-H2 tách thành 4 phiên bản: Chế Đồ, Up, PK, Đi Tiêu",
-    "ngay": "2026-10-25 05:17"
+    "ban": 1017,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-Up-v1017.jar",
+    "sha256": "e08d28aee0add45c2afb0b9765ae19454a8c96e383db6e2f75a6bbfbd0325f43",
+    "kichThuoc": 1172534,
+    "ghiChu": "Auto up chế độ di chuyển: đi mượt hơn, hết chạy giật zig-zag",
+    "ngay": "2026-10-25 07:11"
   },
   "android": {
     "ban": 1446,
@@ -32,12 +32,12 @@
     "ngay": "2026-10-25 05:17"
   },
   "jar_up": {
-    "ban": 1016,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-Up-v1016.jar",
-    "sha256": "8c3ad4ca679159f301123b3b1a846d1126f4a29cfc9fb3dc2d538008b209b895",
-    "kichThuoc": 1172408,
-    "ghiChu": "NQSH-H2 tách thành 4 phiên bản: Chế Đồ, Up, PK, Đi Tiêu",
-    "ngay": "2026-10-25 05:17"
+    "ban": 1017,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-Up-v1017.jar",
+    "sha256": "e08d28aee0add45c2afb0b9765ae19454a8c96e383db6e2f75a6bbfbd0325f43",
+    "kichThuoc": 1172534,
+    "ghiChu": "Auto up chế độ di chuyển: đi mượt hơn, hết chạy giật zig-zag",
+    "ngay": "2026-10-25 07:11"
   },
   "jar_pk": {
     "ban": 1016,
