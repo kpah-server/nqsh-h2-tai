@@ -96,12 +96,12 @@
     "ngay": "2026-10-25 13:53"
   },
   "pc_pk": {
-    "ban": 26,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-PK-PC-26.zip",
-    "sha256": "058997fd40a24168e428849904b0a193dd2d3fffea7d635fbac6b016af3a01ba",
-    "kichThuoc": 30244914,
-    "ghiChu": "NQSH-H2 tách thành 4 phiên bản: Chế Đồ, Up, PK, Đi Tiêu",
-    "ngay": "2026-10-25 05:18"
+    "ban": 30,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-PK-PC-30.zip",
+    "sha256": "73df5f00227f8a9f9e0d5da519243b59d180b166a91ac89b541c7ed1512f8b4f",
+    "kichThuoc": 30248944,
+    "ghiChu": "Có trình cài đặt .exe",
+    "ngay": "2026-10-25 13:53"
   },
   "pc_ditieu": {
     "ban": 26,
