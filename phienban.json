@@ -112,12 +112,12 @@
     "ngay": "2026-10-25 05:18"
   },
   "pc_up": {
-    "ban": 29,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-Up-PC-29.zip",
-    "sha256": "267b22c44bdf9773233e432aa886e80959c410c4f0bb74d5b56e5cd56d2231d1",
-    "kichThuoc": 30248945,
-    "ghiChu": "Auto up chế độ di chuyển: đi mượt, đi thẳng rồi rẽ, không quay đầu",
-    "ngay": "2026-10-25 07:30"
+    "ban": 30,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-Up-PC-30.zip",
+    "sha256": "5a567741dc078b1504b24ca157797263c207783956c803ec3b406d0affffa5e6",
+    "kichThuoc": 30248946,
+    "ghiChu": "Có trình cài đặt .exe",
+    "ngay": "2026-10-25 13:53"
   },
   "ios_chedo": {
     "ban": 1,
