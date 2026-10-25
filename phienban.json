@@ -64,12 +64,12 @@
     "ngay": "2026-10-25 05:17"
   },
   "android_up": {
-    "ban": 1447,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-Up-1447.apk",
-    "sha256": "79e5fdcef14bc2eb578de058e1c1a452ec4ae92319794c38d2d12f0b6fc6fda3",
-    "kichThuoc": 1413191,
-    "ghiChu": "NQSH-H2 tách thành 4 phiên bản: Chế Đồ, Up, PK, Đi Tiêu",
-    "ngay": "2026-10-25 05:17"
+    "ban": 1448,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-Up-1448.apk",
+    "sha256": "5a1e8c7d0528e3c6f23313b7c836da50e8fa56e57f011e6ac7ba302007821c06",
+    "kichThuoc": 1413307,
+    "ghiChu": "Auto up chế độ di chuyển: đi mượt hơn, hết chạy giật zig-zag",
+    "ngay": "2026-10-25 07:11"
   },
   "android_pk": {
     "ban": 1447,
