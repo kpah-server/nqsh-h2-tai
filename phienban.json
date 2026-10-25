@@ -62,5 +62,13 @@
     "kichThuoc": 1409055,
     "ghiChu": "NQSH-H2 tách thành 4 phiên bản: Chế Đồ, Up, PK, Đi Tiêu",
     "ngay": "2026-10-25 05:17"
+  },
+  "android_up": {
+    "ban": 1447,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-Up-1447.apk",
+    "sha256": "79e5fdcef14bc2eb578de058e1c1a452ec4ae92319794c38d2d12f0b6fc6fda3",
+    "kichThuoc": 1413191,
+    "ghiChu": "NQSH-H2 tách thành 4 phiên bản: Chế Đồ, Up, PK, Đi Tiêu",
+    "ngay": "2026-10-25 05:17"
   }
 }
