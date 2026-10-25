@@ -68,12 +68,12 @@
       "category": "games",
       "versions": [
         {
-          "version": "1",
-          "buildVersion": "1",
-          "date": "2026-10-25T06:43:00Z",
-          "localizedDescription": "Bản iOS đầu tiên của NQSH-H2",
-          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-PK-1.ipa",
-          "size": 20306632,
+          "version": "4",
+          "buildVersion": "4",
+          "date": "2026-10-25T16:21:00Z",
+          "localizedDescription": "Thêm Về làng; sửa chữ bị mất",
+          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-PK-4.ipa",
+          "size": 20340782,
           "minOSVersion": "15.0"
         }
       ],
