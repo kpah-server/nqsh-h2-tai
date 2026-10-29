@@ -93,12 +93,12 @@
       "category": "games",
       "versions": [
         {
-          "version": "5",
-          "buildVersion": "5",
-          "date": "2026-10-25T16:31:00Z",
-          "localizedDescription": "Thêm Về làng; sửa chữ bị mất",
-          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-DiTieu-5.ipa",
-          "size": 20341041,
+          "version": "8",
+          "buildVersion": "8",
+          "date": "2026-10-29T13:06:00Z",
+          "localizedDescription": "Đi tiêu theo đúng bản gốc: nháy mỗi điểm dừng, # nháy map, * dừng, nhận đúng xe của mình, Biên giới về làng chuẩn",
+          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-DiTieu-8.ipa",
+          "size": 20379343,
           "minOSVersion": "15.0"
         }
       ],
