@@ -1,11 +1,11 @@
 {
   "jar": {
-    "ban": 1030,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1030.jar",
-    "sha256": "3e667d13b350654fce6f9e92ca2bc673e3bce0e2a4648398809520af91f27bba",
-    "kichThuoc": 1207556,
-    "ghiChu": "Cả 4 bản jar cùng số bản (hết báo có bản mới); Đi Tiêu đi nhanh hơn ~2 lần",
-    "ngay": "2026-10-29 15:12"
+    "ban": 1031,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1031.jar",
+    "sha256": "bd503c7bdfac23855b754f22bfba4fb622793c712f636e95fd647310a9add93a",
+    "kichThuoc": 1207609,
+    "ghiChu": "Sửa lỗi game tự thoát khi đang đi tiêu (nạp map liên tiếp)",
+    "ngay": "2026-10-29 16:34"
   },
   "android": {
     "ban": 1446,
@@ -24,12 +24,12 @@
     "ngay": "2026-10-23 11:47"
   },
   "jar_chedo": {
-    "ban": 1030,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1030.jar",
-    "sha256": "3e667d13b350654fce6f9e92ca2bc673e3bce0e2a4648398809520af91f27bba",
-    "kichThuoc": 1207556,
-    "ghiChu": "Cả 4 bản jar cùng số bản (hết báo có bản mới); Đi Tiêu đi nhanh hơn ~2 lần",
-    "ngay": "2026-10-29 15:12"
+    "ban": 1031,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1031.jar",
+    "sha256": "bd503c7bdfac23855b754f22bfba4fb622793c712f636e95fd647310a9add93a",
+    "kichThuoc": 1207609,
+    "ghiChu": "Sửa lỗi game tự thoát khi đang đi tiêu (nạp map liên tiếp)",
+    "ngay": "2026-10-29 16:34"
   },
   "jar_up": {
     "ban": 1030,
