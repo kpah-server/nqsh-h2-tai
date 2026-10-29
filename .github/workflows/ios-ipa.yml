@@ -1,0 +1,57 @@
+# Biên dịch .ipa (không ký) từ project Xcode do Unity xuất trên máy Windows (kpah-mod-pb/phat-hanh/ios-may.sh).
+# Repo public -> máy macOS của GitHub Actions miễn phí. Project Xcode chỉ nằm tạm ở release "ios-tam"
+# (đã dịch IL2CPP sang C++, không có mã nguồn C#) và bị xoá ngay sau khi biên dịch.
+name: Biên dịch iOS
+
+on:
+  workflow_dispatch:
+    inputs:
+      tep:
+        description: "File project Xcode (.tgz) trong release ios-tam"
+        required: true
+      ra:
+        description: "Tên file .ipa ra"
+        required: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: bien-dich-ios
+  cancel-in-progress: false
+
+jobs:
+  ipa:
+    runs-on: macos-15
+    timeout-minutes: 60
+    env:
+      GH_TOKEN: ${{ github.token }}
+      TEP: ${{ inputs.tep }}
+      RA: ${{ inputs.ra }}
+    steps:
+      - name: Tải project Xcode
+        run: |
+          case "$TEP" in *.tgz) ;; *) echo "::error::tep phai la .tgz"; exit 1 ;; esac
+          case "$RA" in *.ipa) ;; *) echo "::error::ra phai la .ipa"; exit 1 ;; esac
+          gh release download ios-tam -R "$GITHUB_REPOSITORY" -p "$TEP"
+          mkdir xcode && tar -xzf "$TEP" -C xcode
+      - name: xcodebuild (không ký)
+        working-directory: xcode
+        run: |
+          set -o pipefail
+          xcodebuild -project Unity-iPhone.xcodeproj -scheme Unity-iPhone \
+            -configuration Release -sdk iphoneos -destination 'generic/platform=iOS' \
+            -derivedDataPath ../dd \
+            CODE_SIGNING_ALLOWED=NO CODE_SIGNING_REQUIRED=NO CODE_SIGN_IDENTITY="" DEVELOPMENT_TEAM="" \
+            build | tail -n 200
+      - name: Tạo .ipa + đẩy lên ios-tam
+        run: |
+          APP=$(find dd/Build/Products/Release-iphoneos -maxdepth 1 -name '*.app' | head -n 1)
+          test -n "$APP"
+          mkdir Payload && cp -R "$APP" Payload/
+          zip -qry "$RA" Payload
+          ls -la "$RA"
+          gh release upload ios-tam -R "$GITHUB_REPOSITORY" "$RA" --clobber
+      - name: Xoá project Xcode
+        if: always()
+        run: gh release delete-asset ios-tam "$TEP" -R "$GITHUB_REPOSITORY" -y || true
