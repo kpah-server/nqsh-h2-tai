@@ -96,12 +96,12 @@
     "ngay": "2026-10-25 14:58"
   },
   "pc_pk": {
-    "ban": 37,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-PK-PC-37.zip",
-    "sha256": "3859f2a3bbb40f86f3fee51be250901b7b82d8a2ceeae48980380ec9d3a8fa3d",
-    "kichThuoc": 37609893,
-    "ghiChu": "Đi tiêu theo đúng bản gốc: nháy mỗi điểm dừng, # nháy map, * dừng, nhận đúng xe của mình, Biên giới về làng chuẩn",
-    "ngay": "2026-10-29 12:59"
+    "ban": 39,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-PK-PC-39.zip",
+    "sha256": "03b2cdadaca12ce74c47a8776be121afd30c68b22711d565c2ec653761461f13",
+    "kichThuoc": 37614074,
+    "ghiChu": "Bản PK như pksvip: form Cài Đặt & Auto, Mức độ sáng, Auto Mua, HUD, Đổi chữ, sửa phím *",
+    "ngay": "2026-10-29 17:43"
   },
   "pc_ditieu": {
     "ban": 38,
