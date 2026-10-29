@@ -72,12 +72,12 @@
     "ngay": "2026-10-29 16:36"
   },
   "android_pk": {
-    "ban": 1457,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-PK-1457.apk",
-    "sha256": "ea0bc4113d64f7ab05e77229fb30cd100f717903fa9a611b3abe8394c35f64d7",
-    "kichThuoc": 1420367,
-    "ghiChu": "Đi tiêu theo đúng bản gốc: nháy mỗi điểm dừng, # nháy map, * dừng, nhận đúng xe của mình, Biên giới về làng chuẩn",
-    "ngay": "2026-10-29 12:58"
+    "ban": 1459,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-PK-1459.apk",
+    "sha256": "4c099faf077e68fc7d15b029ac1957a9adfd05ab5244a25847261316f61421e5",
+    "kichThuoc": 1420391,
+    "ghiChu": "Sửa lỗi game tự thoát khi đang đi tiêu (nạp map liên tiếp)",
+    "ngay": "2026-10-29 16:37"
   },
   "android_ditieu": {
     "ban": 1458,
