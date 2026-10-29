@@ -96,12 +96,12 @@
     "ngay": "2026-10-25 14:58"
   },
   "pc_pk": {
-    "ban": 39,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-PK-PC-39.zip",
-    "sha256": "03b2cdadaca12ce74c47a8776be121afd30c68b22711d565c2ec653761461f13",
-    "kichThuoc": 37614074,
-    "ghiChu": "Bản PK như pksvip: form Cài Đặt & Auto, Mức độ sáng, Auto Mua, HUD, Đổi chữ, sửa phím *",
-    "ngay": "2026-10-29 17:43"
+    "ban": 40,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-PK-PC-40.zip",
+    "sha256": "f0417101313b428c33414c424dc4998580a013c7b785bd4227aa05d5ff3d6dbe",
+    "kichThuoc": 37617938,
+    "ghiChu": "Bản PK như pksvip: form Danh Sách Giao Thẻ / Cài Phím Thú-Pet / Cài Phím Mặc Đồ (jar), 6 kiểu bước chân, HUD không đè thanh tên",
+    "ngay": "2026-10-29 19:13"
   },
   "pc_ditieu": {
     "ban": 38,
