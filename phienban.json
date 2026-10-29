@@ -72,12 +72,12 @@
     "ngay": "2026-10-29 16:36"
   },
   "android_pk": {
-    "ban": 1459,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-PK-1459.apk",
-    "sha256": "4c099faf077e68fc7d15b029ac1957a9adfd05ab5244a25847261316f61421e5",
-    "kichThuoc": 1420391,
-    "ghiChu": "Sửa lỗi game tự thoát khi đang đi tiêu (nạp map liên tiếp)",
-    "ngay": "2026-10-29 16:37"
+    "ban": 1460,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-PK-1460.apk",
+    "sha256": "3a9552aa538bff116664298291d803a5244a7d0eb5cfd7a54a190b97c5d0bc2c",
+    "kichThuoc": 1424323,
+    "ghiChu": "Bản PK như pksvip: form Cài Đặt & Auto, Mức độ sáng, Auto Mua, HUD, Đổi chữ, sửa phím *",
+    "ngay": "2026-10-29 17:42"
   },
   "android_ditieu": {
     "ban": 1459,
