@@ -72,12 +72,12 @@
     "ngay": "2026-10-29 16:36"
   },
   "android_pk": {
-    "ban": 1461,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-PK-1461.apk",
-    "sha256": "e819987db08acd26464cef33074c413641f7ab1f65612ab12a8751b628840bdb",
-    "kichThuoc": 1427515,
-    "ghiChu": "Bản PK như pksvip: form Danh Sách Giao Thẻ / Cài Phím Thú-Pet / Cài Phím Mặc Đồ (jar), 6 kiểu bước chân, HUD không đè thanh tên",
-    "ngay": "2026-10-29 19:12"
+    "ban": 1462,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-PK-1462.apk",
+    "sha256": "1c38f786aa937fa7ac2a067b4be9119ce78395c66741f28d692fe88d5c2bfbf6",
+    "kichThuoc": 1428007,
+    "ghiChu": "Ngam muot, cai phim nhap ky tu #",
+    "ngay": "2026-10-30 00:53"
   },
   "android_ditieu": {
     "ban": 1459,
