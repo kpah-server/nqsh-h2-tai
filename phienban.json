@@ -104,12 +104,12 @@
     "ngay": "2026-10-29 12:59"
   },
   "pc_ditieu": {
-    "ban": 36,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-DiTieu-PC-36.zip",
-    "sha256": "2b23f62f57f4bf605d5afe28bb649aa11db32334acccc6a9e5525354dc645e0b",
-    "kichThuoc": 37610937,
-    "ghiChu": "Đi tiêu theo đúng bản gốc: nháy mỗi điểm dừng, # nháy map, * dừng, nhận đúng xe của mình, Biên giới về làng chuẩn",
-    "ngay": "2026-10-29 12:57"
+    "ban": 38,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-DiTieu-PC-38.zip",
+    "sha256": "a99c0ab46af40085d6df98ed35132b587db32f216242f71a4e47908cc382fb52",
+    "kichThuoc": 37610998,
+    "ghiChu": "Đi tiêu nhanh hơn ~2 lần: gửi vị trí trước khi nháy (hết giật lùi), bước dài hơn, bỏ các lần chờ thừa",
+    "ngay": "2026-10-29 15:00"
   },
   "pc_up": {
     "ban": 33,
