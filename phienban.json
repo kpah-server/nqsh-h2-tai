@@ -1,11 +1,11 @@
 {
   "jar": {
-    "ban": 1022,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-PK-v1022.jar",
-    "sha256": "2dcf3fc7c55dd172f23645b1d2d98230b09b006502cff3dc4250d3f6b7bf6363",
-    "kichThuoc": 1205687,
-    "ghiChu": "Bản PK: menu Vip TULA giống bản gốc - Chọn Người, Chọn Boss - Tiêu, Lia, GHIM VIP, Danh sách tên, Load map, Phím phụ kiện, Auto chat...",
-    "ngay": "2026-10-29 11:49"
+    "ban": 1023,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-PK-v1023.jar",
+    "sha256": "30ed032be908881f8a3fcfd8eabf335aca824a6232092f3832abc389f4857c28",
+    "kichThuoc": 1206744,
+    "ghiChu": "Bản PK: bỏ chức năng PK cũ, menu Vip TULA đưa ra ngoài như bản gốc",
+    "ngay": "2026-10-29 12:16"
   },
   "android": {
     "ban": 1446,
@@ -40,12 +40,12 @@
     "ngay": "2026-10-25 15:35"
   },
   "jar_pk": {
-    "ban": 1022,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-PK-v1022.jar",
-    "sha256": "2dcf3fc7c55dd172f23645b1d2d98230b09b006502cff3dc4250d3f6b7bf6363",
-    "kichThuoc": 1205687,
-    "ghiChu": "Bản PK: menu Vip TULA giống bản gốc - Chọn Người, Chọn Boss - Tiêu, Lia, GHIM VIP, Danh sách tên, Load map, Phím phụ kiện, Auto chat...",
-    "ngay": "2026-10-29 11:49"
+    "ban": 1023,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-PK-v1023.jar",
+    "sha256": "30ed032be908881f8a3fcfd8eabf335aca824a6232092f3832abc389f4857c28",
+    "kichThuoc": 1206744,
+    "ghiChu": "Bản PK: bỏ chức năng PK cũ, menu Vip TULA đưa ra ngoài như bản gốc",
+    "ngay": "2026-10-29 12:16"
   },
   "jar_ditieu": {
     "ban": 1019,
