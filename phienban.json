@@ -136,12 +136,12 @@
     "ngay": "2026-10-25 16:06"
   },
   "ios_pk": {
-    "ban": 7,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-PK-7.ipa",
-    "sha256": "ad83857c307eb0165adc45438d7a361deb7ef6372e49ad97da97173652007506",
-    "kichThuoc": 20373326,
-    "ghiChu": "Bản PK: bỏ chức năng PK cũ, menu Vip TULA đưa ra ngoài như bản gốc",
-    "ngay": "2026-10-29 12:24"
+    "ban": 9,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-PK-9.ipa",
+    "sha256": "2065c1063ab7653155777b85a172963aceb6ab8320b16d9a97494203c0f8bd68",
+    "kichThuoc": 20379080,
+    "ghiChu": "Đi tiêu theo đúng bản gốc: nháy mỗi điểm dừng, # nháy map, * dừng, nhận đúng xe của mình, Biên giới về làng chuẩn",
+    "ngay": "2026-10-29 13:12"
   },
   "ios_ditieu": {
     "ban": 8,
