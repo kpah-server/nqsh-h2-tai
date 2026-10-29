@@ -72,12 +72,12 @@
     "ngay": "2026-10-25 15:35"
   },
   "android_pk": {
-    "ban": 1454,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-PK-1454.apk",
-    "sha256": "4e456a38bfa9bd1825213b10c78dda62facf52b008b67a209ee6c9766de42385",
-    "kichThuoc": 1420019,
-    "ghiChu": "Bản PK: bỏ chức năng PK cũ, menu Vip TULA đưa ra ngoài như bản gốc",
-    "ngay": "2026-10-29 12:16"
+    "ban": 1457,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-PK-1457.apk",
+    "sha256": "ea0bc4113d64f7ab05e77229fb30cd100f717903fa9a611b3abe8394c35f64d7",
+    "kichThuoc": 1420367,
+    "ghiChu": "Đi tiêu theo đúng bản gốc: nháy mỗi điểm dừng, # nháy map, * dừng, nhận đúng xe của mình, Biên giới về làng chuẩn",
+    "ngay": "2026-10-29 12:58"
   },
   "android_ditieu": {
     "ban": 1456,
