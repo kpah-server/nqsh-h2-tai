@@ -32,12 +32,12 @@
     "ngay": "2026-10-29 16:34"
   },
   "jar_up": {
-    "ban": 1030,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-Up-v1030.jar",
-    "sha256": "401cea7c347002711458ad350c42977372dc2ff3f51d7bef0938be2d50e67983",
-    "kichThuoc": 1207554,
-    "ghiChu": "Cả 4 bản jar cùng số bản (hết báo có bản mới); Đi Tiêu đi nhanh hơn ~2 lần",
-    "ngay": "2026-10-29 15:12"
+    "ban": 1031,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-Up-v1031.jar",
+    "sha256": "199d0240e4ddbd7911c9da47b9d392768c9864e95244bf2902b5dd45e4089a02",
+    "kichThuoc": 1207607,
+    "ghiChu": "Sửa lỗi game tự thoát khi đang đi tiêu (nạp map liên tiếp)",
+    "ngay": "2026-10-29 16:34"
   },
   "jar_pk": {
     "ban": 1030,
