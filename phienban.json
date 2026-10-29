@@ -1,11 +1,11 @@
 {
   "jar": {
-    "ban": 1026,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-PK-v1026.jar",
-    "sha256": "6eb61f63df9f96c92821aa0cbc2e521805378cb7b3cebd54c0c6eba16507252c",
-    "kichThuoc": 1207514,
-    "ghiChu": "Đi tiêu theo đúng bản gốc: nháy mỗi điểm dừng, # nháy map, * dừng, nhận đúng xe của mình, Biên giới về làng chuẩn",
-    "ngay": "2026-10-29 12:58"
+    "ban": 1029,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-DiTieu-v1029.jar",
+    "sha256": "cb2091a3ba8b0bc2c5a2e4348c20e49bf88f027b5da33f2adacc92d00cd9ee1e",
+    "kichThuoc": 1207558,
+    "ghiChu": "Đi tiêu nhanh hơn ~2 lần: gửi vị trí trước khi nháy (hết giật lùi), bước dài hơn, bỏ các lần chờ thừa",
+    "ngay": "2026-10-29 14:59"
   },
   "android": {
     "ban": 1446,
@@ -48,12 +48,12 @@
     "ngay": "2026-10-29 12:58"
   },
   "jar_ditieu": {
-    "ban": 1025,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-DiTieu-v1025.jar",
-    "sha256": "2ce59cb28075e1eaee42476dd4361e48e0d893fe47ece3a136f56b01f84675c2",
-    "kichThuoc": 1207517,
-    "ghiChu": "Đi tiêu theo đúng bản gốc: nháy mỗi điểm dừng, # nháy map, * dừng, nhận đúng xe của mình, Biên giới về làng chuẩn",
-    "ngay": "2026-10-29 12:57"
+    "ban": 1029,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-DiTieu-v1029.jar",
+    "sha256": "cb2091a3ba8b0bc2c5a2e4348c20e49bf88f027b5da33f2adacc92d00cd9ee1e",
+    "kichThuoc": 1207558,
+    "ghiChu": "Đi tiêu nhanh hơn ~2 lần: gửi vị trí trước khi nháy (hết giật lùi), bước dài hơn, bỏ các lần chờ thừa",
+    "ngay": "2026-10-29 14:59"
   },
   "android_chedo": {
     "ban": 1450,
