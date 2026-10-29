@@ -32,12 +32,12 @@
     "ngay": "2026-10-29 15:12"
   },
   "jar_up": {
-    "ban": 1021,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-Up-v1021.jar",
-    "sha256": "3fbd2d632c74bcfc2a3e4f1a06ecbc613d3e65cf22b7d7b7d58f3c0faced820d",
-    "kichThuoc": 1188607,
-    "ghiChu": "Khoá vị trí: bị đẩy / lệch khỏi chỗ khoá là tự về ngay",
-    "ngay": "2026-10-25 15:35"
+    "ban": 1030,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-Up-v1030.jar",
+    "sha256": "401cea7c347002711458ad350c42977372dc2ff3f51d7bef0938be2d50e67983",
+    "kichThuoc": 1207554,
+    "ghiChu": "Cả 4 bản jar cùng số bản (hết báo có bản mới); Đi Tiêu đi nhanh hơn ~2 lần",
+    "ngay": "2026-10-29 15:12"
   },
   "jar_pk": {
     "ban": 1026,
