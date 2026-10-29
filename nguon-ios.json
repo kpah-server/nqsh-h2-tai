@@ -68,12 +68,12 @@
       "category": "games",
       "versions": [
         {
-          "version": "9",
-          "buildVersion": "9",
-          "date": "2026-10-29T13:12:00Z",
-          "localizedDescription": "Đi tiêu theo đúng bản gốc: nháy mỗi điểm dừng, # nháy map, * dừng, nhận đúng xe của mình, Biên giới về làng chuẩn",
-          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-PK-9.ipa",
-          "size": 20379080,
+          "version": "11",
+          "buildVersion": "11",
+          "date": "2026-10-29T17:48:00Z",
+          "localizedDescription": "",
+          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-PK-11.ipa",
+          "size": 20389830,
           "minOSVersion": "15.0"
         }
       ],
