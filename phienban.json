@@ -136,12 +136,12 @@
     "ngay": "2026-10-25 16:06"
   },
   "ios_pk": {
-    "ban": 11,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-PK-11.ipa",
-    "sha256": "d45a5f79f9bd377af89fc5feba80104e0cfc54b396f2ac86ded64e6fab13376b",
-    "kichThuoc": 20389830,
+    "ban": 12,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-PK-12.ipa",
+    "sha256": "157612692bc215fb9394ca1b842a9833bd76ecfc449421799cfaa55d2daf4429",
+    "kichThuoc": 20397948,
     "ghiChu": "",
-    "ngay": "2026-10-29 17:48"
+    "ngay": "2026-10-29 19:18"
   },
   "ios_ditieu": {
     "ban": 10,
