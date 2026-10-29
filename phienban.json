@@ -96,12 +96,12 @@
     "ngay": "2026-10-25 14:58"
   },
   "pc_pk": {
-    "ban": 34,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-PK-PC-34.zip",
-    "sha256": "b7fe3723a10534523243bf5a5d6238d8c2bd1d73a3845f9d69f21cfef758847d",
-    "kichThuoc": 37609058,
-    "ghiChu": "Bản PK: menu Vip TULA giống bản gốc - Chọn Người, Chọn Boss - Tiêu, Lia, GHIM VIP, Danh sách tên, Load map, Phím phụ kiện, Auto chat...",
-    "ngay": "2026-10-29 11:53"
+    "ban": 35,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-PK-PC-35.zip",
+    "sha256": "81ea5f784456af0be0671fc0c8617cdfd2ee76c8e2263c9038bc92c56084c9ee",
+    "kichThuoc": 37609250,
+    "ghiChu": "Bản PK: bỏ chức năng PK cũ, menu Vip TULA đưa ra ngoài như bản gốc",
+    "ngay": "2026-10-29 12:17"
   },
   "pc_ditieu": {
     "ban": 31,
