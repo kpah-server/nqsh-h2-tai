@@ -136,12 +136,12 @@
     "ngay": "2026-10-25 16:06"
   },
   "ios_pk": {
-    "ban": 4,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-PK-4.ipa",
-    "sha256": "927bd27a932d6a0f6e24a928f6ffe138fc3a232f15066eebb8004190b11e777b",
-    "kichThuoc": 20340782,
-    "ghiChu": "Thêm Về làng; sửa chữ bị mất",
-    "ngay": "2026-10-25 16:21"
+    "ban": 6,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-PK-6.ipa",
+    "sha256": "b6e0b6e80dcaa7505777472fab3b8b164e8765a30387cd8d40240689b91907c5",
+    "kichThuoc": 20371299,
+    "ghiChu": "Bản PK: menu Vip TULA giống bản gốc - Chọn Người, Chọn Boss - Tiêu, Lia, GHIM VIP, Danh sách tên, Load map, Phím phụ kiện, Auto chat...",
+    "ngay": "2026-10-29 12:08"
   },
   "ios_ditieu": {
     "ban": 5,
