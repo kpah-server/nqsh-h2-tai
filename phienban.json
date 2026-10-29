@@ -80,12 +80,12 @@
     "ngay": "2026-10-29 12:16"
   },
   "android_ditieu": {
-    "ban": 1450,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-DiTieu-1450.apk",
-    "sha256": "b894627be9e06c953bd89bc588cc3719e3b63d9ab18f76f0a0bd6f60c548316c",
-    "kichThuoc": 1408527,
-    "ghiChu": "Thêm Về làng trong Tiện ích; sửa chữ bị mất trong menu",
-    "ngay": "2026-10-25 14:58"
+    "ban": 1455,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-DiTieu-1455.apk",
+    "sha256": "66ae1148963dfe3aed3c586821e935ae47bc3cf479b63e0d985f5e37af85f077",
+    "kichThuoc": 1412127,
+    "ghiChu": "Đi tiêu mượt hơn: bỏ nháy map mỗi 2 ô (gây giật lùi), đi liên tục, xe tụt xa thì đứng chờ",
+    "ngay": "2026-10-29 12:34"
   },
   "pc_chedo": {
     "ban": 31,
