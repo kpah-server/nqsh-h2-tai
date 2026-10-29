@@ -1,11 +1,11 @@
 {
   "jar": {
-    "ban": 1033,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1033.jar",
-    "sha256": "fb7322d36d5504b78b490b601f8bc2f391a513c6afef99c87ccd9635fa5d396f",
-    "kichThuoc": 1226376,
-    "ghiChu": "Bản PK như pksvip: form Danh Sách Giao Thẻ / Cài Phím Thú-Pet / Cài Phím Mặc Đồ (jar), 6 kiểu bước chân, HUD không đè thanh tên",
-    "ngay": "2026-10-29 19:11"
+    "ban": 1035,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1035.jar",
+    "sha256": "5a63041c3230c7ced1f6bef9b698465d204394dd191b8384da63dc12f19c57a8",
+    "kichThuoc": 1227610,
+    "ghiChu": "Ban PK: Ngam muot (gui thang lenh danh), cai phim nhap ky tu #",
+    "ngay": "2026-10-30 00:51"
   },
   "android": {
     "ban": 1446,
@@ -24,12 +24,12 @@
     "ngay": "2026-10-23 11:47"
   },
   "jar_chedo": {
-    "ban": 1033,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1033.jar",
-    "sha256": "fb7322d36d5504b78b490b601f8bc2f391a513c6afef99c87ccd9635fa5d396f",
-    "kichThuoc": 1226376,
-    "ghiChu": "Bản PK như pksvip: form Danh Sách Giao Thẻ / Cài Phím Thú-Pet / Cài Phím Mặc Đồ (jar), 6 kiểu bước chân, HUD không đè thanh tên",
-    "ngay": "2026-10-29 19:11"
+    "ban": 1035,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1035.jar",
+    "sha256": "5a63041c3230c7ced1f6bef9b698465d204394dd191b8384da63dc12f19c57a8",
+    "kichThuoc": 1227610,
+    "ghiChu": "Ban PK: Ngam muot (gui thang lenh danh), cai phim nhap ky tu #",
+    "ngay": "2026-10-30 00:51"
   },
   "jar_up": {
     "ban": 1033,
