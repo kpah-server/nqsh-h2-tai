@@ -80,12 +80,12 @@
     "ngay": "2026-10-29 16:37"
   },
   "android_ditieu": {
-    "ban": 1458,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-DiTieu-1458.apk",
-    "sha256": "4c600310e734d4eb3ab186513a4f87856b6c25b91a92868686387de61da7104f",
-    "kichThuoc": 1414467,
-    "ghiChu": "Đi tiêu nhanh hơn ~2 lần: gửi vị trí trước khi nháy (hết giật lùi), bước dài hơn, bỏ các lần chờ thừa",
-    "ngay": "2026-10-29 14:59"
+    "ban": 1459,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-DiTieu-1459.apk",
+    "sha256": "76da01680356e26ffbebf74395cecd4d9c4c800b8657fb725d25592b23330691",
+    "kichThuoc": 1414503,
+    "ghiChu": "Sửa lỗi game tự thoát khi đang đi tiêu (nạp map liên tiếp)",
+    "ngay": "2026-10-29 16:37"
   },
   "pc_chedo": {
     "ban": 31,
