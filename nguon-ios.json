@@ -68,12 +68,12 @@
       "category": "games",
       "versions": [
         {
-          "version": "7",
-          "buildVersion": "7",
-          "date": "2026-10-29T12:24:00Z",
-          "localizedDescription": "Bản PK: bỏ chức năng PK cũ, menu Vip TULA đưa ra ngoài như bản gốc",
-          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-PK-7.ipa",
-          "size": 20373326,
+          "version": "9",
+          "buildVersion": "9",
+          "date": "2026-10-29T13:12:00Z",
+          "localizedDescription": "Đi tiêu theo đúng bản gốc: nháy mỗi điểm dừng, # nháy map, * dừng, nhận đúng xe của mình, Biên giới về làng chuẩn",
+          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-PK-9.ipa",
+          "size": 20379080,
           "minOSVersion": "15.0"
         }
       ],
