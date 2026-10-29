@@ -1,11 +1,11 @@
 {
   "jar": {
-    "ban": 1031,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1031.jar",
-    "sha256": "bd503c7bdfac23855b754f22bfba4fb622793c712f636e95fd647310a9add93a",
-    "kichThuoc": 1207609,
-    "ghiChu": "Sửa lỗi game tự thoát khi đang đi tiêu (nạp map liên tiếp)",
-    "ngay": "2026-10-29 16:34"
+    "ban": 1032,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1032.jar",
+    "sha256": "cf8e8bc5435e9ff9146255269dd631fd69a3fa646dbaf3c994ad1e5e3d723c17",
+    "kichThuoc": 1216580,
+    "ghiChu": "Bản PK như pksvip: form Cài Đặt & Auto, Mức độ sáng, Auto Mua, HUD, Đổi chữ, sửa phím *",
+    "ngay": "2026-10-29 17:41"
   },
   "android": {
     "ban": 1446,
@@ -24,12 +24,12 @@
     "ngay": "2026-10-23 11:47"
   },
   "jar_chedo": {
-    "ban": 1031,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1031.jar",
-    "sha256": "bd503c7bdfac23855b754f22bfba4fb622793c712f636e95fd647310a9add93a",
-    "kichThuoc": 1207609,
-    "ghiChu": "Sửa lỗi game tự thoát khi đang đi tiêu (nạp map liên tiếp)",
-    "ngay": "2026-10-29 16:34"
+    "ban": 1032,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1032.jar",
+    "sha256": "cf8e8bc5435e9ff9146255269dd631fd69a3fa646dbaf3c994ad1e5e3d723c17",
+    "kichThuoc": 1216580,
+    "ghiChu": "Bản PK như pksvip: form Cài Đặt & Auto, Mức độ sáng, Auto Mua, HUD, Đổi chữ, sửa phím *",
+    "ngay": "2026-10-29 17:41"
   },
   "jar_up": {
     "ban": 1031,
