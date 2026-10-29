@@ -48,12 +48,12 @@
     "ngay": "2026-10-29 15:12"
   },
   "jar_ditieu": {
-    "ban": 1029,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-DiTieu-v1029.jar",
-    "sha256": "cb2091a3ba8b0bc2c5a2e4348c20e49bf88f027b5da33f2adacc92d00cd9ee1e",
-    "kichThuoc": 1207558,
-    "ghiChu": "Đi tiêu nhanh hơn ~2 lần: gửi vị trí trước khi nháy (hết giật lùi), bước dài hơn, bỏ các lần chờ thừa",
-    "ngay": "2026-10-29 14:59"
+    "ban": 1030,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-DiTieu-v1030.jar",
+    "sha256": "77d06dc098342b02e472c9dcacae0027c43b455186dc108ff56329dd6c2d57d2",
+    "kichThuoc": 1207557,
+    "ghiChu": "Cả 4 bản jar cùng số bản (hết báo có bản mới); Đi Tiêu đi nhanh hơn ~2 lần",
+    "ngay": "2026-10-29 15:13"
   },
   "android_chedo": {
     "ban": 1450,
