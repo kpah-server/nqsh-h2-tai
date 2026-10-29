@@ -144,11 +144,11 @@
     "ngay": "2026-10-29 13:12"
   },
   "ios_ditieu": {
-    "ban": 8,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-DiTieu-8.ipa",
-    "sha256": "4221162e4b9394015d0f707fa0baae7141567db8fc9d5963b74be65d189147e7",
-    "kichThuoc": 20379343,
-    "ghiChu": "Đi tiêu theo đúng bản gốc: nháy mỗi điểm dừng, # nháy map, * dừng, nhận đúng xe của mình, Biên giới về làng chuẩn",
-    "ngay": "2026-10-29 13:06"
+    "ban": 10,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-DiTieu-10.ipa",
+    "sha256": "94dab58eded54099d5429bbb2c79aa552a1871a686bd34f58bcb558ad517c474",
+    "kichThuoc": 20380425,
+    "ghiChu": "",
+    "ngay": "2026-10-29 15:07"
   }
 }
