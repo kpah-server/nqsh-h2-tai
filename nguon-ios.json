@@ -68,12 +68,12 @@
       "category": "games",
       "versions": [
         {
-          "version": "6",
-          "buildVersion": "6",
-          "date": "2026-10-29T12:08:00Z",
-          "localizedDescription": "Bản PK: menu Vip TULA giống bản gốc - Chọn Người, Chọn Boss - Tiêu, Lia, GHIM VIP, Danh sách tên, Load map, Phím phụ kiện, Auto chat...",
-          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-PK-6.ipa",
-          "size": 20371299,
+          "version": "7",
+          "buildVersion": "7",
+          "date": "2026-10-29T12:24:00Z",
+          "localizedDescription": "Bản PK: bỏ chức năng PK cũ, menu Vip TULA đưa ra ngoài như bản gốc",
+          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-PK-7.ipa",
+          "size": 20373326,
           "minOSVersion": "15.0"
         }
       ],
