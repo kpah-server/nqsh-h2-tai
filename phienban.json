@@ -40,12 +40,12 @@
     "ngay": "2026-10-29 17:41"
   },
   "jar_pk": {
-    "ban": 1031,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-PK-v1031.jar",
-    "sha256": "8856572faf0ad2755992cd67d06ed9657b871080903887edc4dd42e92c89efa6",
-    "kichThuoc": 1207607,
-    "ghiChu": "Sửa lỗi game tự thoát khi đang đi tiêu (nạp map liên tiếp)",
-    "ngay": "2026-10-29 16:35"
+    "ban": 1032,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-PK-v1032.jar",
+    "sha256": "164c314008423ef0cf10bee9cecf4217b9fe1baec708b0af73e62a33c57d9a86",
+    "kichThuoc": 1216579,
+    "ghiChu": "Bản PK như pksvip: form Cài Đặt & Auto, Mức độ sáng, Auto Mua, HUD, Đổi chữ, sửa phím *",
+    "ngay": "2026-10-29 17:42"
   },
   "jar_ditieu": {
     "ban": 1031,
