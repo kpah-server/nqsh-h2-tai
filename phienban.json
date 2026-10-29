@@ -96,12 +96,12 @@
     "ngay": "2026-10-25 14:58"
   },
   "pc_pk": {
-    "ban": 40,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-PK-PC-40.zip",
-    "sha256": "f0417101313b428c33414c424dc4998580a013c7b785bd4227aa05d5ff3d6dbe",
-    "kichThuoc": 37617938,
-    "ghiChu": "Bản PK như pksvip: form Danh Sách Giao Thẻ / Cài Phím Thú-Pet / Cài Phím Mặc Đồ (jar), 6 kiểu bước chân, HUD không đè thanh tên",
-    "ngay": "2026-10-29 19:13"
+    "ban": 41,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-PK-PC-41.zip",
+    "sha256": "276eb3f7da33e33a6a8b93eaf70db5470368989dcdd4ef0bd267b5e13e117f8b",
+    "kichThuoc": 37618500,
+    "ghiChu": "Ngam muot, cai phim nhap ky tu #",
+    "ngay": "2026-10-30 00:54"
   },
   "pc_ditieu": {
     "ban": 38,
