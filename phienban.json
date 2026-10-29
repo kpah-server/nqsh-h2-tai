@@ -1,11 +1,11 @@
 {
   "jar": {
-    "ban": 1032,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1032.jar",
-    "sha256": "cf8e8bc5435e9ff9146255269dd631fd69a3fa646dbaf3c994ad1e5e3d723c17",
-    "kichThuoc": 1216580,
-    "ghiChu": "Bản PK như pksvip: form Cài Đặt & Auto, Mức độ sáng, Auto Mua, HUD, Đổi chữ, sửa phím *",
-    "ngay": "2026-10-29 17:41"
+    "ban": 1033,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1033.jar",
+    "sha256": "fb7322d36d5504b78b490b601f8bc2f391a513c6afef99c87ccd9635fa5d396f",
+    "kichThuoc": 1226376,
+    "ghiChu": "Bản PK như pksvip: form Danh Sách Giao Thẻ / Cài Phím Thú-Pet / Cài Phím Mặc Đồ (jar), 6 kiểu bước chân, HUD không đè thanh tên",
+    "ngay": "2026-10-29 19:11"
   },
   "android": {
     "ban": 1446,
@@ -24,12 +24,12 @@
     "ngay": "2026-10-23 11:47"
   },
   "jar_chedo": {
-    "ban": 1032,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1032.jar",
-    "sha256": "cf8e8bc5435e9ff9146255269dd631fd69a3fa646dbaf3c994ad1e5e3d723c17",
-    "kichThuoc": 1216580,
-    "ghiChu": "Bản PK như pksvip: form Cài Đặt & Auto, Mức độ sáng, Auto Mua, HUD, Đổi chữ, sửa phím *",
-    "ngay": "2026-10-29 17:41"
+    "ban": 1033,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1033.jar",
+    "sha256": "fb7322d36d5504b78b490b601f8bc2f391a513c6afef99c87ccd9635fa5d396f",
+    "kichThuoc": 1226376,
+    "ghiChu": "Bản PK như pksvip: form Danh Sách Giao Thẻ / Cài Phím Thú-Pet / Cài Phím Mặc Đồ (jar), 6 kiểu bước chân, HUD không đè thanh tên",
+    "ngay": "2026-10-29 19:11"
   },
   "jar_up": {
     "ban": 1032,
