@@ -80,12 +80,12 @@
     "ngay": "2026-10-29 12:16"
   },
   "android_ditieu": {
-    "ban": 1455,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-DiTieu-1455.apk",
-    "sha256": "66ae1148963dfe3aed3c586821e935ae47bc3cf479b63e0d985f5e37af85f077",
-    "kichThuoc": 1412127,
-    "ghiChu": "Đi tiêu mượt hơn: bỏ nháy map mỗi 2 ô (gây giật lùi), đi liên tục, xe tụt xa thì đứng chờ",
-    "ngay": "2026-10-29 12:34"
+    "ban": 1456,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-DiTieu-1456.apk",
+    "sha256": "858ba71cfcefd86d0f8e1fbcf9a8f658ab8fbab0c53105ce75713f61e98126b6",
+    "kichThuoc": 1414455,
+    "ghiChu": "Đi tiêu theo đúng bản gốc: nháy mỗi điểm dừng, # nháy map, * dừng, nhận đúng xe của mình, Biên giới về làng chuẩn",
+    "ngay": "2026-10-29 12:56"
   },
   "pc_chedo": {
     "ban": 31,
