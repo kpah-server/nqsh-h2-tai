@@ -48,12 +48,12 @@
     "ngay": "2026-10-29 19:11"
   },
   "jar_ditieu": {
-    "ban": 1032,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-DiTieu-v1032.jar",
-    "sha256": "ebb6fc39c32b43c4159fc0cb19b65831e3deb9f5056ff269917c1fa8fa65a040",
-    "kichThuoc": 1216581,
-    "ghiChu": "Bản PK như pksvip: form Cài Đặt & Auto, Mức độ sáng, Auto Mua, HUD, Đổi chữ, sửa phím *",
-    "ngay": "2026-10-29 17:42"
+    "ban": 1033,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-DiTieu-v1033.jar",
+    "sha256": "e919ee6973e349a0d9c4eeef19e0871cab2b8d4f101c471158a5387caecf4a56",
+    "kichThuoc": 1226377,
+    "ghiChu": "Bản PK như pksvip: form Danh Sách Giao Thẻ / Cài Phím Thú-Pet / Cài Phím Mặc Đồ (jar), 6 kiểu bước chân, HUD không đè thanh tên",
+    "ngay": "2026-10-29 19:12"
   },
   "android_chedo": {
     "ban": 1459,
