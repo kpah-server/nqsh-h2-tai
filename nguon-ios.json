@@ -68,12 +68,12 @@
       "category": "games",
       "versions": [
         {
-          "version": "11",
-          "buildVersion": "11",
-          "date": "2026-10-29T17:48:00Z",
+          "version": "12",
+          "buildVersion": "12",
+          "date": "2026-10-29T19:18:00Z",
           "localizedDescription": "",
-          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-PK-11.ipa",
-          "size": 20389830,
+          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-PK-12.ipa",
+          "size": 20397948,
           "minOSVersion": "15.0"
         }
       ],
