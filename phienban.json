@@ -64,12 +64,12 @@
     "ngay": "2026-10-29 16:36"
   },
   "android_up": {
-    "ban": 1452,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-Up-1452.apk",
-    "sha256": "85d037d236dca1a07cfa385fddb584c076d3990f6f8e99f7f969a0a7f8e0741b",
-    "kichThuoc": 1418303,
-    "ghiChu": "Khoá vị trí: bị đẩy / lệch khỏi chỗ khoá là tự về ngay",
-    "ngay": "2026-10-25 15:35"
+    "ban": 1459,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-Up-1459.apk",
+    "sha256": "9d3741c5eb18b24a2cb471d19e77d4291d55ccd2dd81a9c86700da2d3d28b674",
+    "kichThuoc": 1418855,
+    "ghiChu": "Sửa lỗi game tự thoát khi đang đi tiêu (nạp map liên tiếp)",
+    "ngay": "2026-10-29 16:36"
   },
   "android_pk": {
     "ban": 1457,
