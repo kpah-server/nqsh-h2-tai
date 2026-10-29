@@ -72,12 +72,12 @@
     "ngay": "2026-10-25 15:35"
   },
   "android_pk": {
-    "ban": 1453,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-PK-1453.apk",
-    "sha256": "2b86d8075699594ace19104238a080cae8c5c56665d6910beb2fb1d3b8c26c30",
-    "kichThuoc": 1420119,
-    "ghiChu": "Bản PK: menu Vip TULA giống bản gốc - Chọn Người, Chọn Boss - Tiêu, Lia, GHIM VIP, Danh sách tên, Load map, Phím phụ kiện, Auto chat...",
-    "ngay": "2026-10-29 11:48"
+    "ban": 1454,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-PK-1454.apk",
+    "sha256": "4e456a38bfa9bd1825213b10c78dda62facf52b008b67a209ee6c9766de42385",
+    "kichThuoc": 1420019,
+    "ghiChu": "Bản PK: bỏ chức năng PK cũ, menu Vip TULA đưa ra ngoài như bản gốc",
+    "ngay": "2026-10-29 12:16"
   },
   "android_ditieu": {
     "ban": 1450,
