@@ -40,12 +40,12 @@
     "ngay": "2026-10-30 08:44"
   },
   "jar_pk": {
-    "ban": 1035,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-PK-v1035.jar",
-    "sha256": "eec1dbffd925188e5e5e0b026dd78cfa8a74624ddb6af8dd80185f44be508b70",
-    "kichThuoc": 1227609,
-    "ghiChu": "Ban PK: Ngam muot (gui thang lenh danh), cai phim nhap ky tu #",
-    "ngay": "2026-10-30 00:52"
+    "ban": 1037,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-PK-v1037.jar",
+    "sha256": "50bcc2e20d2276c9c44b8e6e2b263684539df801914698f4094d8584259ea3d7",
+    "kichThuoc": 1228565,
+    "ghiChu": "PK: phim # * / . tren PC, phim cung Android; Ngam/Dap nguoi/KS dung o skill nhu ban goc; tu buff 1 lan den khi het; Giao the chi he 2; dong ho No X2/X3",
+    "ngay": "2026-10-30 08:44"
   },
   "jar_ditieu": {
     "ban": 1035,
