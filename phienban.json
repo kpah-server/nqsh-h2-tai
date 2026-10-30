@@ -120,12 +120,12 @@
     "ngay": "2026-10-30 17:00"
   },
   "ios_chedo": {
-    "ban": 13,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-CheDo-13.ipa",
-    "sha256": "fd294536120fe920f877e8c9247be0a1bc368abb9502c1e74b322d1a34a0a70c",
-    "kichThuoc": 20404703,
-    "ghiChu": "Ban moi: Hieu ung + HUD moi ban, PK theo ban goc, sua loi dung game",
-    "ngay": "2026-10-30 11:49"
+    "ban": 14,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-CheDo-14.ipa",
+    "sha256": "f28d84a565e581ff5d169e02bfbc6c129db4acfffb226452f3ed18cef22502ca",
+    "kichThuoc": 20404007,
+    "ghiChu": "Hien skin linh thu o tab T.bi thu",
+    "ngay": "2026-10-30 17:10"
   },
   "ios_up": {
     "ban": 13,
