@@ -1,11 +1,11 @@
 {
   "jar": {
-    "ban": 1035,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1035.jar",
-    "sha256": "5a63041c3230c7ced1f6bef9b698465d204394dd191b8384da63dc12f19c57a8",
-    "kichThuoc": 1227610,
-    "ghiChu": "Ban PK: Ngam muot (gui thang lenh danh), cai phim nhap ky tu #",
-    "ngay": "2026-10-30 00:51"
+    "ban": 1037,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1037.jar",
+    "sha256": "e158cd05e2940e4b1224297608ebc9592dfff43ad08646c40d9e72a23133e01c",
+    "kichThuoc": 1228565,
+    "ghiChu": "PK: phim # * / . tren PC, phim cung Android; Ngam/Dap nguoi/KS dung o skill nhu ban goc; tu buff 1 lan den khi het; Giao the chi he 2; dong ho No X2/X3",
+    "ngay": "2026-10-30 08:43"
   },
   "android": {
     "ban": 1446,
@@ -24,12 +24,12 @@
     "ngay": "2026-10-23 11:47"
   },
   "jar_chedo": {
-    "ban": 1035,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1035.jar",
-    "sha256": "5a63041c3230c7ced1f6bef9b698465d204394dd191b8384da63dc12f19c57a8",
-    "kichThuoc": 1227610,
-    "ghiChu": "Ban PK: Ngam muot (gui thang lenh danh), cai phim nhap ky tu #",
-    "ngay": "2026-10-30 00:51"
+    "ban": 1037,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1037.jar",
+    "sha256": "e158cd05e2940e4b1224297608ebc9592dfff43ad08646c40d9e72a23133e01c",
+    "kichThuoc": 1228565,
+    "ghiChu": "PK: phim # * / . tren PC, phim cung Android; Ngam/Dap nguoi/KS dung o skill nhu ban goc; tu buff 1 lan den khi het; Giao the chi he 2; dong ho No X2/X3",
+    "ngay": "2026-10-30 08:43"
   },
   "jar_up": {
     "ban": 1035,
