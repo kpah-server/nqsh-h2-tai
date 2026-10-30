@@ -72,12 +72,12 @@
     "ngay": "2026-10-30 11:10"
   },
   "android_pk": {
-    "ban": 1464,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-PK-1464.apk",
-    "sha256": "670b8db9677d1b561f4c0efa4f259c3cd036f6181ad69f1daf9750620eda4704",
-    "kichThuoc": 1430183,
-    "ghiChu": "Moi ban: menu Hieu ung them Buoc chan, Doi chu, Thong tin (HUD) bat/tat",
-    "ngay": "2026-10-30 09:09"
+    "ban": 1465,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-PK-1465.apk",
+    "sha256": "ddbd362cf4d90e5704e74769835a65f2d9116904f61cf679c2a49184ba90443b",
+    "kichThuoc": 1430223,
+    "ghiChu": "PC: sua loi dung game khi choi lau (Collection was modified); khong ve HUD/hieu ung len man den luc ket noi lai",
+    "ngay": "2026-10-30 11:11"
   },
   "android_ditieu": {
     "ban": 1464,
