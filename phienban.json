@@ -96,12 +96,12 @@
     "ngay": "2026-10-25 14:58"
   },
   "pc_pk": {
-    "ban": 41,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-PK-PC-41.zip",
-    "sha256": "276eb3f7da33e33a6a8b93eaf70db5470368989dcdd4ef0bd267b5e13e117f8b",
-    "kichThuoc": 37618500,
-    "ghiChu": "Ngam muot, cai phim nhap ky tu #",
-    "ngay": "2026-10-30 00:54"
+    "ban": 42,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-PK-PC-42.zip",
+    "sha256": "89fbdaed2cec3e37cbf1ca010ca0fd0cc52a16ebbfb400ee50f255baa9f62170",
+    "kichThuoc": 37618942,
+    "ghiChu": "PK: phim # * / . tren PC, phim cung Android; Ngam/Dap nguoi/KS dung o skill nhu ban goc; tu buff 1 lan den khi het; Giao the chi he 2; dong ho No X2/X3",
+    "ngay": "2026-10-30 08:45"
   },
   "pc_ditieu": {
     "ban": 38,
