@@ -64,12 +64,12 @@
     "ngay": "2026-10-30 09:08"
   },
   "android_up": {
-    "ban": 1459,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-Up-1459.apk",
-    "sha256": "9d3741c5eb18b24a2cb471d19e77d4291d55ccd2dd81a9c86700da2d3d28b674",
-    "kichThuoc": 1418855,
-    "ghiChu": "Sửa lỗi game tự thoát khi đang đi tiêu (nạp map liên tiếp)",
-    "ngay": "2026-10-29 16:36"
+    "ban": 1464,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-Up-1464.apk",
+    "sha256": "a09aa8f9da9d1933f54de951cf8223ab1a848c4615438be956dade560fb2d9d6",
+    "kichThuoc": 1427739,
+    "ghiChu": "Moi ban: menu Hieu ung them Buoc chan, Doi chu, Thong tin (HUD) bat/tat",
+    "ngay": "2026-10-30 09:08"
   },
   "android_pk": {
     "ban": 1463,
