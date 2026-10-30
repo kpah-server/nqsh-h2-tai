@@ -72,12 +72,12 @@
     "ngay": "2026-10-29 16:36"
   },
   "android_pk": {
-    "ban": 1462,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-PK-1462.apk",
-    "sha256": "1c38f786aa937fa7ac2a067b4be9119ce78395c66741f28d692fe88d5c2bfbf6",
-    "kichThuoc": 1428007,
-    "ghiChu": "Ngam muot, cai phim nhap ky tu #",
-    "ngay": "2026-10-30 00:53"
+    "ban": 1463,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-PK-1463.apk",
+    "sha256": "01dee346fd5958f60a40caddcbae75d7c808f9d46e926b6680632629bb7b8e83",
+    "kichThuoc": 1429415,
+    "ghiChu": "PK: phim # * / . tren PC, phim cung Android; Ngam/Dap nguoi/KS dung o skill nhu ban goc; tu buff 1 lan den khi het; Giao the chi he 2; dong ho No X2/X3",
+    "ngay": "2026-10-30 08:45"
   },
   "android_ditieu": {
     "ban": 1459,
