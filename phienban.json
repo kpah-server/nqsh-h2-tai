@@ -104,12 +104,12 @@
     "ngay": "2026-10-30 17:01"
   },
   "pc_ditieu": {
-    "ban": 45,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-DiTieu-PC-45.zip",
-    "sha256": "b899c3865ad0037d3d1527476945606287df6e8d760b18d21228ab4770f6ea31",
-    "kichThuoc": 37620625,
-    "ghiChu": "PC: sua loi dung game khi choi lau (Collection was modified); khong ve HUD/hieu ung len man den luc ket noi lai",
-    "ngay": "2026-10-30 11:14"
+    "ban": 46,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-DiTieu-PC-46.zip",
+    "sha256": "860dc0c4d598febde1c410e3ec251ea6e05daa666ee4d8805d13fedd843513a7",
+    "kichThuoc": 37620777,
+    "ghiChu": "Hien skin linh thu o tab T.bi thu",
+    "ngay": "2026-10-30 17:02"
   },
   "pc_up": {
     "ban": 46,
