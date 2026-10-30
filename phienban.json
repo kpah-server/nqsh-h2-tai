@@ -112,12 +112,12 @@
     "ngay": "2026-10-29 15:00"
   },
   "pc_up": {
-    "ban": 33,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-Up-PC-33.zip",
-    "sha256": "35a7b5d02c63b52416f306dd6f7d7ba385a309481ad99e5c05130435e4608ec4",
-    "kichThuoc": 30269812,
-    "ghiChu": "Khoá vị trí: bị đẩy / lệch khỏi chỗ khoá là tự về ngay",
-    "ngay": "2026-10-25 15:35"
+    "ban": 43,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-Up-PC-43.zip",
+    "sha256": "26b2663fcf12f2d0fdd52507a268b21e6add14a5818dd5854979504d35e61e15",
+    "kichThuoc": 37619395,
+    "ghiChu": "Moi ban: menu Hieu ung them Buoc chan, Doi chu, Thong tin (HUD) bat/tat",
+    "ngay": "2026-10-30 09:11"
   },
   "ios_chedo": {
     "ban": 3,
