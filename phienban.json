@@ -144,11 +144,11 @@
     "ngay": "2026-10-30 12:02"
   },
   "ios_ditieu": {
-    "ban": 10,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-DiTieu-10.ipa",
-    "sha256": "94dab58eded54099d5429bbb2c79aa552a1871a686bd34f58bcb558ad517c474",
-    "kichThuoc": 20380425,
-    "ghiChu": "",
-    "ngay": "2026-10-29 15:07"
+    "ban": 13,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-DiTieu-13.ipa",
+    "sha256": "27a012a7eb1e6bb6deff3a23b19147025b502cce128ad5cc639646204f50367c",
+    "kichThuoc": 20404922,
+    "ghiChu": "Ban moi: Hieu ung + HUD moi ban, PK theo ban goc, sua loi dung game",
+    "ngay": "2026-10-30 12:09"
   }
 }
