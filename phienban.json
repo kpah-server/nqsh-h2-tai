@@ -1,11 +1,11 @@
 {
   "jar": {
-    "ban": 1041,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1041.jar",
-    "sha256": "ec864eef4bf946c26a7ece80cc0ef7a6835bc1a037c3f97e799be506550d68d0",
-    "kichThuoc": 1230134,
-    "ghiChu": "PC: sua loi dung game khi choi lau (Collection was modified); khong ve HUD/hieu ung len man den luc ket noi lai",
-    "ngay": "2026-10-30 11:08"
+    "ban": 1043,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1043.jar",
+    "sha256": "cfc65bb4b5d6e3d7cfb8808015defc7a4798047ab8386a500ea61a4070523386",
+    "kichThuoc": 1230159,
+    "ghiChu": "Hien skin linh thu o tab T.bi thu",
+    "ngay": "2026-10-30 16:55"
   },
   "android": {
     "ban": 1446,
@@ -24,12 +24,12 @@
     "ngay": "2026-10-23 11:47"
   },
   "jar_chedo": {
-    "ban": 1041,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1041.jar",
-    "sha256": "ec864eef4bf946c26a7ece80cc0ef7a6835bc1a037c3f97e799be506550d68d0",
-    "kichThuoc": 1230134,
-    "ghiChu": "PC: sua loi dung game khi choi lau (Collection was modified); khong ve HUD/hieu ung len man den luc ket noi lai",
-    "ngay": "2026-10-30 11:08"
+    "ban": 1043,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1043.jar",
+    "sha256": "cfc65bb4b5d6e3d7cfb8808015defc7a4798047ab8386a500ea61a4070523386",
+    "kichThuoc": 1230159,
+    "ghiChu": "Hien skin linh thu o tab T.bi thu",
+    "ngay": "2026-10-30 16:55"
   },
   "jar_up": {
     "ban": 1041,
