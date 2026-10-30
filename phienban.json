@@ -64,12 +64,12 @@
     "ngay": "2026-10-30 16:57"
   },
   "android_up": {
-    "ban": 1465,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-Up-1465.apk",
-    "sha256": "ca69d219b437bf1bd9887613ecf7a7f7199a59840f90d1687afe745dac36f16f",
-    "kichThuoc": 1427779,
-    "ghiChu": "PC: sua loi dung game khi choi lau (Collection was modified); khong ve HUD/hieu ung len man den luc ket noi lai",
-    "ngay": "2026-10-30 11:10"
+    "ban": 1466,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-Up-1466.apk",
+    "sha256": "e6c9ac4ffc5814d13ddc23658b67a34a1422a857ae33d4ceda8b85f7a5d0a366",
+    "kichThuoc": 1427823,
+    "ghiChu": "Hien skin linh thu o tab T.bi thu",
+    "ngay": "2026-10-30 16:58"
   },
   "android_pk": {
     "ban": 1465,
