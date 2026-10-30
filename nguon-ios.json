@@ -18,12 +18,12 @@
       "category": "games",
       "versions": [
         {
-          "version": "13",
-          "buildVersion": "13",
-          "date": "2026-10-30T11:49:00Z",
-          "localizedDescription": "Ban moi: Hieu ung + HUD moi ban, PK theo ban goc, sua loi dung game",
-          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-CheDo-13.ipa",
-          "size": 20404703,
+          "version": "14",
+          "buildVersion": "14",
+          "date": "2026-10-30T17:10:00Z",
+          "localizedDescription": "Hien skin linh thu o tab T.bi thu",
+          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-CheDo-14.ipa",
+          "size": 20404007,
           "minOSVersion": "15.0"
         }
       ],
