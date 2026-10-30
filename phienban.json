@@ -32,12 +32,12 @@
     "ngay": "2026-10-30 11:08"
   },
   "jar_up": {
-    "ban": 1039,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-Up-v1039.jar",
-    "sha256": "d41068ffad1c5054f59841b1cd0d07b83df5f395b64ed062e8b86f8241ef6ffc",
-    "kichThuoc": 1230109,
-    "ghiChu": "Moi ban: menu Hieu ung them Buoc chan, Doi chu, Thong tin (HUD) bat/tat",
-    "ngay": "2026-10-30 09:07"
+    "ban": 1041,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-Up-v1041.jar",
+    "sha256": "760a95e3e3cf899e2f81edc5de094d00b4cd8c59e0c0d9d983a836325593c46d",
+    "kichThuoc": 1230132,
+    "ghiChu": "PC: sua loi dung game khi choi lau (Collection was modified); khong ve HUD/hieu ung len man den luc ket noi lai",
+    "ngay": "2026-10-30 11:08"
   },
   "jar_pk": {
     "ban": 1039,
