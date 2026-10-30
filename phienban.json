@@ -120,12 +120,12 @@
     "ngay": "2026-10-30 11:12"
   },
   "ios_chedo": {
-    "ban": 3,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-CheDo-3.ipa",
-    "sha256": "247f4e47f95a2b92aa4de2698041e308f8a097b8356b76ed2b3a23ed78c57316",
-    "kichThuoc": 20340831,
-    "ghiChu": "Thêm Về làng; sửa chữ bị mất; bản Up: auto quay số, tự mặc phụ kiện, khoá vị trí, lọc đồ",
-    "ngay": "2026-10-25 16:06"
+    "ban": 13,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-CheDo-13.ipa",
+    "sha256": "fd294536120fe920f877e8c9247be0a1bc368abb9502c1e74b322d1a34a0a70c",
+    "kichThuoc": 20404703,
+    "ghiChu": "Ban moi: Hieu ung + HUD moi ban, PK theo ban goc, sua loi dung game",
+    "ngay": "2026-10-30 11:49"
   },
   "ios_up": {
     "ban": 3,
