@@ -93,12 +93,12 @@
       "category": "games",
       "versions": [
         {
-          "version": "10",
-          "buildVersion": "10",
-          "date": "2026-10-29T15:07:00Z",
-          "localizedDescription": "",
-          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-DiTieu-10.ipa",
-          "size": 20380425,
+          "version": "13",
+          "buildVersion": "13",
+          "date": "2026-10-30T12:09:00Z",
+          "localizedDescription": "Ban moi: Hieu ung + HUD moi ban, PK theo ban goc, sua loi dung game",
+          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-DiTieu-13.ipa",
+          "size": 20404922,
           "minOSVersion": "15.0"
         }
       ],
