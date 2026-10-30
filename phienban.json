@@ -88,12 +88,12 @@
     "ngay": "2026-10-30 09:09"
   },
   "pc_chedo": {
-    "ban": 43,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-CheDo-PC-43.zip",
-    "sha256": "17a8ba6e0a15843d58f2d869350fe8a57523d10b8e0fd1c9416dc0901e2e7bd8",
-    "kichThuoc": 37620189,
-    "ghiChu": "Moi ban: menu Hieu ung them Buoc chan, Doi chu, Thong tin (HUD) bat/tat",
-    "ngay": "2026-10-30 09:10"
+    "ban": 44,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-CheDo-PC-44.zip",
+    "sha256": "2c039dd0212c4985bd8119f76ac925cf82b668769a3cbd491c43eed7b57b46bc",
+    "kichThuoc": 37620306,
+    "ghiChu": "Tab T.bi thu hien icon pet nhu ban dien thoai",
+    "ngay": "2026-10-30 10:40"
   },
   "pc_pk": {
     "ban": 43,
