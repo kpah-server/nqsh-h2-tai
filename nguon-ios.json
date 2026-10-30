@@ -18,12 +18,12 @@
       "category": "games",
       "versions": [
         {
-          "version": "3",
-          "buildVersion": "3",
-          "date": "2026-10-25T16:06:00Z",
-          "localizedDescription": "Thêm Về làng; sửa chữ bị mất; bản Up: auto quay số, tự mặc phụ kiện, khoá vị trí, lọc đồ",
-          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-CheDo-3.ipa",
-          "size": 20340831,
+          "version": "13",
+          "buildVersion": "13",
+          "date": "2026-10-30T11:49:00Z",
+          "localizedDescription": "Ban moi: Hieu ung + HUD moi ban, PK theo ban goc, sua loi dung game",
+          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-CheDo-13.ipa",
+          "size": 20404703,
           "minOSVersion": "15.0"
         }
       ],
