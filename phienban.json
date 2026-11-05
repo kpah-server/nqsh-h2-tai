@@ -56,12 +56,12 @@
     "ngay": "2026-11-05 11:46"
   },
   "android_chedo": {
-    "ban": 1468,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-CheDo-1468.apk",
-    "sha256": "a3ecb1af1124914169fe52c21f5a93eaf6593186d12fd35d08ee84209ad2be52",
-    "kichThuoc": 1420363,
-    "ghiChu": "PK gop Van tieu; di tieu hien nguoi + quai; menu # moi",
-    "ngay": "2026-11-05 13:28"
+    "ban": 1470,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-CheDo-1470.apk",
+    "sha256": "c88d37a2fe274f5fa2293e5b00370e3922977a7cbe46318441a796d950f8ca39",
+    "kichThuoc": 1421535,
+    "ghiChu": "Hanh trang: do nhan vat dung duoc + thu/pet len dau (moi ban)",
+    "ngay": "2026-11-05 14:46"
   },
   "android_up": {
     "ban": 1468,
