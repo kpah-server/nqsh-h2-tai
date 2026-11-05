@@ -68,12 +68,12 @@
       "category": "games",
       "versions": [
         {
-          "version": "21",
-          "buildVersion": "21",
-          "date": "2026-11-05T19:13:00Z",
-          "localizedDescription": "Đi tiêu đi liền mạch: giữa đoạn thẳng không dừng, nháy kéo xe mỗi 5 ô",
-          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-PK-21.ipa",
-          "size": 20449709,
+          "version": "22",
+          "buildVersion": "22",
+          "date": "2026-11-05T19:22:00Z",
+          "localizedDescription": "Đi tiêu liền mạch cả ở góc rẽ; sửa nháy kéo xe ở Đông Sơn",
+          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-PK-22.ipa",
+          "size": 20449104,
           "minOSVersion": "15.0"
         }
       ],
