@@ -40,12 +40,12 @@
     "ngay": "2026-11-05 14:45"
   },
   "jar_pk": {
-    "ban": 1057,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-PK-v1057.jar",
-    "sha256": "5d192ee817479bbc6cdb13bf44107023ed06f5ec233ab61a64a62c4c7c1c366c",
-    "kichThuoc": 1233244,
-    "ghiChu": "Di tieu Dong Son theo ban goc (xa phu o 24,20)",
-    "ngay": "2026-11-05 14:11"
+    "ban": 1062,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-PK-v1062.jar",
+    "sha256": "107c2b3872bfe42a7e8eab32cf36d543c69408e5543688646b0d6b8bf4d3829e",
+    "kichThuoc": 1233727,
+    "ghiChu": "Hanh trang: do nhan vat dung duoc + thu/pet len dau (moi ban)",
+    "ngay": "2026-11-05 14:45"
   },
   "jar_ditieu": {
     "ban": 1049,
