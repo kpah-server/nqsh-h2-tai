@@ -56,12 +56,12 @@
     "ngay": "2026-11-05 11:46"
   },
   "android_chedo": {
-    "ban": 1466,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-CheDo-1466.apk",
-    "sha256": "9e01976189ccb52785ad65036e65499f8486967a52793814a6efd19fd18fe952",
-    "kichThuoc": 1419335,
-    "ghiChu": "Hien skin linh thu o tab T.bi thu",
-    "ngay": "2026-10-30 16:57"
+    "ban": 1467,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-CheDo-1467.apk",
+    "sha256": "49da6af815c87f8fb75154ea5c7c8c0ba42e273076ae8470c09c7e4ec45cecd9",
+    "kichThuoc": 1419591,
+    "ghiChu": "Ban PK: auto click moi, len thanh, di tieu bao loi, ten+ID, nut trai/phai + Menu #, doi tiem nang, doi thu kem do, hanh trang 1 dai 11 cot",
+    "ngay": "2026-11-05 11:46"
   },
   "android_up": {
     "ban": 1466,
