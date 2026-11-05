@@ -64,12 +64,12 @@
     "ngay": "2026-11-05 14:46"
   },
   "android_up": {
-    "ban": 1468,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-Up-1468.apk",
-    "sha256": "d3865da36f9b27b7d743940d28d99bf0ef1c01ae0b8564303f9531c041a1e7d0",
-    "kichThuoc": 1430863,
-    "ghiChu": "PK gop Van tieu; di tieu hien nguoi + quai; menu # moi",
-    "ngay": "2026-11-05 13:28"
+    "ban": 1470,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-Up-1470.apk",
+    "sha256": "3a42453d866d740e4648031bdec776decd92fd0d4ef076d6c37b9c3676468650",
+    "kichThuoc": 1431579,
+    "ghiChu": "Hanh trang: do nhan vat dung duoc + thu/pet len dau (moi ban)",
+    "ngay": "2026-11-05 14:47"
   },
   "android_pk": {
     "ban": 1469,
