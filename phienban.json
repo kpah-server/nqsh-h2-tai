@@ -1,11 +1,11 @@
 {
   "jar": {
-    "ban": 1054,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1054.jar",
-    "sha256": "1f0a33aef434ef1e6d9df20a20206756d657a0e6959725c782ea126762f9c4b2",
-    "kichThuoc": 1233224,
-    "ghiChu": "PK gop Van tieu; di tieu hien nguoi + quai; menu # moi",
-    "ngay": "2026-11-05 13:26"
+    "ban": 1057,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-PK-v1057.jar",
+    "sha256": "5d192ee817479bbc6cdb13bf44107023ed06f5ec233ab61a64a62c4c7c1c366c",
+    "kichThuoc": 1233244,
+    "ghiChu": "Di tieu Dong Son theo ban goc (xa phu o 24,20)",
+    "ngay": "2026-11-05 14:11"
   },
   "android": {
     "ban": 1446,
@@ -40,12 +40,12 @@
     "ngay": "2026-11-05 13:27"
   },
   "jar_pk": {
-    "ban": 1054,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-PK-v1054.jar",
-    "sha256": "b7f561314caf97b5cc01b8fa17e7275f1ee93a196088bd5abe507aaff79bac8b",
-    "kichThuoc": 1233222,
-    "ghiChu": "PK gop Van tieu; di tieu hien nguoi + quai; menu # moi",
-    "ngay": "2026-11-05 13:27"
+    "ban": 1057,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-PK-v1057.jar",
+    "sha256": "5d192ee817479bbc6cdb13bf44107023ed06f5ec233ab61a64a62c4c7c1c366c",
+    "kichThuoc": 1233244,
+    "ghiChu": "Di tieu Dong Son theo ban goc (xa phu o 24,20)",
+    "ngay": "2026-11-05 14:11"
   },
   "jar_ditieu": {
     "ban": 1049,
