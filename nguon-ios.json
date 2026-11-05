@@ -68,12 +68,12 @@
       "category": "games",
       "versions": [
         {
-          "version": "24",
-          "buildVersion": "24",
-          "date": "2026-11-05T20:19:00Z",
-          "localizedDescription": "Đông Sơn: xa phu Hàm Tử -> Tử Quan, về nháy ở (28,14); nhận/đổi tiêu sát cổng Tiên Du",
-          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-PK-24.ipa",
-          "size": 20450367,
+          "version": "25",
+          "buildVersion": "25",
+          "date": "2026-11-05T20:51:00Z",
+          "localizedDescription": "Đi tiêu bớt khựng + Biên giới chờ xe theo kịp",
+          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-PK-25.ipa",
+          "size": 20451429,
           "minOSVersion": "15.0"
         }
       ],
