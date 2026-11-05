@@ -1,11 +1,11 @@
 {
   "jar": {
-    "ban": 1093,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1093.jar",
-    "sha256": "815023973bd266c6ebe7e7b636b3e629fc393de2e552659715648f3387f76f8a",
-    "kichThuoc": 1236466,
-    "ghiChu": "Đi tiêu bớt khựng: không dừng ở góc rẽ, nháy nhanh hơn, nháy mỗi 4 ô",
-    "ngay": "2026-11-05 20:24"
+    "ban": 1095,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1095.jar",
+    "sha256": "fe1f357a38044228d60f3e672d002dd820f2d903832a98b8f0ef019d3516e9f6",
+    "kichThuoc": 1236550,
+    "ghiChu": "Biên giới: chờ xe tiêu theo kịp rồi mới đi tiếp",
+    "ngay": "2026-11-05 20:35"
   },
   "android": {
     "ban": 1446,
@@ -24,12 +24,12 @@
     "ngay": "2026-10-23 11:47"
   },
   "jar_chedo": {
-    "ban": 1093,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1093.jar",
-    "sha256": "815023973bd266c6ebe7e7b636b3e629fc393de2e552659715648f3387f76f8a",
-    "kichThuoc": 1236466,
-    "ghiChu": "Đi tiêu bớt khựng: không dừng ở góc rẽ, nháy nhanh hơn, nháy mỗi 4 ô",
-    "ngay": "2026-11-05 20:24"
+    "ban": 1095,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1095.jar",
+    "sha256": "fe1f357a38044228d60f3e672d002dd820f2d903832a98b8f0ef019d3516e9f6",
+    "kichThuoc": 1236550,
+    "ghiChu": "Biên giới: chờ xe tiêu theo kịp rồi mới đi tiếp",
+    "ngay": "2026-11-05 20:35"
   },
   "jar_up": {
     "ban": 1093,
