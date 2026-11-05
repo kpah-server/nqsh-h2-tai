@@ -32,12 +32,12 @@
     "ngay": "2026-11-05 14:45"
   },
   "jar_up": {
-    "ban": 1054,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-Up-v1054.jar",
-    "sha256": "bc2c6c3ed0de83d02125be1936d28fc79f992c084e3a31fc2682d636eda15e9f",
-    "kichThuoc": 1233221,
-    "ghiChu": "PK gop Van tieu; di tieu hien nguoi + quai; menu # moi",
-    "ngay": "2026-11-05 13:27"
+    "ban": 1062,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-Up-v1062.jar",
+    "sha256": "adcdc84d39b561d56d1e13b0888be1862f9afdca32c602452560e61dbd9b367c",
+    "kichThuoc": 1233727,
+    "ghiChu": "Hanh trang: do nhan vat dung duoc + thu/pet len dau (moi ban)",
+    "ngay": "2026-11-05 14:45"
   },
   "jar_pk": {
     "ban": 1057,
