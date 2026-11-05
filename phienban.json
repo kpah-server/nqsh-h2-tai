@@ -72,12 +72,12 @@
     "ngay": "2026-11-05 15:49"
   },
   "android_pk": {
-    "ban": 1473,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-PK-1473.apk",
-    "sha256": "38557eca75355c9e1480404107911e04433be5eb19d868213626bbba9e0bc324",
-    "kichThuoc": 1436883,
-    "ghiChu": "Đi tiêu đi liền mạch: giữa đoạn thẳng không dừng, nháy kéo xe mỗi 5 ô, không giật lùi",
-    "ngay": "2026-11-05 19:05"
+    "ban": 1474,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-PK-1474.apk",
+    "sha256": "1b87df438a26e590c785d895efd54526f1a89e2956a79f90c39d48886ce23182",
+    "kichThuoc": 1436895,
+    "ghiChu": "Đi tiêu liền mạch cả ở góc rẽ; sửa nháy kéo xe ở Đông Sơn trước xa phu",
+    "ngay": "2026-11-05 19:17"
   },
   "android_ditieu": {
     "ban": 1467,
