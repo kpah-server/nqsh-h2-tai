@@ -64,12 +64,12 @@
     "ngay": "2026-11-05 15:48"
   },
   "android_up": {
-    "ban": 1470,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-Up-1470.apk",
-    "sha256": "3a42453d866d740e4648031bdec776decd92fd0d4ef076d6c37b9c3676468650",
-    "kichThuoc": 1431579,
-    "ghiChu": "Hanh trang: do nhan vat dung duoc + thu/pet len dau (moi ban)",
-    "ngay": "2026-11-05 14:47"
+    "ban": 1471,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-Up-1471.apk",
+    "sha256": "9219f842e3caaa7cadafb094883b9e19a3d630899fdc9b69b171b184ea74af4c",
+    "kichThuoc": 1431983,
+    "ghiChu": "Auto click nhay o + doi muc tieu; bat Ma PK khong dung The mua ban; Len thanh khong vao nha; hanh trang giu o dang chon",
+    "ngay": "2026-11-05 15:49"
   },
   "android_pk": {
     "ban": 1470,
