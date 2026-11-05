@@ -68,12 +68,12 @@
       "category": "games",
       "versions": [
         {
-          "version": "23",
-          "buildVersion": "23",
-          "date": "2026-11-05T19:57:00Z",
-          "localizedDescription": "Đông Sơn bỏ đường vòng xa phu; nhận/đổi tiêu ra đầu làng như cũ; thời gian đi tiêu trên HUD",
-          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-PK-23.ipa",
-          "size": 20448439,
+          "version": "24",
+          "buildVersion": "24",
+          "date": "2026-11-05T20:19:00Z",
+          "localizedDescription": "Đông Sơn: xa phu Hàm Tử -> Tử Quan, về nháy ở (28,14); nhận/đổi tiêu sát cổng Tiên Du",
+          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-PK-24.ipa",
+          "size": 20450367,
           "minOSVersion": "15.0"
         }
       ],
