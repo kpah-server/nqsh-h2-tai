@@ -96,12 +96,12 @@
     "ngay": "2026-11-05 15:50"
   },
   "pc_pk": {
-    "ban": 52,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-PK-PC-52.zip",
-    "sha256": "d4809ed57193d72435a3952a3de1b5ee57ea6a7e254e205c19fc5c1004733478",
-    "kichThuoc": 37624993,
-    "ghiChu": "Đi tiêu nhanh: nháy không nạp lại map, bỏ các khoảng chờ cố định; Đông Sơn đi tắt Hàm Tử -> Tử Quan (sửa kẹt ở Hàm Tử)",
-    "ngay": "2026-11-05 18:50"
+    "ban": 53,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-PK-PC-53.zip",
+    "sha256": "2bbeca25daa00759f35f6e6f830167fc1f4dd90743fabdc7873684ec03484cf9",
+    "kichThuoc": 37625057,
+    "ghiChu": "Đi tiêu đi liền mạch: giữa đoạn thẳng không dừng, nháy kéo xe mỗi 5 ô, không giật lùi",
+    "ngay": "2026-11-05 19:06"
   },
   "pc_ditieu": {
     "ban": 47,
