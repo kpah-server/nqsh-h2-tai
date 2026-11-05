@@ -18,12 +18,12 @@
       "category": "games",
       "versions": [
         {
-          "version": "18",
-          "buildVersion": "18",
-          "date": "2026-11-05T14:56:00Z",
-          "localizedDescription": "Hanh trang: do nhan vat dung duoc + thu/pet len dau (moi ban)",
-          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-CheDo-18.ipa",
-          "size": 20435997,
+          "version": "19",
+          "buildVersion": "19",
+          "date": "2026-11-05T15:58:00Z",
+          "localizedDescription": "Auto click nhay o + doi muc tieu; bat Ma PK khong dung The mua ban; Len thanh khong vao nha; hanh trang giu o dang chon",
+          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-CheDo-19.ipa",
+          "size": 20436879,
           "minOSVersion": "15.0"
         }
       ],
