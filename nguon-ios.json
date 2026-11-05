@@ -68,12 +68,12 @@
       "category": "games",
       "versions": [
         {
-          "version": "20",
-          "buildVersion": "20",
-          "date": "2026-11-05T18:57:00Z",
-          "localizedDescription": "Đi tiêu nhanh: nháy không nạp lại map, bỏ khoảng chờ cố định; Đông Sơn đi tắt Hàm Tử -> Tử Quan",
-          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-PK-20.ipa",
-          "size": 20448852,
+          "version": "21",
+          "buildVersion": "21",
+          "date": "2026-11-05T19:13:00Z",
+          "localizedDescription": "Đi tiêu đi liền mạch: giữa đoạn thẳng không dừng, nháy kéo xe mỗi 5 ô",
+          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-PK-21.ipa",
+          "size": 20449709,
           "minOSVersion": "15.0"
         }
       ],
