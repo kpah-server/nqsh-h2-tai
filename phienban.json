@@ -1,11 +1,11 @@
 {
   "jar": {
-    "ban": 1089,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1089.jar",
-    "sha256": "5c55efb7464df642320079162a2de2b1df7bc61d59ad1cb87abbc27d6d74b38c",
-    "kichThuoc": 1236404,
-    "ghiChu": "Đông Sơn: xa phu Hàm Tử -> Tử Quan, về Đông Sơn nháy ở (28,14) rồi lên cổng; nhận/đổi tiêu sát cổng Tiên Du",
-    "ngay": "2026-11-05 20:08"
+    "ban": 1093,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1093.jar",
+    "sha256": "815023973bd266c6ebe7e7b636b3e629fc393de2e552659715648f3387f76f8a",
+    "kichThuoc": 1236466,
+    "ghiChu": "Đi tiêu bớt khựng: không dừng ở góc rẽ, nháy nhanh hơn, nháy mỗi 4 ô",
+    "ngay": "2026-11-05 20:24"
   },
   "android": {
     "ban": 1446,
@@ -24,12 +24,12 @@
     "ngay": "2026-10-23 11:47"
   },
   "jar_chedo": {
-    "ban": 1089,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1089.jar",
-    "sha256": "5c55efb7464df642320079162a2de2b1df7bc61d59ad1cb87abbc27d6d74b38c",
-    "kichThuoc": 1236404,
-    "ghiChu": "Đông Sơn: xa phu Hàm Tử -> Tử Quan, về Đông Sơn nháy ở (28,14) rồi lên cổng; nhận/đổi tiêu sát cổng Tiên Du",
-    "ngay": "2026-11-05 20:08"
+    "ban": 1093,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1093.jar",
+    "sha256": "815023973bd266c6ebe7e7b636b3e629fc393de2e552659715648f3387f76f8a",
+    "kichThuoc": 1236466,
+    "ghiChu": "Đi tiêu bớt khựng: không dừng ở góc rẽ, nháy nhanh hơn, nháy mỗi 4 ô",
+    "ngay": "2026-11-05 20:24"
   },
   "jar_up": {
     "ban": 1089,
