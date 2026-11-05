@@ -96,12 +96,12 @@
     "ngay": "2026-11-05 15:50"
   },
   "pc_pk": {
-    "ban": 57,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-PK-PC-57.zip",
-    "sha256": "95336483207d7c6cd18a5f692572a5393e5b9c3a70bb3a1756d6911337d5b9ba",
-    "kichThuoc": 37625760,
-    "ghiChu": "Đi tiêu bớt khựng: không dừng ở góc rẽ, nháy nhanh hơn, nháy mỗi 4 ô",
-    "ngay": "2026-11-05 20:25"
+    "ban": 58,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-PK-PC-58.zip",
+    "sha256": "8d0eeff73223ae008cd4e426cae9b6ef19b620c7633713e45e5270e99c00c8d4",
+    "kichThuoc": 37625837,
+    "ghiChu": "Biên giới: chờ xe tiêu theo kịp rồi mới đi tiếp",
+    "ngay": "2026-11-05 20:37"
   },
   "pc_ditieu": {
     "ban": 47,
