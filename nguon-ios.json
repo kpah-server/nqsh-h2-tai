@@ -18,12 +18,12 @@
       "category": "games",
       "versions": [
         {
-          "version": "14",
-          "buildVersion": "14",
-          "date": "2026-10-30T17:10:00Z",
-          "localizedDescription": "Hien skin linh thu o tab T.bi thu",
-          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-CheDo-14.ipa",
-          "size": 20404007,
+          "version": "15",
+          "buildVersion": "15",
+          "date": "2026-11-05T11:57:00Z",
+          "localizedDescription": "Ban PK: auto click moi, len thanh, di tieu bao loi, ten+ID, nut trai/phai + Menu #, doi tiem nang, doi thu kem do, hanh trang 1 dai 11 cot",
+          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-CheDo-15.ipa",
+          "size": 20425741,
           "minOSVersion": "15.0"
         }
       ],
