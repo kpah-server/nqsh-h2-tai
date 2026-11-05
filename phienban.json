@@ -80,12 +80,12 @@
     "ngay": "2026-11-05 11:47"
   },
   "android_ditieu": {
-    "ban": 1466,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-DiTieu-1466.apk",
-    "sha256": "4f17551e9c0f8fa997626634b66275eb0ebf5b3c6182e75e8cc0b13ccda086ef",
-    "kichThuoc": 1422883,
-    "ghiChu": "Hien skin linh thu o tab T.bi thu",
-    "ngay": "2026-10-30 16:59"
+    "ban": 1467,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-DiTieu-1467.apk",
+    "sha256": "7cf8d2533f2d8355d8d6c65663fbbbe009cadc440137fb1c73e8489596181ac0",
+    "kichThuoc": 1427431,
+    "ghiChu": "Ban PK: auto click moi, len thanh, di tieu bao loi, ten+ID, nut trai/phai + Menu #, doi tiem nang, doi thu kem do, hanh trang 1 dai 11 cot",
+    "ngay": "2026-11-05 11:48"
   },
   "pc_chedo": {
     "ban": 46,
