@@ -96,12 +96,12 @@
     "ngay": "2026-11-05 15:50"
   },
   "pc_pk": {
-    "ban": 54,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-PK-PC-54.zip",
-    "sha256": "07ff37683461b2da98d4727e9721e476a55e983d54d7b0bdf4bfcd50d622b45f",
-    "kichThuoc": 37625081,
-    "ghiChu": "Đi tiêu liền mạch cả ở góc rẽ; sửa nháy kéo xe ở Đông Sơn trước xa phu",
-    "ngay": "2026-11-05 19:17"
+    "ban": 55,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-PK-PC-55.zip",
+    "sha256": "baa9d6d0df0f06aaf37bd9702fad3da5070363036858141cc204b78e13b5011c",
+    "kichThuoc": 37625215,
+    "ghiChu": "Đông Sơn bỏ đường vòng xa phu (đi thẳng cùng xe); nhận/đổi tiêu ra đầu làng như cũ; thời gian đi tiêu trên HUD",
+    "ngay": "2026-11-05 19:50"
   },
   "pc_ditieu": {
     "ban": 47,
