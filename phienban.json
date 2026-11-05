@@ -72,12 +72,12 @@
     "ngay": "2026-11-05 15:49"
   },
   "android_pk": {
-    "ban": 1477,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-PK-1477.apk",
-    "sha256": "265ca415cf16cbbbbebfcb33450110614c5cda5a83d59106638fbcd98b8c68cf",
-    "kichThuoc": 1437543,
-    "ghiChu": "Đi tiêu bớt khựng: không dừng ở góc rẽ, nháy nhanh hơn, nháy mỗi 4 ô",
-    "ngay": "2026-11-05 20:25"
+    "ban": 1478,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-PK-1478.apk",
+    "sha256": "9c57d7fd46335c2b8e1469ffda604c1d9f06204649ac9d1e7d8dc3538f0450be",
+    "kichThuoc": 1437639,
+    "ghiChu": "Biên giới: chờ xe tiêu theo kịp rồi mới đi tiếp",
+    "ngay": "2026-11-05 20:36"
   },
   "android_ditieu": {
     "ban": 1467,
