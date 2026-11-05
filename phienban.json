@@ -32,12 +32,12 @@
     "ngay": "2026-11-05 15:47"
   },
   "jar_up": {
-    "ban": 1062,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-Up-v1062.jar",
-    "sha256": "adcdc84d39b561d56d1e13b0888be1862f9afdca32c602452560e61dbd9b367c",
-    "kichThuoc": 1233727,
-    "ghiChu": "Hanh trang: do nhan vat dung duoc + thu/pet len dau (moi ban)",
-    "ngay": "2026-11-05 14:45"
+    "ban": 1067,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-Up-v1067.jar",
+    "sha256": "15ba36c1cbcd3794376d1ad9211ee8509804eb7400b8bc5139f84aa11b9e05b8",
+    "kichThuoc": 1234210,
+    "ghiChu": "Auto click nhay o + doi muc tieu; bat Ma PK khong dung The mua ban; Len thanh khong vao nha; hanh trang giu o dang chon",
+    "ngay": "2026-11-05 15:47"
   },
   "jar_pk": {
     "ban": 1062,
