@@ -136,12 +136,12 @@
     "ngay": "2026-11-05 16:05"
   },
   "ios_pk": {
-    "ban": 19,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-PK-19.ipa",
-    "sha256": "510cea22f525f487d06be38291b6217f280f0c4feff394e1a1db0498d62c5ff0",
-    "kichThuoc": 20437696,
-    "ghiChu": "Auto click nhay o + doi muc tieu; bat Ma PK khong dung The mua ban; Len thanh khong vao nha; hanh trang giu o dang chon",
-    "ngay": "2026-11-05 16:13"
+    "ban": 20,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-PK-20.ipa",
+    "sha256": "db051b5eb2fc7696ff1f405f8630c239b02a2da94f03850e6e235afe7e3b59b5",
+    "kichThuoc": 20448852,
+    "ghiChu": "Đi tiêu nhanh: nháy không nạp lại map, bỏ khoảng chờ cố định; Đông Sơn đi tắt Hàm Tử -> Tử Quan",
+    "ngay": "2026-11-05 18:57"
   },
   "ios_ditieu": {
     "ban": 15,
