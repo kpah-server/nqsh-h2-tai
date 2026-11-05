@@ -112,12 +112,12 @@
     "ngay": "2026-11-05 11:51"
   },
   "pc_up": {
-    "ban": 47,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-Up-PC-47.zip",
-    "sha256": "916cb58371f54c9fb08040b0717d35bf6c0c5d143115704aa3c2edc9853af301",
-    "kichThuoc": 37621985,
-    "ghiChu": "Ban PK: auto click moi, len thanh, di tieu bao loi, ten+ID, nut trai/phai + Menu #, doi tiem nang, doi thu kem do, hanh trang 1 dai 11 cot",
-    "ngay": "2026-11-05 11:49"
+    "ban": 48,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-Up-PC-48.zip",
+    "sha256": "71f79a6cac6082fd30c48feebe949f0c29ab23b775f0ff2787d152f83d4325ab",
+    "kichThuoc": 37622546,
+    "ghiChu": "PK gop Van tieu; di tieu hien nguoi + quai; menu # moi",
+    "ngay": "2026-11-05 13:30"
   },
   "ios_chedo": {
     "ban": 15,
