@@ -1,11 +1,11 @@
 {
   "jar": {
-    "ban": 1043,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1043.jar",
-    "sha256": "cfc65bb4b5d6e3d7cfb8808015defc7a4798047ab8386a500ea61a4070523386",
-    "kichThuoc": 1230159,
-    "ghiChu": "Hien skin linh thu o tab T.bi thu",
-    "ngay": "2026-10-30 16:55"
+    "ban": 1049,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1049.jar",
+    "sha256": "3cb315b9645dda5ae4a8ecbcf726be492fd329bd3eb35e0e6bf70f90691ec4f9",
+    "kichThuoc": 1232473,
+    "ghiChu": "Ban PK: auto click moi, len thanh, di tieu bao loi, ten+ID, nut trai/phai + Menu #, doi tiem nang, doi thu kem do, hanh trang 1 dai 11 cot",
+    "ngay": "2026-11-05 11:44"
   },
   "android": {
     "ban": 1446,
@@ -24,12 +24,12 @@
     "ngay": "2026-10-23 11:47"
   },
   "jar_chedo": {
-    "ban": 1043,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1043.jar",
-    "sha256": "cfc65bb4b5d6e3d7cfb8808015defc7a4798047ab8386a500ea61a4070523386",
-    "kichThuoc": 1230159,
-    "ghiChu": "Hien skin linh thu o tab T.bi thu",
-    "ngay": "2026-10-30 16:55"
+    "ban": 1049,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1049.jar",
+    "sha256": "3cb315b9645dda5ae4a8ecbcf726be492fd329bd3eb35e0e6bf70f90691ec4f9",
+    "kichThuoc": 1232473,
+    "ghiChu": "Ban PK: auto click moi, len thanh, di tieu bao loi, ten+ID, nut trai/phai + Menu #, doi tiem nang, doi thu kem do, hanh trang 1 dai 11 cot",
+    "ngay": "2026-11-05 11:44"
   },
   "jar_up": {
     "ban": 1043,
