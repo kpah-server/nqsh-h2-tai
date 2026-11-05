@@ -68,12 +68,12 @@
       "category": "games",
       "versions": [
         {
-          "version": "16",
-          "buildVersion": "16",
-          "date": "2026-11-05T13:48:00Z",
-          "localizedDescription": "PK gop Van tieu; di tieu hien nguoi + quai; menu # moi",
-          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-PK-16.ipa",
-          "size": 20424587,
+          "version": "17",
+          "buildVersion": "17",
+          "date": "2026-11-05T14:18:00Z",
+          "localizedDescription": "Di tieu Dong Son theo ban goc (xa phu o 24,20)",
+          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-PK-17.ipa",
+          "size": 20424585,
           "minOSVersion": "15.0"
         }
       ],
