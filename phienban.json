@@ -72,12 +72,12 @@
     "ngay": "2026-11-05 14:47"
   },
   "android_pk": {
-    "ban": 1469,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-PK-1469.apk",
-    "sha256": "d2c3f6922977413f923dfd6ed462377b0ae2ca124ce69a112908fe26177f1842",
-    "kichThuoc": 1434375,
-    "ghiChu": "Di tieu Dong Son theo ban goc (xa phu o 24,20)",
-    "ngay": "2026-11-05 14:11"
+    "ban": 1470,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-PK-1470.apk",
+    "sha256": "c3663673fbfe94818be896e0b6354ba559df0c7b3d76435c5f8bc00f10aac892",
+    "kichThuoc": 1434991,
+    "ghiChu": "Hanh trang: do nhan vat dung duoc + thu/pet len dau (moi ban)",
+    "ngay": "2026-11-05 14:47"
   },
   "android_ditieu": {
     "ban": 1467,
