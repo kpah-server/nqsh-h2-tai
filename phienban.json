@@ -32,12 +32,12 @@
     "ngay": "2026-11-05 19:48"
   },
   "jar_up": {
-    "ban": 1079,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-Up-v1079.jar",
-    "sha256": "7282673487b564611636d9e8253d13d5da46dff79d080a33251fc1c6190d5fc8",
-    "kichThuoc": 1235841,
-    "ghiChu": "Đi tiêu liền mạch cả ở góc rẽ; sửa nháy kéo xe ở Đông Sơn trước xa phu",
-    "ngay": "2026-11-05 19:16"
+    "ban": 1085,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-Up-v1085.jar",
+    "sha256": "0e7108532d4de3d03c09ddc381e0ee970ff576b1d777e4e400b1ffa365bf32a8",
+    "kichThuoc": 1235821,
+    "ghiChu": "Đông Sơn bỏ đường vòng xa phu (đi thẳng cùng xe); nhận/đổi tiêu ra đầu làng như cũ; thời gian đi tiêu trên HUD",
+    "ngay": "2026-11-05 19:49"
   },
   "jar_pk": {
     "ban": 1079,
