@@ -128,12 +128,12 @@
     "ngay": "2026-11-05 11:57"
   },
   "ios_up": {
-    "ban": 13,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-Up-13.ipa",
-    "sha256": "8063f67876e88fbca49fff97bd08157193afe256c0df34f0fabbe3e77e2d5a51",
-    "kichThuoc": 20404665,
-    "ghiChu": "Ban moi: Hieu ung + HUD moi ban, PK theo ban goc, sua loi dung game",
-    "ngay": "2026-10-30 11:56"
+    "ban": 15,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-Up-15.ipa",
+    "sha256": "0506010771184185ec6bc6c539d1f1f4e57fb8a6e9ebe9f86c64e64705b87921",
+    "kichThuoc": 20425706,
+    "ghiChu": "Ban PK: auto click moi, len thanh, di tieu bao loi, ten+ID, nut trai/phai + Menu #, doi tiem nang, doi thu kem do, hanh trang 1 dai 11 cot",
+    "ngay": "2026-11-05 12:03"
   },
   "ios_pk": {
     "ban": 13,
