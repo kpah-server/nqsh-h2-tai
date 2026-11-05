@@ -1,11 +1,11 @@
 {
   "jar": {
-    "ban": 1085,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1085.jar",
-    "sha256": "7ed76b2b7f41e25e3b8c26157b5db7fe993f9e0fc83a020ea2076c1868dace26",
-    "kichThuoc": 1235824,
-    "ghiChu": "Đông Sơn bỏ đường vòng xa phu (đi thẳng cùng xe); nhận/đổi tiêu ra đầu làng như cũ; thời gian đi tiêu trên HUD",
-    "ngay": "2026-11-05 19:48"
+    "ban": 1089,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1089.jar",
+    "sha256": "5c55efb7464df642320079162a2de2b1df7bc61d59ad1cb87abbc27d6d74b38c",
+    "kichThuoc": 1236404,
+    "ghiChu": "Đông Sơn: xa phu Hàm Tử -> Tử Quan, về Đông Sơn nháy ở (28,14) rồi lên cổng; nhận/đổi tiêu sát cổng Tiên Du",
+    "ngay": "2026-11-05 20:08"
   },
   "android": {
     "ban": 1446,
@@ -24,12 +24,12 @@
     "ngay": "2026-10-23 11:47"
   },
   "jar_chedo": {
-    "ban": 1085,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1085.jar",
-    "sha256": "7ed76b2b7f41e25e3b8c26157b5db7fe993f9e0fc83a020ea2076c1868dace26",
-    "kichThuoc": 1235824,
-    "ghiChu": "Đông Sơn bỏ đường vòng xa phu (đi thẳng cùng xe); nhận/đổi tiêu ra đầu làng như cũ; thời gian đi tiêu trên HUD",
-    "ngay": "2026-11-05 19:48"
+    "ban": 1089,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1089.jar",
+    "sha256": "5c55efb7464df642320079162a2de2b1df7bc61d59ad1cb87abbc27d6d74b38c",
+    "kichThuoc": 1236404,
+    "ghiChu": "Đông Sơn: xa phu Hàm Tử -> Tử Quan, về Đông Sơn nháy ở (28,14) rồi lên cổng; nhận/đổi tiêu sát cổng Tiên Du",
+    "ngay": "2026-11-05 20:08"
   },
   "jar_up": {
     "ban": 1085,
