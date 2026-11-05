@@ -68,12 +68,12 @@
       "category": "games",
       "versions": [
         {
-          "version": "22",
-          "buildVersion": "22",
-          "date": "2026-11-05T19:22:00Z",
-          "localizedDescription": "Đi tiêu liền mạch cả ở góc rẽ; sửa nháy kéo xe ở Đông Sơn",
-          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-PK-22.ipa",
-          "size": 20449104,
+          "version": "23",
+          "buildVersion": "23",
+          "date": "2026-11-05T19:57:00Z",
+          "localizedDescription": "Đông Sơn bỏ đường vòng xa phu; nhận/đổi tiêu ra đầu làng như cũ; thời gian đi tiêu trên HUD",
+          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-PK-23.ipa",
+          "size": 20448439,
           "minOSVersion": "15.0"
         }
       ],
