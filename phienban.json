@@ -136,12 +136,12 @@
     "ngay": "2026-11-05 16:05"
   },
   "ios_pk": {
-    "ban": 23,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-PK-23.ipa",
-    "sha256": "40e648143dd235e4a5bf192b6c388fb82f9e339770b30cc334067d9c0f34536e",
-    "kichThuoc": 20448439,
-    "ghiChu": "Đông Sơn bỏ đường vòng xa phu; nhận/đổi tiêu ra đầu làng như cũ; thời gian đi tiêu trên HUD",
-    "ngay": "2026-11-05 19:57"
+    "ban": 24,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-PK-24.ipa",
+    "sha256": "f72e55ec97237359b8066194395c5f91df1d8df8af6f6af34e998a913d982008",
+    "kichThuoc": 20450367,
+    "ghiChu": "Đông Sơn: xa phu Hàm Tử -> Tử Quan, về nháy ở (28,14); nhận/đổi tiêu sát cổng Tiên Du",
+    "ngay": "2026-11-05 20:19"
   },
   "ios_ditieu": {
     "ban": 15,
