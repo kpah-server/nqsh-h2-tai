@@ -40,12 +40,12 @@
     "ngay": "2026-11-05 11:45"
   },
   "jar_pk": {
-    "ban": 1043,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-PK-v1043.jar",
-    "sha256": "03edff68d080d3ccb1e6e9b7732a009ed3b7897181f360cec670bf88c00b49af",
-    "kichThuoc": 1230158,
-    "ghiChu": "Hien skin linh thu o tab T.bi thu",
-    "ngay": "2026-10-30 16:56"
+    "ban": 1049,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-PK-v1049.jar",
+    "sha256": "7501218041b552ffb98537b04c64c098cc4cc908cbc725073b417cde712b00a0",
+    "kichThuoc": 1232471,
+    "ghiChu": "Ban PK: auto click moi, len thanh, di tieu bao loi, ten+ID, nut trai/phai + Menu #, doi tiem nang, doi thu kem do, hanh trang 1 dai 11 cot",
+    "ngay": "2026-11-05 11:45"
   },
   "jar_ditieu": {
     "ban": 1043,
