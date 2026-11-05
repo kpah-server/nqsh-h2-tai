@@ -72,12 +72,12 @@
     "ngay": "2026-11-05 15:49"
   },
   "android_pk": {
-    "ban": 1474,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-PK-1474.apk",
-    "sha256": "1b87df438a26e590c785d895efd54526f1a89e2956a79f90c39d48886ce23182",
-    "kichThuoc": 1436895,
-    "ghiChu": "Đi tiêu liền mạch cả ở góc rẽ; sửa nháy kéo xe ở Đông Sơn trước xa phu",
-    "ngay": "2026-11-05 19:17"
+    "ban": 1475,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-PK-1475.apk",
+    "sha256": "e2ecf4d0e145341654162fe6625c9c1e725bda8f522a866ec11ac09c3350b144",
+    "kichThuoc": 1437007,
+    "ghiChu": "Đông Sơn bỏ đường vòng xa phu (đi thẳng cùng xe); nhận/đổi tiêu ra đầu làng như cũ; thời gian đi tiêu trên HUD",
+    "ngay": "2026-11-05 19:49"
   },
   "android_ditieu": {
     "ban": 1467,
