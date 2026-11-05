@@ -1,11 +1,11 @@
 {
   "jar": {
-    "ban": 1067,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1067.jar",
-    "sha256": "a28d34d36c11dde7123a6c398899fc7cf186ed2c124ed7e2ed6474c14e74e036",
-    "kichThuoc": 1234213,
-    "ghiChu": "Auto click nhay o + doi muc tieu; bat Ma PK khong dung The mua ban; Len thanh khong vao nha; hanh trang giu o dang chon",
-    "ngay": "2026-11-05 15:47"
+    "ban": 1073,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1073.jar",
+    "sha256": "c728d45d20cbaea0e11e141ee5d6b5cba9aa055697938b27b63127d3340dd4b3",
+    "kichThuoc": 1235748,
+    "ghiChu": "Đi tiêu nhanh: nháy không nạp lại map, bỏ các khoảng chờ cố định; Đông Sơn đi tắt Hàm Tử -> Tử Quan (sửa kẹt ở Hàm Tử)",
+    "ngay": "2026-11-05 18:48"
   },
   "android": {
     "ban": 1446,
@@ -24,12 +24,12 @@
     "ngay": "2026-10-23 11:47"
   },
   "jar_chedo": {
-    "ban": 1067,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1067.jar",
-    "sha256": "a28d34d36c11dde7123a6c398899fc7cf186ed2c124ed7e2ed6474c14e74e036",
-    "kichThuoc": 1234213,
-    "ghiChu": "Auto click nhay o + doi muc tieu; bat Ma PK khong dung The mua ban; Len thanh khong vao nha; hanh trang giu o dang chon",
-    "ngay": "2026-11-05 15:47"
+    "ban": 1073,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1073.jar",
+    "sha256": "c728d45d20cbaea0e11e141ee5d6b5cba9aa055697938b27b63127d3340dd4b3",
+    "kichThuoc": 1235748,
+    "ghiChu": "Đi tiêu nhanh: nháy không nạp lại map, bỏ các khoảng chờ cố định; Đông Sơn đi tắt Hàm Tử -> Tử Quan (sửa kẹt ở Hàm Tử)",
+    "ngay": "2026-11-05 18:48"
   },
   "jar_up": {
     "ban": 1067,
