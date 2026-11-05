@@ -136,12 +136,12 @@
     "ngay": "2026-11-05 16:05"
   },
   "ios_pk": {
-    "ban": 25,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-PK-25.ipa",
-    "sha256": "c752f6f252ee9b7b2ad4f603dc958eca04cb36916fae4d58c5acb5605bb4df10",
-    "kichThuoc": 20451429,
-    "ghiChu": "Đi tiêu bớt khựng + Biên giới chờ xe theo kịp",
-    "ngay": "2026-11-05 20:51"
+    "ban": 26,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-PK-26.ipa",
+    "sha256": "7d7153edb67a38812380d05a9710be9ab3417844e591779a463cb733d2653897",
+    "kichThuoc": 20456080,
+    "ghiChu": "Bản PK: Lên thành theo bản gốc; thêm Về làng",
+    "ngay": "2026-11-05 23:57"
   },
   "ios_ditieu": {
     "ban": 15,
