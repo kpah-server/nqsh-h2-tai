@@ -68,12 +68,12 @@
       "category": "games",
       "versions": [
         {
-          "version": "19",
-          "buildVersion": "19",
-          "date": "2026-11-05T16:13:00Z",
-          "localizedDescription": "Auto click nhay o + doi muc tieu; bat Ma PK khong dung The mua ban; Len thanh khong vao nha; hanh trang giu o dang chon",
-          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-PK-19.ipa",
-          "size": 20437696,
+          "version": "20",
+          "buildVersion": "20",
+          "date": "2026-11-05T18:57:00Z",
+          "localizedDescription": "Đi tiêu nhanh: nháy không nạp lại map, bỏ khoảng chờ cố định; Đông Sơn đi tắt Hàm Tử -> Tử Quan",
+          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-PK-20.ipa",
+          "size": 20448852,
           "minOSVersion": "15.0"
         }
       ],
