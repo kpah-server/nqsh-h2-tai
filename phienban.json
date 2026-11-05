@@ -96,12 +96,12 @@
     "ngay": "2026-11-05 13:29"
   },
   "pc_pk": {
-    "ban": 48,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-PK-PC-48.zip",
-    "sha256": "a69da2845e713ee80c0669c77af86bae5b81c5d7fb29e571b8f6682ee42d8bf0",
-    "kichThuoc": 37622548,
-    "ghiChu": "PK gop Van tieu; di tieu hien nguoi + quai; menu # moi",
-    "ngay": "2026-11-05 13:31"
+    "ban": 49,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-PK-PC-49.zip",
+    "sha256": "6ae4ad1a8f82b0401e662fae3e8ff1f37e88f5136f6ec4851278b4694f5a40a2",
+    "kichThuoc": 37622590,
+    "ghiChu": "Di tieu Dong Son theo ban goc (xa phu o 24,20)",
+    "ngay": "2026-11-05 14:12"
   },
   "pc_ditieu": {
     "ban": 47,
