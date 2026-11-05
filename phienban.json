@@ -40,12 +40,12 @@
     "ngay": "2026-11-05 18:48"
   },
   "jar_pk": {
-    "ban": 1067,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-PK-v1067.jar",
-    "sha256": "46272ef02582e724bd4fe36caffe62725808eeb08a0348f0f774155106235b41",
-    "kichThuoc": 1234210,
-    "ghiChu": "Auto click nhay o + doi muc tieu; bat Ma PK khong dung The mua ban; Len thanh khong vao nha; hanh trang giu o dang chon",
-    "ngay": "2026-11-05 15:48"
+    "ban": 1073,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-PK-v1073.jar",
+    "sha256": "8eadb8182acd515147f80a2b02c71a6e768cc8ae2672eb83ccba0974c997f9b7",
+    "kichThuoc": 1235745,
+    "ghiChu": "Đi tiêu nhanh: nháy không nạp lại map, bỏ các khoảng chờ cố định; Đông Sơn đi tắt Hàm Tử -> Tử Quan (sửa kẹt ở Hàm Tử)",
+    "ngay": "2026-11-05 18:49"
   },
   "jar_ditieu": {
     "ban": 1049,
