@@ -1,11 +1,11 @@
 {
   "jar": {
-    "ban": 1076,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1076.jar",
-    "sha256": "ba8ce59c2ad478c002b2cdac86025dbec302505d225884a5702ef434f92817c5",
-    "kichThuoc": 1235825,
-    "ghiChu": "Đi tiêu đi liền mạch: giữa đoạn thẳng không dừng, nháy kéo xe mỗi 5 ô, không giật lùi",
-    "ngay": "2026-11-05 19:04"
+    "ban": 1079,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1079.jar",
+    "sha256": "1c4219b573e42a5492877eb8a9058e1c9f236b78f55d5c04cb21f165a30265c9",
+    "kichThuoc": 1235844,
+    "ghiChu": "Đi tiêu liền mạch cả ở góc rẽ; sửa nháy kéo xe ở Đông Sơn trước xa phu",
+    "ngay": "2026-11-05 19:16"
   },
   "android": {
     "ban": 1446,
@@ -24,12 +24,12 @@
     "ngay": "2026-10-23 11:47"
   },
   "jar_chedo": {
-    "ban": 1076,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1076.jar",
-    "sha256": "ba8ce59c2ad478c002b2cdac86025dbec302505d225884a5702ef434f92817c5",
-    "kichThuoc": 1235825,
-    "ghiChu": "Đi tiêu đi liền mạch: giữa đoạn thẳng không dừng, nháy kéo xe mỗi 5 ô, không giật lùi",
-    "ngay": "2026-11-05 19:04"
+    "ban": 1079,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1079.jar",
+    "sha256": "1c4219b573e42a5492877eb8a9058e1c9f236b78f55d5c04cb21f165a30265c9",
+    "kichThuoc": 1235844,
+    "ghiChu": "Đi tiêu liền mạch cả ở góc rẽ; sửa nháy kéo xe ở Đông Sơn trước xa phu",
+    "ngay": "2026-11-05 19:16"
   },
   "jar_up": {
     "ban": 1076,
