@@ -72,12 +72,12 @@
     "ngay": "2026-11-05 13:28"
   },
   "android_pk": {
-    "ban": 1468,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-PK-1468.apk",
-    "sha256": "5e3b1f99d356d258bfbfbe86bf90ec378d7a38a04d58a2eda09912298814f765",
-    "kichThuoc": 1434359,
-    "ghiChu": "PK gop Van tieu; di tieu hien nguoi + quai; menu # moi",
-    "ngay": "2026-11-05 13:29"
+    "ban": 1469,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-PK-1469.apk",
+    "sha256": "d2c3f6922977413f923dfd6ed462377b0ae2ca124ce69a112908fe26177f1842",
+    "kichThuoc": 1434375,
+    "ghiChu": "Di tieu Dong Son theo ban goc (xa phu o 24,20)",
+    "ngay": "2026-11-05 14:11"
   },
   "android_ditieu": {
     "ban": 1467,
