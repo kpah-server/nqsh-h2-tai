@@ -136,12 +136,12 @@
     "ngay": "2026-11-05 16:05"
   },
   "ios_pk": {
-    "ban": 24,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-PK-24.ipa",
-    "sha256": "f72e55ec97237359b8066194395c5f91df1d8df8af6f6af34e998a913d982008",
-    "kichThuoc": 20450367,
-    "ghiChu": "Đông Sơn: xa phu Hàm Tử -> Tử Quan, về nháy ở (28,14); nhận/đổi tiêu sát cổng Tiên Du",
-    "ngay": "2026-11-05 20:19"
+    "ban": 25,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-PK-25.ipa",
+    "sha256": "c752f6f252ee9b7b2ad4f603dc958eca04cb36916fae4d58c5acb5605bb4df10",
+    "kichThuoc": 20451429,
+    "ghiChu": "Đi tiêu bớt khựng + Biên giới chờ xe theo kịp",
+    "ngay": "2026-11-05 20:51"
   },
   "ios_ditieu": {
     "ban": 15,
