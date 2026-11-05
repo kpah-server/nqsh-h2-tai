@@ -120,12 +120,12 @@
     "ngay": "2026-11-05 15:51"
   },
   "ios_chedo": {
-    "ban": 18,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-CheDo-18.ipa",
-    "sha256": "6404bcfcb4ba1131da22761fd31944d090a3cf1bc54dde1d4368fb40e16fe71b",
-    "kichThuoc": 20435997,
-    "ghiChu": "Hanh trang: do nhan vat dung duoc + thu/pet len dau (moi ban)",
-    "ngay": "2026-11-05 14:56"
+    "ban": 19,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-CheDo-19.ipa",
+    "sha256": "670a694274279fe51741a4fa64fc831e67943923fad2e16709fe161be623eebb",
+    "kichThuoc": 20436879,
+    "ghiChu": "Auto click nhay o + doi muc tieu; bat Ma PK khong dung The mua ban; Len thanh khong vao nha; hanh trang giu o dang chon",
+    "ngay": "2026-11-05 15:58"
   },
   "ios_up": {
     "ban": 18,
