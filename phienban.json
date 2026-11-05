@@ -1,11 +1,11 @@
 {
   "jar": {
-    "ban": 1095,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1095.jar",
-    "sha256": "fe1f357a38044228d60f3e672d002dd820f2d903832a98b8f0ef019d3516e9f6",
-    "kichThuoc": 1236550,
-    "ghiChu": "Biên giới: chờ xe tiêu theo kịp rồi mới đi tiếp",
-    "ngay": "2026-11-05 20:35"
+    "ban": 1098,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1098.jar",
+    "sha256": "7b4f036da45a3767dab99b4cd69eab18195db1cc3ea1eea7bbbddb4641b03cd5",
+    "kichThuoc": 1238359,
+    "ghiChu": "Bản PK: Lên thành theo bản gốc (xa phu làng -> 3 -> 6 -> 9); thêm Về làng",
+    "ngay": "2026-11-05 22:50"
   },
   "android": {
     "ban": 1446,
@@ -24,12 +24,12 @@
     "ngay": "2026-10-23 11:47"
   },
   "jar_chedo": {
-    "ban": 1095,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1095.jar",
-    "sha256": "fe1f357a38044228d60f3e672d002dd820f2d903832a98b8f0ef019d3516e9f6",
-    "kichThuoc": 1236550,
-    "ghiChu": "Biên giới: chờ xe tiêu theo kịp rồi mới đi tiếp",
-    "ngay": "2026-11-05 20:35"
+    "ban": 1098,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1098.jar",
+    "sha256": "7b4f036da45a3767dab99b4cd69eab18195db1cc3ea1eea7bbbddb4641b03cd5",
+    "kichThuoc": 1238359,
+    "ghiChu": "Bản PK: Lên thành theo bản gốc (xa phu làng -> 3 -> 6 -> 9); thêm Về làng",
+    "ngay": "2026-11-05 22:50"
   },
   "jar_up": {
     "ban": 1095,
