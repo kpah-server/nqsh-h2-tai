@@ -40,12 +40,12 @@
     "ngay": "2026-11-05 19:16"
   },
   "jar_pk": {
-    "ban": 1076,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-PK-v1076.jar",
-    "sha256": "9de3934ee7b3937141ccc2f3db191486a2424ab97d4f179afed4e180dd7a9e8c",
-    "kichThuoc": 1235822,
-    "ghiChu": "Đi tiêu đi liền mạch: giữa đoạn thẳng không dừng, nháy kéo xe mỗi 5 ô, không giật lùi",
-    "ngay": "2026-11-05 19:05"
+    "ban": 1079,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-PK-v1079.jar",
+    "sha256": "9ec24174f5345e9837ed794b5236aa51ea576de2ae7b7db4b9b6b2f0d835be6b",
+    "kichThuoc": 1235841,
+    "ghiChu": "Đi tiêu liền mạch cả ở góc rẽ; sửa nháy kéo xe ở Đông Sơn trước xa phu",
+    "ngay": "2026-11-05 19:16"
   },
   "jar_ditieu": {
     "ban": 1049,
