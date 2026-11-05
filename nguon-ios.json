@@ -43,12 +43,12 @@
       "category": "games",
       "versions": [
         {
-          "version": "15",
-          "buildVersion": "15",
-          "date": "2026-11-05T12:03:00Z",
-          "localizedDescription": "Ban PK: auto click moi, len thanh, di tieu bao loi, ten+ID, nut trai/phai + Menu #, doi tiem nang, doi thu kem do, hanh trang 1 dai 11 cot",
-          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-Up-15.ipa",
-          "size": 20425706,
+          "version": "16",
+          "buildVersion": "16",
+          "date": "2026-11-05T13:42:00Z",
+          "localizedDescription": "PK gop Van tieu; di tieu hien nguoi + quai; menu # moi",
+          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-Up-16.ipa",
+          "size": 20427237,
           "minOSVersion": "15.0"
         }
       ],
