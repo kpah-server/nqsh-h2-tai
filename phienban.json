@@ -72,12 +72,12 @@
     "ngay": "2026-11-05 15:49"
   },
   "android_pk": {
-    "ban": 1472,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-PK-1472.apk",
-    "sha256": "82bb57d0e6a828bba4282f6cf806914fe8f429eb6b9f5a39444f4ea27d1b1575",
-    "kichThuoc": 1436823,
-    "ghiChu": "Đi tiêu nhanh: nháy không nạp lại map, bỏ các khoảng chờ cố định; Đông Sơn đi tắt Hàm Tử -> Tử Quan (sửa kẹt ở Hàm Tử)",
-    "ngay": "2026-11-05 18:49"
+    "ban": 1473,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-PK-1473.apk",
+    "sha256": "38557eca75355c9e1480404107911e04433be5eb19d868213626bbba9e0bc324",
+    "kichThuoc": 1436883,
+    "ghiChu": "Đi tiêu đi liền mạch: giữa đoạn thẳng không dừng, nháy kéo xe mỗi 5 ô, không giật lùi",
+    "ngay": "2026-11-05 19:05"
   },
   "android_ditieu": {
     "ban": 1467,
