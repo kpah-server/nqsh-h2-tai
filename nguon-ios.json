@@ -68,12 +68,12 @@
       "category": "games",
       "versions": [
         {
-          "version": "25",
-          "buildVersion": "25",
-          "date": "2026-11-05T20:51:00Z",
-          "localizedDescription": "Đi tiêu bớt khựng + Biên giới chờ xe theo kịp",
-          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-PK-25.ipa",
-          "size": 20451429,
+          "version": "26",
+          "buildVersion": "26",
+          "date": "2026-11-05T23:57:00Z",
+          "localizedDescription": "Bản PK: Lên thành theo bản gốc; thêm Về làng",
+          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-PK-26.ipa",
+          "size": 20456080,
           "minOSVersion": "15.0"
         }
       ],
