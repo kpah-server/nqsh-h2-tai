@@ -96,12 +96,12 @@
     "ngay": "2026-11-05 15:50"
   },
   "pc_pk": {
-    "ban": 59,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-PK-PC-59.zip",
-    "sha256": "a87eca608bfc54cc8d54cbc642a7ebe460d47095810f7f0af9f69610c83715b0",
-    "kichThuoc": 37626134,
-    "ghiChu": "Bản PK: Lên thành theo bản gốc (xa phu làng -> 3 -> 6 -> 9); thêm Về làng",
-    "ngay": "2026-11-05 22:52"
+    "ban": 60,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-PK-PC-60.zip",
+    "sha256": "fb96efa525c652fdc5f729e05a54d4d7f431577baedf82bdbf420ce0f72cb05d",
+    "kichThuoc": 37626151,
+    "ghiChu": "Đi tiêu: sửa đứt dây tiêu (không xoá nhầm xe, gửi vị trí trước khi nháy)",
+    "ngay": "2026-11-06 10:22"
   },
   "pc_ditieu": {
     "ban": 47,
