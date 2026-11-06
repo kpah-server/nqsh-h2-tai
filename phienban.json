@@ -1,11 +1,11 @@
 {
   "jar": {
-    "ban": 1100,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1100.jar",
-    "sha256": "27715c4688ceaf679ba7ff8a9cb175a34d2c6ab1ec4868e41776fca117c181d3",
-    "kichThuoc": 1238410,
-    "ghiChu": "Đi tiêu: sửa đứt dây tiêu (không xoá nhầm xe, gửi vị trí trước khi nháy)",
-    "ngay": "2026-11-06 10:20"
+    "ban": 1102,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1102.jar",
+    "sha256": "b182391ad719f70b0168be184557cbb73f476bde984d0e2db65e367f6e361e34",
+    "kichThuoc": 1238517,
+    "ghiChu": "Đi tiêu chống đứt dây: nháy ở mọi góc đường vòng, xe tụt thì quay lại kéo xe",
+    "ngay": "2026-11-06 15:24"
   },
   "android": {
     "ban": 1446,
@@ -24,12 +24,12 @@
     "ngay": "2026-10-23 11:47"
   },
   "jar_chedo": {
-    "ban": 1100,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1100.jar",
-    "sha256": "27715c4688ceaf679ba7ff8a9cb175a34d2c6ab1ec4868e41776fca117c181d3",
-    "kichThuoc": 1238410,
-    "ghiChu": "Đi tiêu: sửa đứt dây tiêu (không xoá nhầm xe, gửi vị trí trước khi nháy)",
-    "ngay": "2026-11-06 10:20"
+    "ban": 1102,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1102.jar",
+    "sha256": "b182391ad719f70b0168be184557cbb73f476bde984d0e2db65e367f6e361e34",
+    "kichThuoc": 1238517,
+    "ghiChu": "Đi tiêu chống đứt dây: nháy ở mọi góc đường vòng, xe tụt thì quay lại kéo xe",
+    "ngay": "2026-11-06 15:24"
   },
   "jar_up": {
     "ban": 1100,
