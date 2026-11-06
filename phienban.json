@@ -72,12 +72,12 @@
     "ngay": "2026-11-05 15:49"
   },
   "android_pk": {
-    "ban": 1479,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-PK-1479.apk",
-    "sha256": "403d2e0bd10a46c28045aa7c68320a907e880f0ac1851111d609c0f2de8516ba",
-    "kichThuoc": 1437995,
-    "ghiChu": "Bản PK: Lên thành theo bản gốc (xa phu làng -> 3 -> 6 -> 9); thêm Về làng",
-    "ngay": "2026-11-05 22:51"
+    "ban": 1480,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-PK-1480.apk",
+    "sha256": "e985a1cc9a11b2076c723fee86a5e0541769a75246f27e46b7fb5f01e6d30b52",
+    "kichThuoc": 1438043,
+    "ghiChu": "Đi tiêu: sửa đứt dây tiêu (không xoá nhầm xe, gửi vị trí trước khi nháy)",
+    "ngay": "2026-11-06 10:21"
   },
   "android_ditieu": {
     "ban": 1467,
