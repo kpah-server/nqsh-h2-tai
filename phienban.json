@@ -96,12 +96,12 @@
     "ngay": "2026-11-05 15:50"
   },
   "pc_pk": {
-    "ban": 60,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-PK-PC-60.zip",
-    "sha256": "fb96efa525c652fdc5f729e05a54d4d7f431577baedf82bdbf420ce0f72cb05d",
-    "kichThuoc": 37626151,
-    "ghiChu": "Đi tiêu: sửa đứt dây tiêu (không xoá nhầm xe, gửi vị trí trước khi nháy)",
-    "ngay": "2026-11-06 10:22"
+    "ban": 61,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-PK-PC-61.zip",
+    "sha256": "b69ad70033436fc5b956870de78484bf9d145cbe3998db41667c285dd9bcae79",
+    "kichThuoc": 37626230,
+    "ghiChu": "Đi tiêu chống đứt dây: nháy ở mọi góc đường vòng, xe tụt thì quay lại kéo xe",
+    "ngay": "2026-11-06 15:26"
   },
   "pc_ditieu": {
     "ban": 47,
