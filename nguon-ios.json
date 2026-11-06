@@ -68,12 +68,12 @@
       "category": "games",
       "versions": [
         {
-          "version": "27",
-          "buildVersion": "27",
-          "date": "2026-11-06T10:30:00Z",
-          "localizedDescription": "Đi tiêu: sửa đứt dây tiêu",
-          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-PK-27.ipa",
-          "size": 20456255,
+          "version": "28",
+          "buildVersion": "28",
+          "date": "2026-11-06T15:33:00Z",
+          "localizedDescription": "Đi tiêu chống đứt dây",
+          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-PK-28.ipa",
+          "size": 20456966,
           "minOSVersion": "15.0"
         }
       ],
