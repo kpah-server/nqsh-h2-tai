@@ -32,12 +32,12 @@
     "ngay": "2026-11-06 15:24"
   },
   "jar_up": {
-    "ban": 1100,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-Up-v1100.jar",
-    "sha256": "a943031ff30de8ac8bc82dbaefa8244f3cf71977ebf059faf067ac3985e9299e",
-    "kichThuoc": 1238407,
-    "ghiChu": "Đi tiêu: sửa đứt dây tiêu (không xoá nhầm xe, gửi vị trí trước khi nháy)",
-    "ngay": "2026-11-06 10:21"
+    "ban": 1102,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-Up-v1102.jar",
+    "sha256": "8076f40c2acb1fdb4c89c49c10d575a6fe2b71f1533dcb7d8eb4eeb6f83941c0",
+    "kichThuoc": 1238514,
+    "ghiChu": "Đi tiêu chống đứt dây: nháy ở mọi góc đường vòng, xe tụt thì quay lại kéo xe",
+    "ngay": "2026-11-06 15:24"
   },
   "jar_pk": {
     "ban": 1100,
