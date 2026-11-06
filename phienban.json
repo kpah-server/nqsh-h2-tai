@@ -136,12 +136,12 @@
     "ngay": "2026-11-05 16:05"
   },
   "ios_pk": {
-    "ban": 27,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-PK-27.ipa",
-    "sha256": "d14f01dbbb889c75e96dfa4fc67188f9e1424d3ddc0a40d8b3c828ebb0d423e4",
-    "kichThuoc": 20456255,
-    "ghiChu": "Đi tiêu: sửa đứt dây tiêu",
-    "ngay": "2026-11-06 10:30"
+    "ban": 28,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-PK-28.ipa",
+    "sha256": "56e54f9e7167a1a41eaf37db61afcc6863b044cf1fef3f136874a07dc6adf38a",
+    "kichThuoc": 20456966,
+    "ghiChu": "Đi tiêu chống đứt dây",
+    "ngay": "2026-11-06 15:33"
   },
   "ios_ditieu": {
     "ban": 15,
