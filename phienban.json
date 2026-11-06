@@ -72,12 +72,12 @@
     "ngay": "2026-11-05 15:49"
   },
   "android_pk": {
-    "ban": 1480,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-PK-1480.apk",
-    "sha256": "e985a1cc9a11b2076c723fee86a5e0541769a75246f27e46b7fb5f01e6d30b52",
-    "kichThuoc": 1438043,
-    "ghiChu": "Đi tiêu: sửa đứt dây tiêu (không xoá nhầm xe, gửi vị trí trước khi nháy)",
-    "ngay": "2026-11-06 10:21"
+    "ban": 1481,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-PK-1481.apk",
+    "sha256": "69634d575af16d0900be5272e0414a49561b26d26b7bd3d5deb5bfb056bc3019",
+    "kichThuoc": 1438199,
+    "ghiChu": "Đi tiêu chống đứt dây: nháy ở mọi góc đường vòng, xe tụt thì quay lại kéo xe",
+    "ngay": "2026-11-06 15:25"
   },
   "android_ditieu": {
     "ban": 1467,
