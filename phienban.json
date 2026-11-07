@@ -40,12 +40,12 @@
     "ngay": "2026-11-07 16:56"
   },
   "jar_pk": {
-    "ban": 1102,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-PK-v1102.jar",
-    "sha256": "d96290441c257c2ada5e3438e148012f7222dfb7aa78b97eb65a67cbf0728c28",
-    "kichThuoc": 1238514,
-    "ghiChu": "Đi tiêu chống đứt dây: nháy ở mọi góc đường vòng, xe tụt thì quay lại kéo xe",
-    "ngay": "2026-11-06 15:25"
+    "ban": 1104,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-PK-v1104.jar",
+    "sha256": "64306d649fd902a08b8f858ccff8640b7bde3b288fd94e0917160e3e1dddaceb",
+    "kichThuoc": 1238542,
+    "ghiChu": "Hành trang: bán / dùng ngọc, nguyên liệu không còn nhảy con trỏ về ô Hành trang",
+    "ngay": "2026-11-07 16:56"
   },
   "jar_ditieu": {
     "ban": 1049,
