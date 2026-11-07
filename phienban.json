@@ -88,12 +88,12 @@
     "ngay": "2026-11-05 11:48"
   },
   "pc_chedo": {
-    "ban": 51,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-CheDo-PC-51.zip",
-    "sha256": "f9544da46c90fafc9cd816f14682d0c360e32b3401331666fc1dd7b34d180e4b",
-    "kichThuoc": 37624598,
-    "ghiChu": "Auto click nhay o + doi muc tieu; bat Ma PK khong dung The mua ban; Len thanh khong vao nha; hanh trang giu o dang chon",
-    "ngay": "2026-11-05 15:50"
+    "ban": 62,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-CheDo-PC-62.zip",
+    "sha256": "3763b47337671ec8e3124154fb923530dfaa3e1899eecf9fc21b9d33ccf95fb3",
+    "kichThuoc": 37627050,
+    "ghiChu": "Hành trang: bán / dùng ngọc, nguyên liệu không còn nhảy con trỏ về ô Hành trang",
+    "ngay": "2026-11-07 16:59"
   },
   "pc_pk": {
     "ban": 61,
