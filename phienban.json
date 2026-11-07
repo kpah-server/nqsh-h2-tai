@@ -1,11 +1,11 @@
 {
   "jar": {
-    "ban": 1102,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1102.jar",
-    "sha256": "b182391ad719f70b0168be184557cbb73f476bde984d0e2db65e367f6e361e34",
-    "kichThuoc": 1238517,
-    "ghiChu": "Đi tiêu chống đứt dây: nháy ở mọi góc đường vòng, xe tụt thì quay lại kéo xe",
-    "ngay": "2026-11-06 15:24"
+    "ban": 1104,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1104.jar",
+    "sha256": "59b5c6dad9b957c6547bd809a7f0c610445c623a5c9bae23c9e07e91dd420d70",
+    "kichThuoc": 1238545,
+    "ghiChu": "Hành trang: bán / dùng ngọc, nguyên liệu không còn nhảy con trỏ về ô Hành trang",
+    "ngay": "2026-11-07 16:55"
   },
   "android": {
     "ban": 1446,
@@ -24,12 +24,12 @@
     "ngay": "2026-10-23 11:47"
   },
   "jar_chedo": {
-    "ban": 1102,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1102.jar",
-    "sha256": "b182391ad719f70b0168be184557cbb73f476bde984d0e2db65e367f6e361e34",
-    "kichThuoc": 1238517,
-    "ghiChu": "Đi tiêu chống đứt dây: nháy ở mọi góc đường vòng, xe tụt thì quay lại kéo xe",
-    "ngay": "2026-11-06 15:24"
+    "ban": 1104,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1104.jar",
+    "sha256": "59b5c6dad9b957c6547bd809a7f0c610445c623a5c9bae23c9e07e91dd420d70",
+    "kichThuoc": 1238545,
+    "ghiChu": "Hành trang: bán / dùng ngọc, nguyên liệu không còn nhảy con trỏ về ô Hành trang",
+    "ngay": "2026-11-07 16:55"
   },
   "jar_up": {
     "ban": 1102,
