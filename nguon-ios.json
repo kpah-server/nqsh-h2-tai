@@ -18,12 +18,12 @@
       "category": "games",
       "versions": [
         {
-          "version": "29",
-          "buildVersion": "29",
-          "date": "2026-11-07T17:07:00Z",
-          "localizedDescription": "Hành trang: bán / dùng ngọc, nguyên liệu không còn nhảy con trỏ về ô Hành trang",
-          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-CheDo-29.ipa",
-          "size": 20456655,
+          "version": "30",
+          "buildVersion": "30",
+          "date": "2026-11-07T19:23:00Z",
+          "localizedDescription": "Sửa bán đồ ở cửa hàng bị đứng; đi tiêu hết giật lùi khi nháy, đường vòng không nháy từng ô",
+          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-CheDo-30.ipa",
+          "size": 20458838,
           "minOSVersion": "15.0"
         }
       ],
