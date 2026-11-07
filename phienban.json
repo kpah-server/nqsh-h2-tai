@@ -136,12 +136,12 @@
     "ngay": "2026-11-07 17:13"
   },
   "ios_pk": {
-    "ban": 28,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-PK-28.ipa",
-    "sha256": "56e54f9e7167a1a41eaf37db61afcc6863b044cf1fef3f136874a07dc6adf38a",
-    "kichThuoc": 20456966,
-    "ghiChu": "Đi tiêu chống đứt dây",
-    "ngay": "2026-11-06 15:33"
+    "ban": 29,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-PK-29.ipa",
+    "sha256": "758258fe51ddb5c0421c13688b571cf3cb605c698e7c1de2cf43ce4741188bf6",
+    "kichThuoc": 20456620,
+    "ghiChu": "Hành trang: bán / dùng ngọc, nguyên liệu không còn nhảy con trỏ về ô Hành trang",
+    "ngay": "2026-11-07 17:19"
   },
   "ios_ditieu": {
     "ban": 15,
