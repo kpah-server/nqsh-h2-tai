@@ -68,12 +68,12 @@
       "category": "games",
       "versions": [
         {
-          "version": "28",
-          "buildVersion": "28",
-          "date": "2026-11-06T15:33:00Z",
-          "localizedDescription": "Đi tiêu chống đứt dây",
-          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-PK-28.ipa",
-          "size": 20456966,
+          "version": "29",
+          "buildVersion": "29",
+          "date": "2026-11-07T17:19:00Z",
+          "localizedDescription": "Hành trang: bán / dùng ngọc, nguyên liệu không còn nhảy con trỏ về ô Hành trang",
+          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-PK-29.ipa",
+          "size": 20456620,
           "minOSVersion": "15.0"
         }
       ],
