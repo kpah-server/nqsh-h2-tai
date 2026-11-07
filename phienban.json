@@ -72,12 +72,12 @@
     "ngay": "2026-11-07 16:57"
   },
   "android_pk": {
-    "ban": 1481,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-PK-1481.apk",
-    "sha256": "69634d575af16d0900be5272e0414a49561b26d26b7bd3d5deb5bfb056bc3019",
-    "kichThuoc": 1438199,
-    "ghiChu": "Đi tiêu chống đứt dây: nháy ở mọi góc đường vòng, xe tụt thì quay lại kéo xe",
-    "ngay": "2026-11-06 15:25"
+    "ban": 1482,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-PK-1482.apk",
+    "sha256": "51f93bc6b4be1136ee03d20efbc16a902ca8c8c3aa7ed65bc6161649527bf81c",
+    "kichThuoc": 1438255,
+    "ghiChu": "Hành trang: bán / dùng ngọc, nguyên liệu không còn nhảy con trỏ về ô Hành trang",
+    "ngay": "2026-11-07 16:58"
   },
   "android_ditieu": {
     "ban": 1467,
