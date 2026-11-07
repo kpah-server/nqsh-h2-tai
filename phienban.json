@@ -120,12 +120,12 @@
     "ngay": "2026-11-07 17:00"
   },
   "ios_chedo": {
-    "ban": 29,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-CheDo-29.ipa",
-    "sha256": "5c0207220802630fe2926242f7e7397fd455dd91b3a49347b3c58b5da0cd754b",
-    "kichThuoc": 20456655,
-    "ghiChu": "Hành trang: bán / dùng ngọc, nguyên liệu không còn nhảy con trỏ về ô Hành trang",
-    "ngay": "2026-11-07 17:07"
+    "ban": 30,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-CheDo-30.ipa",
+    "sha256": "ce7cd6da023dea0494064fdfef85572ca5bfa89e7d477f89b898fe6bc4e9b71d",
+    "kichThuoc": 20458838,
+    "ghiChu": "Sửa bán đồ ở cửa hàng bị đứng; đi tiêu hết giật lùi khi nháy, đường vòng không nháy từng ô",
+    "ngay": "2026-11-07 19:23"
   },
   "ios_up": {
     "ban": 29,
