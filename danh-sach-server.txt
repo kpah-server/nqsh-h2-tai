@@ -1,4 +1,0 @@
-# Danh sach server NQSH-H2 - nguon du phong cua client (chinh: https://nqsh-h2.top/robots.txt do Nova phat).
-# Moi dong: Ten|host|cong (cong <= 32767). Thu tu = thu tu uu tien: client loi ket noi thi tu thu dong ke tiep.
-# Them edge rieng (repo kpah-edge) DUOI dong Nova; host edge phai co trong hosts= cua xacthuc.key tren server.
-samlol2|nqsh-h2.top|30774
