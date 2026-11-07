@@ -64,12 +64,12 @@
     "ngay": "2026-11-07 16:57"
   },
   "android_up": {
-    "ban": 1471,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-Up-1471.apk",
-    "sha256": "9219f842e3caaa7cadafb094883b9e19a3d630899fdc9b69b171b184ea74af4c",
-    "kichThuoc": 1431983,
-    "ghiChu": "Auto click nhay o + doi muc tieu; bat Ma PK khong dung The mua ban; Len thanh khong vao nha; hanh trang giu o dang chon",
-    "ngay": "2026-11-05 15:49"
+    "ban": 1482,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-Up-1482.apk",
+    "sha256": "b6bdf424898bcfcc24192f63f7fc7c08a7b8480356f4683451bc82170a21be93",
+    "kichThuoc": 1432459,
+    "ghiChu": "Hành trang: bán / dùng ngọc, nguyên liệu không còn nhảy con trỏ về ô Hành trang",
+    "ngay": "2026-11-07 16:57"
   },
   "android_pk": {
     "ban": 1481,
