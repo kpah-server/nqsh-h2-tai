@@ -128,12 +128,12 @@
     "ngay": "2026-11-07 19:23"
   },
   "ios_up": {
-    "ban": 29,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-Up-29.ipa",
-    "sha256": "c37d8725912a77f2cf19f829c34d77a38185e5e01bc999739603bc3cb577e26b",
-    "kichThuoc": 20456611,
-    "ghiChu": "Hành trang: bán / dùng ngọc, nguyên liệu không còn nhảy con trỏ về ô Hành trang",
-    "ngay": "2026-11-07 17:13"
+    "ban": 30,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-Up-30.ipa",
+    "sha256": "2a858be2a4657d71be700c29466b4fd6b56a02f7cc21e044709300f2fa5b1935",
+    "kichThuoc": 20458803,
+    "ghiChu": "Sửa bán đồ ở cửa hàng bị đứng; đi tiêu hết giật lùi khi nháy, đường vòng không nháy từng ô",
+    "ngay": "2026-11-07 19:31"
   },
   "ios_pk": {
     "ban": 29,
