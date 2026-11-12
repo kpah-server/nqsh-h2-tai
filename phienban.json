@@ -88,12 +88,12 @@
     "ngay": "2026-11-05 11:48"
   },
   "pc_chedo": {
-    "ban": 63,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-CheDo-PC-63.zip",
-    "sha256": "2b390156c6ec2f452b1fed8b18f00a8b6a557981de2e58e854a42c03a51596bc",
-    "kichThuoc": 37627510,
-    "ghiChu": "Auto up không còn đứng vì popup sau khi chết; đi tiêu Đông Sơn không bỏ xe bên kia vách; sửa bán đồ, giật lùi khi nháy",
-    "ngay": "2026-11-12 19:14"
+    "ban": 64,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-CheDo-PC-64.zip",
+    "sha256": "3f59eb4fb952f37a58c3f4736f4683109ba5742ff7803d4f52a0e9cf599e577e",
+    "kichThuoc": 37627842,
+    "ghiChu": "Sua bam NPC (Phu ong) khong mo cua hang; sua mat ket noi khi mua nguyen lieu so luong lon",
+    "ngay": "2026-11-12 23:27"
   },
   "pc_pk": {
     "ban": 63,
