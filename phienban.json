@@ -32,12 +32,12 @@
     "ngay": "2026-11-12 23:48"
   },
   "jar_up": {
-    "ban": 1113,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-Up-v1113.jar",
-    "sha256": "6aee076361a797b5758a7f31cb877939bb087faacb656e8f576fdfad85a6ee06",
-    "kichThuoc": 1239137,
-    "ghiChu": "Sua bam NPC (Phu ong) khong mo cua hang; PC: sua mat ket noi khi mua nguyen lieu so luong lon",
-    "ngay": "2026-11-12 23:25"
+    "ban": 1115,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-Up-v1115.jar",
+    "sha256": "fb46931c8a34408d06c4266ec75baf2a2027fcaec102865de19031417da006ea",
+    "kichThuoc": 1239188,
+    "ghiChu": "Bo gioi han 32767 so nguyen lieu (tren 32767 khong con hien so am)",
+    "ngay": "2026-11-12 23:48"
   },
   "jar_pk": {
     "ban": 1113,
