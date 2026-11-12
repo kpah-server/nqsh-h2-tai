@@ -56,12 +56,12 @@
     "ngay": "2026-11-05 11:46"
   },
   "android_chedo": {
-    "ban": 1485,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-CheDo-1485.apk",
-    "sha256": "497da82e45e78f46ec881cbc71f257fad089dbc5652a9edefde8ebdf8c560c4d",
-    "kichThuoc": 1422135,
-    "ghiChu": "Sua bam NPC (Phu ong) khong mo cua hang; PC: sua mat ket noi khi mua nguyen lieu so luong lon",
-    "ngay": "2026-11-12 23:26"
+    "ban": 1486,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-CheDo-1486.apk",
+    "sha256": "6ee6988ae5e5248f5b7041f27f7470949e4e74803678bfa05abb89c4b64f6e8b",
+    "kichThuoc": 1422203,
+    "ghiChu": "Bo gioi han 32767 so nguyen lieu (tren 32767 khong con hien so am)",
+    "ngay": "2026-11-12 23:49"
   },
   "android_up": {
     "ban": 1485,
