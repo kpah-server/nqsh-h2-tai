@@ -72,12 +72,12 @@
     "ngay": "2026-11-12 23:26"
   },
   "android_pk": {
-    "ban": 1484,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-PK-1484.apk",
-    "sha256": "6f553c443e804e864c550ce03fb8fd6fa70a7d318402c507543a6276f6620670",
-    "kichThuoc": 1438555,
-    "ghiChu": "Auto up không còn đứng vì popup sau khi chết; đi tiêu Đông Sơn không bỏ xe bên kia vách; sửa bán đồ, giật lùi khi nháy",
-    "ngay": "2026-11-12 19:14"
+    "ban": 1485,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-PK-1485.apk",
+    "sha256": "5f445d8d8fcd138cdf97b79d6d26a8706a824f517d96ff228c1dc423bd2692a6",
+    "kichThuoc": 1438539,
+    "ghiChu": "Sua bam NPC (Phu ong) khong mo cua hang; PC: sua mat ket noi khi mua nguyen lieu so luong lon",
+    "ngay": "2026-11-12 23:27"
   },
   "android_ditieu": {
     "ban": 1467,
