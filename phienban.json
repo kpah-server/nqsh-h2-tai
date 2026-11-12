@@ -56,12 +56,12 @@
     "ngay": "2026-11-05 11:46"
   },
   "android_chedo": {
-    "ban": 1484,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-CheDo-1484.apk",
-    "sha256": "7b17f9d6afec6fcecb02d3220053efabfdc7970d2cceac46a7679e5cfb8c276a",
-    "kichThuoc": 1422155,
-    "ghiChu": "Auto up không còn đứng vì popup sau khi chết; đi tiêu Đông Sơn không bỏ xe bên kia vách; sửa bán đồ, giật lùi khi nháy",
-    "ngay": "2026-11-12 19:13"
+    "ban": 1485,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-CheDo-1485.apk",
+    "sha256": "497da82e45e78f46ec881cbc71f257fad089dbc5652a9edefde8ebdf8c560c4d",
+    "kichThuoc": 1422135,
+    "ghiChu": "Sua bam NPC (Phu ong) khong mo cua hang; PC: sua mat ket noi khi mua nguyen lieu so luong lon",
+    "ngay": "2026-11-12 23:26"
   },
   "android_up": {
     "ban": 1484,
