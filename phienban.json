@@ -88,12 +88,12 @@
     "ngay": "2026-11-05 11:48"
   },
   "pc_chedo": {
-    "ban": 62,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-CheDo-PC-62.zip",
-    "sha256": "3763b47337671ec8e3124154fb923530dfaa3e1899eecf9fc21b9d33ccf95fb3",
-    "kichThuoc": 37627050,
-    "ghiChu": "Hành trang: bán / dùng ngọc, nguyên liệu không còn nhảy con trỏ về ô Hành trang",
-    "ngay": "2026-11-07 16:59"
+    "ban": 63,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-CheDo-PC-63.zip",
+    "sha256": "2b390156c6ec2f452b1fed8b18f00a8b6a557981de2e58e854a42c03a51596bc",
+    "kichThuoc": 37627510,
+    "ghiChu": "Auto up không còn đứng vì popup sau khi chết; đi tiêu Đông Sơn không bỏ xe bên kia vách; sửa bán đồ, giật lùi khi nháy",
+    "ngay": "2026-11-12 19:14"
   },
   "pc_pk": {
     "ban": 62,
