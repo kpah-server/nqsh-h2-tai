@@ -43,12 +43,12 @@
       "category": "games",
       "versions": [
         {
-          "version": "31",
-          "buildVersion": "31",
-          "date": "2026-11-12T19:27:00Z",
-          "localizedDescription": "Auto up không còn đứng vì popup sau khi chết; đi tiêu Đông Sơn không bỏ xe bên kia vách; sửa bán đồ, giật lùi khi nháy",
-          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-Up-31.ipa",
-          "size": 20457606,
+          "version": "32",
+          "buildVersion": "32",
+          "date": "2026-11-12T23:44:00Z",
+          "localizedDescription": "Sua bam NPC (Phu ong) khong mo cua hang; sua mat ket noi khi mua nguyen lieu so luong lon",
+          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-Up-32.ipa",
+          "size": 20458013,
           "minOSVersion": "15.0"
         }
       ],
