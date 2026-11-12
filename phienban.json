@@ -1,11 +1,11 @@
 {
   "jar": {
-    "ban": 1108,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1108.jar",
-    "sha256": "9ce37327852a3ed1bb5a2fbc6d22f2a61d165a5100869c7b7551cfce8c23321e",
-    "kichThuoc": 1238721,
-    "ghiChu": "Sửa bán đồ ở cửa hàng bị đứng; đi tiêu hết giật lùi khi nháy, đường vòng không nháy từng ô",
-    "ngay": "2026-11-07 19:13"
+    "ban": 1111,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1111.jar",
+    "sha256": "44d74070c9235dc6cfcd48352a4782e8e2f714b07c92064142ea8d40c0e2fe5e",
+    "kichThuoc": 1239147,
+    "ghiChu": "Auto up không còn đứng vì popup sau khi chết; đi tiêu Đông Sơn không bỏ xe bên kia vách; sửa bán đồ, giật lùi khi nháy",
+    "ngay": "2026-11-12 19:11"
   },
   "android": {
     "ban": 1446,
@@ -24,12 +24,12 @@
     "ngay": "2026-10-23 11:47"
   },
   "jar_chedo": {
-    "ban": 1108,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1108.jar",
-    "sha256": "9ce37327852a3ed1bb5a2fbc6d22f2a61d165a5100869c7b7551cfce8c23321e",
-    "kichThuoc": 1238721,
-    "ghiChu": "Sửa bán đồ ở cửa hàng bị đứng; đi tiêu hết giật lùi khi nháy, đường vòng không nháy từng ô",
-    "ngay": "2026-11-07 19:13"
+    "ban": 1111,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1111.jar",
+    "sha256": "44d74070c9235dc6cfcd48352a4782e8e2f714b07c92064142ea8d40c0e2fe5e",
+    "kichThuoc": 1239147,
+    "ghiChu": "Auto up không còn đứng vì popup sau khi chết; đi tiêu Đông Sơn không bỏ xe bên kia vách; sửa bán đồ, giật lùi khi nháy",
+    "ngay": "2026-11-12 19:11"
   },
   "jar_up": {
     "ban": 1108,
