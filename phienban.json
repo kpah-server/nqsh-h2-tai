@@ -56,12 +56,12 @@
     "ngay": "2026-11-05 11:46"
   },
   "android_chedo": {
-    "ban": 1483,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-CheDo-1483.apk",
-    "sha256": "8310717a203400ec4819af638715e0868ede21aa45735ac216e7e8d8887dbccf",
-    "kichThuoc": 1422151,
-    "ghiChu": "Sửa bán đồ ở cửa hàng bị đứng; đi tiêu hết giật lùi khi nháy, đường vòng không nháy từng ô",
-    "ngay": "2026-11-07 19:15"
+    "ban": 1484,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-CheDo-1484.apk",
+    "sha256": "7b17f9d6afec6fcecb02d3220053efabfdc7970d2cceac46a7679e5cfb8c276a",
+    "kichThuoc": 1422155,
+    "ghiChu": "Auto up không còn đứng vì popup sau khi chết; đi tiêu Đông Sơn không bỏ xe bên kia vách; sửa bán đồ, giật lùi khi nháy",
+    "ngay": "2026-11-12 19:13"
   },
   "android_up": {
     "ban": 1482,
