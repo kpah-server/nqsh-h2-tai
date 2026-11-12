@@ -120,12 +120,12 @@
     "ngay": "2026-11-12 19:15"
   },
   "ios_chedo": {
-    "ban": 30,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-CheDo-30.ipa",
-    "sha256": "ce7cd6da023dea0494064fdfef85572ca5bfa89e7d477f89b898fe6bc4e9b71d",
-    "kichThuoc": 20458838,
-    "ghiChu": "Sửa bán đồ ở cửa hàng bị đứng; đi tiêu hết giật lùi khi nháy, đường vòng không nháy từng ô",
-    "ngay": "2026-11-07 19:23"
+    "ban": 31,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-CheDo-31.ipa",
+    "sha256": "61c61b9c4dc4a3ef98d3893f5114084be61371d6653bc184623e724bc8d1921e",
+    "kichThuoc": 20457645,
+    "ghiChu": "Auto up không còn đứng vì popup sau khi chết; đi tiêu Đông Sơn không bỏ xe bên kia vách; sửa bán đồ, giật lùi khi nháy",
+    "ngay": "2026-11-12 19:22"
   },
   "ios_up": {
     "ban": 30,
