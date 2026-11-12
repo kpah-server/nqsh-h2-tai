@@ -32,12 +32,12 @@
     "ngay": "2026-11-12 23:24"
   },
   "jar_up": {
-    "ban": 1111,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-Up-v1111.jar",
-    "sha256": "474b1ef8ecbc668e438ac473a5ebe47d18ac45dfa4e884b1ab3d43c8545d40fc",
-    "kichThuoc": 1239144,
-    "ghiChu": "Auto up không còn đứng vì popup sau khi chết; đi tiêu Đông Sơn không bỏ xe bên kia vách; sửa bán đồ, giật lùi khi nháy",
-    "ngay": "2026-11-12 19:12"
+    "ban": 1113,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-Up-v1113.jar",
+    "sha256": "6aee076361a797b5758a7f31cb877939bb087faacb656e8f576fdfad85a6ee06",
+    "kichThuoc": 1239137,
+    "ghiChu": "Sua bam NPC (Phu ong) khong mo cua hang; PC: sua mat ket noi khi mua nguyen lieu so luong lon",
+    "ngay": "2026-11-12 23:25"
   },
   "jar_pk": {
     "ban": 1111,
