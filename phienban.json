@@ -72,12 +72,12 @@
     "ngay": "2026-11-13 00:11"
   },
   "android_pk": {
-    "ban": 1486,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-PK-1486.apk",
-    "sha256": "3264d27c9a2044489f3b3cfd6b54804519e15af1f4e7e9457bf90480566efae9",
-    "kichThuoc": 1438587,
-    "ghiChu": "Bo gioi han 32767 so nguyen lieu (tren 32767 khong con hien so am)",
-    "ngay": "2026-11-12 23:50"
+    "ban": 1487,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-PK-1487.apk",
+    "sha256": "24ba577e7e7f268024742e64834230ece45629d4cb42fe97ed2a0865d2f50895",
+    "kichThuoc": 1438583,
+    "ghiChu": "Hanh trang 1 dai cuon lien nhieu cot (nhu ban PK) cho moi ban",
+    "ngay": "2026-11-13 00:11"
   },
   "android_ditieu": {
     "ban": 1467,
