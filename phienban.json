@@ -32,12 +32,12 @@
     "ngay": "2026-11-13 00:09"
   },
   "jar_up": {
-    "ban": 1115,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-Up-v1115.jar",
-    "sha256": "fb46931c8a34408d06c4266ec75baf2a2027fcaec102865de19031417da006ea",
-    "kichThuoc": 1239188,
-    "ghiChu": "Bo gioi han 32767 so nguyen lieu (tren 32767 khong con hien so am)",
-    "ngay": "2026-11-12 23:48"
+    "ban": 1117,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-Up-v1117.jar",
+    "sha256": "d1c33bf8a15f9a722bfe78dd19b1444f38f134188c5293af74ff0d49b4c24056",
+    "kichThuoc": 1239198,
+    "ghiChu": "Hanh trang 1 dai cuon lien nhieu cot (nhu ban PK) cho moi ban",
+    "ngay": "2026-11-13 00:09"
   },
   "jar_pk": {
     "ban": 1115,
