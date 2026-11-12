@@ -1,11 +1,11 @@
 {
   "jar": {
-    "ban": 1111,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1111.jar",
-    "sha256": "44d74070c9235dc6cfcd48352a4782e8e2f714b07c92064142ea8d40c0e2fe5e",
-    "kichThuoc": 1239147,
-    "ghiChu": "Auto up không còn đứng vì popup sau khi chết; đi tiêu Đông Sơn không bỏ xe bên kia vách; sửa bán đồ, giật lùi khi nháy",
-    "ngay": "2026-11-12 19:11"
+    "ban": 1113,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1113.jar",
+    "sha256": "392e0db7248ddc2250bf0964dcd8960b5cbf285be10fba0ee4e9bd9c678c19bb",
+    "kichThuoc": 1239140,
+    "ghiChu": "Sua bam NPC (Phu ong) khong mo cua hang; PC: sua mat ket noi khi mua nguyen lieu so luong lon",
+    "ngay": "2026-11-12 23:24"
   },
   "android": {
     "ban": 1446,
@@ -24,12 +24,12 @@
     "ngay": "2026-10-23 11:47"
   },
   "jar_chedo": {
-    "ban": 1111,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1111.jar",
-    "sha256": "44d74070c9235dc6cfcd48352a4782e8e2f714b07c92064142ea8d40c0e2fe5e",
-    "kichThuoc": 1239147,
-    "ghiChu": "Auto up không còn đứng vì popup sau khi chết; đi tiêu Đông Sơn không bỏ xe bên kia vách; sửa bán đồ, giật lùi khi nháy",
-    "ngay": "2026-11-12 19:11"
+    "ban": 1113,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1113.jar",
+    "sha256": "392e0db7248ddc2250bf0964dcd8960b5cbf285be10fba0ee4e9bd9c678c19bb",
+    "kichThuoc": 1239140,
+    "ghiChu": "Sua bam NPC (Phu ong) khong mo cua hang; PC: sua mat ket noi khi mua nguyen lieu so luong lon",
+    "ngay": "2026-11-12 23:24"
   },
   "jar_up": {
     "ban": 1111,
