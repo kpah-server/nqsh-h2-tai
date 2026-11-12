@@ -72,12 +72,12 @@
     "ngay": "2026-11-12 19:13"
   },
   "android_pk": {
-    "ban": 1482,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-PK-1482.apk",
-    "sha256": "51f93bc6b4be1136ee03d20efbc16a902ca8c8c3aa7ed65bc6161649527bf81c",
-    "kichThuoc": 1438255,
-    "ghiChu": "Hành trang: bán / dùng ngọc, nguyên liệu không còn nhảy con trỏ về ô Hành trang",
-    "ngay": "2026-11-07 16:58"
+    "ban": 1484,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-PK-1484.apk",
+    "sha256": "6f553c443e804e864c550ce03fb8fd6fa70a7d318402c507543a6276f6620670",
+    "kichThuoc": 1438555,
+    "ghiChu": "Auto up không còn đứng vì popup sau khi chết; đi tiêu Đông Sơn không bỏ xe bên kia vách; sửa bán đồ, giật lùi khi nháy",
+    "ngay": "2026-11-12 19:14"
   },
   "android_ditieu": {
     "ban": 1467,
