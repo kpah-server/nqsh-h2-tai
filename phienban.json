@@ -1,11 +1,11 @@
 {
   "jar": {
-    "ban": 1113,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1113.jar",
-    "sha256": "392e0db7248ddc2250bf0964dcd8960b5cbf285be10fba0ee4e9bd9c678c19bb",
-    "kichThuoc": 1239140,
-    "ghiChu": "Sua bam NPC (Phu ong) khong mo cua hang; PC: sua mat ket noi khi mua nguyen lieu so luong lon",
-    "ngay": "2026-11-12 23:24"
+    "ban": 1115,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1115.jar",
+    "sha256": "e3d55d4624ee6f9851c581c77c6348bc2514bb1afa2d7a6fa219bf4e8989be63",
+    "kichThuoc": 1239191,
+    "ghiChu": "Bo gioi han 32767 so nguyen lieu (tren 32767 khong con hien so am)",
+    "ngay": "2026-11-12 23:48"
   },
   "android": {
     "ban": 1446,
@@ -24,12 +24,12 @@
     "ngay": "2026-10-23 11:47"
   },
   "jar_chedo": {
-    "ban": 1113,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1113.jar",
-    "sha256": "392e0db7248ddc2250bf0964dcd8960b5cbf285be10fba0ee4e9bd9c678c19bb",
-    "kichThuoc": 1239140,
-    "ghiChu": "Sua bam NPC (Phu ong) khong mo cua hang; PC: sua mat ket noi khi mua nguyen lieu so luong lon",
-    "ngay": "2026-11-12 23:24"
+    "ban": 1115,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1115.jar",
+    "sha256": "e3d55d4624ee6f9851c581c77c6348bc2514bb1afa2d7a6fa219bf4e8989be63",
+    "kichThuoc": 1239191,
+    "ghiChu": "Bo gioi han 32767 so nguyen lieu (tren 32767 khong con hien so am)",
+    "ngay": "2026-11-12 23:48"
   },
   "jar_up": {
     "ban": 1113,
