@@ -1,11 +1,11 @@
 {
   "jar": {
-    "ban": 1115,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1115.jar",
-    "sha256": "e3d55d4624ee6f9851c581c77c6348bc2514bb1afa2d7a6fa219bf4e8989be63",
-    "kichThuoc": 1239191,
-    "ghiChu": "Bo gioi han 32767 so nguyen lieu (tren 32767 khong con hien so am)",
-    "ngay": "2026-11-12 23:48"
+    "ban": 1117,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1117.jar",
+    "sha256": "02312f771ddd448003d928c1f9f53fe35676b1cefbba1a36098cbc14441757d5",
+    "kichThuoc": 1239200,
+    "ghiChu": "Hanh trang 1 dai cuon lien nhieu cot (nhu ban PK) cho moi ban",
+    "ngay": "2026-11-13 00:09"
   },
   "android": {
     "ban": 1446,
@@ -24,12 +24,12 @@
     "ngay": "2026-10-23 11:47"
   },
   "jar_chedo": {
-    "ban": 1115,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1115.jar",
-    "sha256": "e3d55d4624ee6f9851c581c77c6348bc2514bb1afa2d7a6fa219bf4e8989be63",
-    "kichThuoc": 1239191,
-    "ghiChu": "Bo gioi han 32767 so nguyen lieu (tren 32767 khong con hien so am)",
-    "ngay": "2026-11-12 23:48"
+    "ban": 1117,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1117.jar",
+    "sha256": "02312f771ddd448003d928c1f9f53fe35676b1cefbba1a36098cbc14441757d5",
+    "kichThuoc": 1239200,
+    "ghiChu": "Hanh trang 1 dai cuon lien nhieu cot (nhu ban PK) cho moi ban",
+    "ngay": "2026-11-13 00:09"
   },
   "jar_up": {
     "ban": 1115,
