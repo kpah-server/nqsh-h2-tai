@@ -18,12 +18,12 @@
       "category": "games",
       "versions": [
         {
-          "version": "30",
-          "buildVersion": "30",
-          "date": "2026-11-07T19:23:00Z",
-          "localizedDescription": "Sửa bán đồ ở cửa hàng bị đứng; đi tiêu hết giật lùi khi nháy, đường vòng không nháy từng ô",
-          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-CheDo-30.ipa",
-          "size": 20458838,
+          "version": "31",
+          "buildVersion": "31",
+          "date": "2026-11-12T19:22:00Z",
+          "localizedDescription": "Auto up không còn đứng vì popup sau khi chết; đi tiêu Đông Sơn không bỏ xe bên kia vách; sửa bán đồ, giật lùi khi nháy",
+          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-CheDo-31.ipa",
+          "size": 20457645,
           "minOSVersion": "15.0"
         }
       ],
