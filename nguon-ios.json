@@ -68,12 +68,12 @@
       "category": "games",
       "versions": [
         {
-          "version": "33",
-          "buildVersion": "33",
-          "date": "2026-11-17T19:41:00Z",
-          "localizedDescription": "Bang xep hang: bam Menu la hien Xem them, khong can chon dong truoc",
-          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-PK-33.ipa",
-          "size": 20460280,
+          "version": "34",
+          "buildVersion": "34",
+          "date": "2026-11-17T20:16:00Z",
+          "localizedDescription": "Them nhat ky client",
+          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-PK-34.ipa",
+          "size": 20491238,
           "minOSVersion": "15.0"
         }
       ],
