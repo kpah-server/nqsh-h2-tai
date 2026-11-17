@@ -68,12 +68,12 @@
       "category": "games",
       "versions": [
         {
-          "version": "31",
-          "buildVersion": "31",
-          "date": "2026-11-12T19:33:00Z",
-          "localizedDescription": "Auto up không còn đứng vì popup sau khi chết; đi tiêu Đông Sơn không bỏ xe bên kia vách; sửa bán đồ, giật lùi khi nháy",
-          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-PK-31.ipa",
-          "size": 20457605,
+          "version": "33",
+          "buildVersion": "33",
+          "date": "2026-11-17T19:41:00Z",
+          "localizedDescription": "Bang xep hang: bam Menu la hien Xem them, khong can chon dong truoc",
+          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-PK-33.ipa",
+          "size": 20460280,
           "minOSVersion": "15.0"
         }
       ],
