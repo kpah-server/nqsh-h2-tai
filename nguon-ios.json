@@ -43,12 +43,12 @@
       "category": "games",
       "versions": [
         {
-          "version": "32",
-          "buildVersion": "32",
-          "date": "2026-11-12T23:44:00Z",
-          "localizedDescription": "Sua bam NPC (Phu ong) khong mo cua hang; sua mat ket noi khi mua nguyen lieu so luong lon",
-          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-Up-32.ipa",
-          "size": 20458013,
+          "version": "33",
+          "buildVersion": "33",
+          "date": "2026-11-17T19:33:00Z",
+          "localizedDescription": "Bang xep hang: bam Menu la hien Xem them, khong can chon dong truoc",
+          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-Up-33.ipa",
+          "size": 20460281,
           "minOSVersion": "15.0"
         }
       ],
