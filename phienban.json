@@ -128,12 +128,12 @@
     "ngay": "2026-11-17 19:54"
   },
   "ios_up": {
-    "ban": 33,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-Up-33.ipa",
-    "sha256": "fdab0d24c74f6a066be3f258810735a0ca508543d2c16afc274efcabeb1be3d5",
-    "kichThuoc": 20460281,
-    "ghiChu": "Bang xep hang: bam Menu la hien Xem them, khong can chon dong truoc",
-    "ngay": "2026-11-17 19:33"
+    "ban": 34,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-Up-34.ipa",
+    "sha256": "524c19dcf494d7e334dbd100bf396247d4133e2898751bb32259cb8d63c11208",
+    "kichThuoc": 20491231,
+    "ghiChu": "Them nhat ky client",
+    "ngay": "2026-11-17 20:00"
   },
   "ios_pk": {
     "ban": 33,
