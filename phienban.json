@@ -128,12 +128,12 @@
     "ngay": "2026-11-17 19:27"
   },
   "ios_up": {
-    "ban": 32,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-Up-32.ipa",
-    "sha256": "d356f3f9d21d80442d4b0f5b944fde8b169ea8ce62181d34a0a38f6ec02a27f0",
-    "kichThuoc": 20458013,
-    "ghiChu": "Sua bam NPC (Phu ong) khong mo cua hang; sua mat ket noi khi mua nguyen lieu so luong lon",
-    "ngay": "2026-11-12 23:44"
+    "ban": 33,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-Up-33.ipa",
+    "sha256": "fdab0d24c74f6a066be3f258810735a0ca508543d2c16afc274efcabeb1be3d5",
+    "kichThuoc": 20460281,
+    "ghiChu": "Bang xep hang: bam Menu la hien Xem them, khong can chon dong truoc",
+    "ngay": "2026-11-17 19:33"
   },
   "ios_pk": {
     "ban": 31,
