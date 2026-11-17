@@ -136,12 +136,12 @@
     "ngay": "2026-11-17 19:33"
   },
   "ios_pk": {
-    "ban": 31,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-PK-31.ipa",
-    "sha256": "1ef6efd79d022c3a80b1318e1da7a9fe31023a0fdc9786d2932618c426b0cf71",
-    "kichThuoc": 20457605,
-    "ghiChu": "Auto up không còn đứng vì popup sau khi chết; đi tiêu Đông Sơn không bỏ xe bên kia vách; sửa bán đồ, giật lùi khi nháy",
-    "ngay": "2026-11-12 19:33"
+    "ban": 33,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-PK-33.ipa",
+    "sha256": "abff1f93709c823083ce0f49041b179c2f2227c993e7656ee7de8877ee591fb5",
+    "kichThuoc": 20460280,
+    "ghiChu": "Bang xep hang: bam Menu la hien Xem them, khong can chon dong truoc",
+    "ngay": "2026-11-17 19:41"
   },
   "ios_ditieu": {
     "ban": 15,
