@@ -88,12 +88,12 @@
     "ngay": "2026-11-05 11:48"
   },
   "pc_chedo": {
-    "ban": 66,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-CheDo-PC-66.zip",
-    "sha256": "39b27cebc7370ee94997977ceae3ff112649f936c011dbdb9ef64147f855915c",
-    "kichThuoc": 37627957,
-    "ghiChu": "Hanh trang 1 dai cuon lien nhieu cot (nhu ban PK) cho moi ban",
-    "ngay": "2026-11-13 00:12"
+    "ban": 67,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-CheDo-PC-67.zip",
+    "sha256": "fe1880361bfbbadb0ef5eeeed9058c1f41898aa44f213c9acd262097b9af4fbb",
+    "kichThuoc": 37627961,
+    "ghiChu": "Bang xep hang: bam Menu la hien Xem them, khong can chon dong truoc",
+    "ngay": "2026-11-17 19:08"
   },
   "pc_pk": {
     "ban": 66,
