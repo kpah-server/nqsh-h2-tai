@@ -120,12 +120,12 @@
     "ngay": "2026-11-18 22:18"
   },
   "ios_chedo": {
-    "ban": 34,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-CheDo-34.ipa",
-    "sha256": "53721242f65f5949af79bcdafd4ff4a5f6b9d8f9d2ccc9d54579600e956d6446",
-    "kichThuoc": 20491273,
-    "ghiChu": "Them nhat ky client",
-    "ngay": "2026-11-17 19:54"
+    "ban": 35,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-CheDo-35.ipa",
+    "sha256": "353b76e3803353ee1e5cf8db53f16ede5fc21e797d49b6d45ace53ff1a0f2937",
+    "kichThuoc": 20490773,
+    "ghiChu": "Sua loi khong vao duoc game o ban 34; cong server 10664",
+    "ngay": "2026-11-18 22:33"
   },
   "ios_up": {
     "ban": 34,
