@@ -68,12 +68,12 @@
       "category": "games",
       "versions": [
         {
-          "version": "34",
-          "buildVersion": "34",
-          "date": "2026-11-17T20:16:00Z",
-          "localizedDescription": "Them nhat ky client",
-          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-PK-34.ipa",
-          "size": 20491238,
+          "version": "36",
+          "buildVersion": "36",
+          "date": "2026-11-18T23:22:00Z",
+          "localizedDescription": "Sua loi khong vao duoc game o ban 34; bo hien ID nhan vat (ban PK)",
+          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-PK-36.ipa",
+          "size": 20490154,
           "minOSVersion": "15.0"
         }
       ],
