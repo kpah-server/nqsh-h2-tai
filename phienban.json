@@ -96,12 +96,12 @@
     "ngay": "2026-11-18 22:18"
   },
   "pc_pk": {
-    "ban": 68,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-PK-PC-68.zip",
-    "sha256": "24a821e9cdda83941644209abf5137084dcd657aea3cd5d6e7190940fbbb7239",
-    "kichThuoc": 37628786,
-    "ghiChu": "Them nhat ky client (thu muc nhat-ky canh file game) de gui khi gap loi",
-    "ngay": "2026-11-17 19:47"
+    "ban": 69,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-PK-PC-69.zip",
+    "sha256": "c86fc8e3c82d13fd6cdbf50dcf934e42cb5dd8d7de6e0d5fdbe536e9a872e1ec",
+    "kichThuoc": 37628791,
+    "ghiChu": "Sua loi khong vao duoc game (mat ket noi ngay khi ket noi) o ban 68; cong server 10664",
+    "ngay": "2026-11-18 22:19"
   },
   "pc_ditieu": {
     "ban": 47,
