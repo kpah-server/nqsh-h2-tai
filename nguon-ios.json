@@ -18,12 +18,12 @@
       "category": "games",
       "versions": [
         {
-          "version": "34",
-          "buildVersion": "34",
-          "date": "2026-11-17T19:54:00Z",
-          "localizedDescription": "Them nhat ky client",
-          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-CheDo-34.ipa",
-          "size": 20491273,
+          "version": "35",
+          "buildVersion": "35",
+          "date": "2026-11-18T22:33:00Z",
+          "localizedDescription": "Sua loi khong vao duoc game o ban 34; cong server 10664",
+          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-CheDo-35.ipa",
+          "size": 20490773,
           "minOSVersion": "15.0"
         }
       ],
