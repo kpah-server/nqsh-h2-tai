@@ -120,12 +120,12 @@
     "ngay": "2026-11-19 17:24"
   },
   "ios_chedo": {
-    "ban": 35,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-CheDo-35.ipa",
-    "sha256": "353b76e3803353ee1e5cf8db53f16ede5fc21e797d49b6d45ace53ff1a0f2937",
-    "kichThuoc": 20490773,
-    "ghiChu": "Sua loi khong vao duoc game o ban 34; cong server 10664",
-    "ngay": "2026-11-18 22:33"
+    "ban": 37,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-CheDo-37.ipa",
+    "sha256": "cac23c0d26472cb63eaf3d7e297ab731e464cf21021429c9b49f7df80b7aeb12",
+    "kichThuoc": 20491324,
+    "ghiChu": "Auto khoa trang bi bang Ngoc huyen minh; ban Che Do bo muc Nut tren man hinh",
+    "ngay": "2026-11-19 17:36"
   },
   "ios_up": {
     "ban": 34,
