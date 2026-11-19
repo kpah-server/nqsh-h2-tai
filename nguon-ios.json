@@ -43,12 +43,12 @@
       "category": "games",
       "versions": [
         {
-          "version": "34",
-          "buildVersion": "34",
-          "date": "2026-11-17T20:00:00Z",
-          "localizedDescription": "Them nhat ky client",
-          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-Up-34.ipa",
-          "size": 20491231,
+          "version": "37",
+          "buildVersion": "37",
+          "date": "2026-11-19T17:53:00Z",
+          "localizedDescription": "Auto khoa trang bi bang Ngoc huyen minh; ban Che Do bo muc Nut tren man hinh",
+          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-Up-37.ipa",
+          "size": 20491278,
           "minOSVersion": "15.0"
         }
       ],
