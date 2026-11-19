@@ -128,12 +128,12 @@
     "ngay": "2026-11-19 19:09"
   },
   "ios_up": {
-    "ban": 37,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-Up-37.ipa",
-    "sha256": "e9f4334f30dac718b1254961fd93b2c68cfd5559d20880e2e16d0a3ba58b5cab",
-    "kichThuoc": 20491278,
-    "ghiChu": "Auto khoa trang bi bang Ngoc huyen minh; ban Che Do bo muc Nut tren man hinh",
-    "ngay": "2026-11-19 17:53"
+    "ban": 38,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-Up-38.ipa",
+    "sha256": "4a9cb5e56a6388bb55401f7f7a931ab890bcdd8739bbfcf11d83b89a903b300f",
+    "kichThuoc": 20491898,
+    "ghiChu": "PC/iOS: man Khoa do thu / Khoa trang bi 2 o + nut Khoa nhu ban jar/Android",
+    "ngay": "2026-11-19 19:21"
   },
   "ios_pk": {
     "ban": 37,
