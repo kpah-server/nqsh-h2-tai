@@ -68,12 +68,12 @@
       "category": "games",
       "versions": [
         {
-          "version": "36",
-          "buildVersion": "36",
-          "date": "2026-11-18T23:22:00Z",
-          "localizedDescription": "Sua loi khong vao duoc game o ban 34; bo hien ID nhan vat (ban PK)",
-          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-PK-36.ipa",
-          "size": 20490154,
+          "version": "37",
+          "buildVersion": "37",
+          "date": "2026-11-19T17:59:00Z",
+          "localizedDescription": "Auto khoa trang bi bang Ngoc huyen minh; ban Che Do bo muc Nut tren man hinh",
+          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-PK-37.ipa",
+          "size": 20491289,
           "minOSVersion": "15.0"
         }
       ],
