@@ -18,12 +18,12 @@
       "category": "games",
       "versions": [
         {
-          "version": "35",
-          "buildVersion": "35",
-          "date": "2026-11-18T22:33:00Z",
-          "localizedDescription": "Sua loi khong vao duoc game o ban 34; cong server 10664",
-          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-CheDo-35.ipa",
-          "size": 20490773,
+          "version": "37",
+          "buildVersion": "37",
+          "date": "2026-11-19T17:36:00Z",
+          "localizedDescription": "Auto khoa trang bi bang Ngoc huyen minh; ban Che Do bo muc Nut tren man hinh",
+          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-CheDo-37.ipa",
+          "size": 20491324,
           "minOSVersion": "15.0"
         }
       ],
