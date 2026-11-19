@@ -32,12 +32,12 @@
     "ngay": "2026-11-19 17:20"
   },
   "jar_up": {
-    "ban": 1117,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-Up-v1117.jar",
-    "sha256": "d1c33bf8a15f9a722bfe78dd19b1444f38f134188c5293af74ff0d49b4c24056",
-    "kichThuoc": 1239198,
-    "ghiChu": "Hanh trang 1 dai cuon lien nhieu cot (nhu ban PK) cho moi ban",
-    "ngay": "2026-11-13 00:09"
+    "ban": 1120,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-Up-v1120.jar",
+    "sha256": "f71fed2f8412748605726e119a0aaae42e34596478eecff4cfc74c3d93fb4f76",
+    "kichThuoc": 1239355,
+    "ghiChu": "Auto khoa trang bi bang Ngoc huyen minh; ban Che Do bo muc Nut tren man hinh",
+    "ngay": "2026-11-19 17:20"
   },
   "jar_pk": {
     "ban": 1117,
