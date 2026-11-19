@@ -64,12 +64,12 @@
     "ngay": "2026-11-19 17:21"
   },
   "android_up": {
-    "ban": 1487,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-Up-1487.apk",
-    "sha256": "df64a07122d738caf6401284a1d72f19a9d73fb2603a2ab486b8284f741427d8",
-    "kichThuoc": 1433111,
-    "ghiChu": "Hanh trang 1 dai cuon lien nhieu cot (nhu ban PK) cho moi ban",
-    "ngay": "2026-11-13 00:11"
+    "ban": 1488,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-Up-1488.apk",
+    "sha256": "14df5323fb9fda287b99e6679442313d66ea764340211d468bdd11da89087fcb",
+    "kichThuoc": 1433347,
+    "ghiChu": "Auto khoa trang bi bang Ngoc huyen minh; ban Che Do bo muc Nut tren man hinh",
+    "ngay": "2026-11-19 17:21"
   },
   "android_pk": {
     "ban": 1487,
