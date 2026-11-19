@@ -88,12 +88,12 @@
     "ngay": "2026-11-05 11:48"
   },
   "pc_chedo": {
-    "ban": 71,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-CheDo-PC-71.zip",
-    "sha256": "56eebeebd22035d4110bdd03f6ec22a9ab760ec9670ad66d07f05de2e4980466",
-    "kichThuoc": 37629726,
-    "ghiChu": "PC/iOS: man Khoa do thu / Khoa trang bi 2 o doc + nut Khoa nhu ban jar/Android",
-    "ngay": "2026-11-19 18:48"
+    "ban": 72,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-CheDo-PC-72.zip",
+    "sha256": "3b084777bc681212946900e922374da0bd871078695e8917f6afa1c1ca284b30",
+    "kichThuoc": 37629729,
+    "ghiChu": "PC/iOS: man Khoa do thu / Khoa trang bi 2 o + nut Khoa nhu ban jar/Android",
+    "ngay": "2026-11-19 19:01"
   },
   "pc_pk": {
     "ban": 71,
