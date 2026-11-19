@@ -88,12 +88,12 @@
     "ngay": "2026-11-05 11:48"
   },
   "pc_chedo": {
-    "ban": 69,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-CheDo-PC-69.zip",
-    "sha256": "0a116a62d989bb9e3788afe350a34f21dea40d28c287018a14d556a854fdcf30",
-    "kichThuoc": 37629583,
-    "ghiChu": "Sua loi khong vao duoc game (mat ket noi ngay khi ket noi) o ban 68; cong server 10664",
-    "ngay": "2026-11-18 22:18"
+    "ban": 70,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-CheDo-PC-70.zip",
+    "sha256": "5a3db5a858517624c321c78e7b27ebae2866931be7a4b27bd5e460630aa84113",
+    "kichThuoc": 37629690,
+    "ghiChu": "Auto khoa trang bi bang Ngoc huyen minh; ban Che Do bo muc Nut tren man hinh",
+    "ngay": "2026-11-19 17:23"
   },
   "pc_pk": {
     "ban": 69,
