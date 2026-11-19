@@ -1,11 +1,11 @@
 {
   "jar": {
-    "ban": 1117,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1117.jar",
-    "sha256": "02312f771ddd448003d928c1f9f53fe35676b1cefbba1a36098cbc14441757d5",
-    "kichThuoc": 1239200,
-    "ghiChu": "Hanh trang 1 dai cuon lien nhieu cot (nhu ban PK) cho moi ban",
-    "ngay": "2026-11-13 00:09"
+    "ban": 1120,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1120.jar",
+    "sha256": "d97c0852b37f3c4aa84295c3444dd2fde6b411cba916352b94d71a493a3fd086",
+    "kichThuoc": 1239355,
+    "ghiChu": "Auto khoa trang bi bang Ngoc huyen minh; ban Che Do bo muc Nut tren man hinh",
+    "ngay": "2026-11-19 17:20"
   },
   "android": {
     "ban": 1446,
@@ -24,12 +24,12 @@
     "ngay": "2026-10-23 11:47"
   },
   "jar_chedo": {
-    "ban": 1117,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1117.jar",
-    "sha256": "02312f771ddd448003d928c1f9f53fe35676b1cefbba1a36098cbc14441757d5",
-    "kichThuoc": 1239200,
-    "ghiChu": "Hanh trang 1 dai cuon lien nhieu cot (nhu ban PK) cho moi ban",
-    "ngay": "2026-11-13 00:09"
+    "ban": 1120,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1120.jar",
+    "sha256": "d97c0852b37f3c4aa84295c3444dd2fde6b411cba916352b94d71a493a3fd086",
+    "kichThuoc": 1239355,
+    "ghiChu": "Auto khoa trang bi bang Ngoc huyen minh; ban Che Do bo muc Nut tren man hinh",
+    "ngay": "2026-11-19 17:20"
   },
   "jar_up": {
     "ban": 1117,
