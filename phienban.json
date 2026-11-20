@@ -32,12 +32,12 @@
     "ngay": "2026-11-20 17:37"
   },
   "jar_up": {
-    "ban": 1124,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-Up-v1124.jar",
-    "sha256": "4710f669c758f2ece89c4d48b2fa67ef56a31224783afbf217f52c3bb5a3330b",
-    "kichThuoc": 1240975,
-    "ghiChu": "Tu lam nhiem vu chinh: chuc nang an, luon tu chay (khong can bat)",
-    "ngay": "2026-11-20 17:16"
+    "ban": 1126,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-Up-v1126.jar",
+    "sha256": "f0114fda447d5c3e4a5a81ec565162e66d24f35edd8c9740df1911944401c171",
+    "kichThuoc": 1240973,
+    "ghiChu": "Tu lam nhiem vu tan thu (an, luon chay) toi het nhiem vu Lam tuong quan",
+    "ngay": "2026-11-20 17:38"
   },
   "jar_pk": {
     "ban": 1124,
