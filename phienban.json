@@ -1,11 +1,11 @@
 {
   "jar": {
-    "ban": 1126,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1126.jar",
-    "sha256": "f3962d69bee45f502e1a8e844af444fd9a82841fe5354a36cfb1590c987af45d",
-    "kichThuoc": 1240973,
-    "ghiChu": "Tu lam nhiem vu tan thu (an, luon chay) toi het nhiem vu Lam tuong quan",
-    "ngay": "2026-11-20 17:37"
+    "ban": 1127,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1127.jar",
+    "sha256": "a7eaa920acad3499782fe4f9e1d8056ec221f49d3ff4bc97730695f66d265d74",
+    "kichThuoc": 1241357,
+    "ghiChu": "Tu lam nhiem vu tan thu: sua dung khi toi NPC, tu qua thoai mo dau, khong phai bam OK",
+    "ngay": "2026-11-20 22:01"
   },
   "android": {
     "ban": 1446,
@@ -24,12 +24,12 @@
     "ngay": "2026-10-23 11:47"
   },
   "jar_chedo": {
-    "ban": 1126,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1126.jar",
-    "sha256": "f3962d69bee45f502e1a8e844af444fd9a82841fe5354a36cfb1590c987af45d",
-    "kichThuoc": 1240973,
-    "ghiChu": "Tu lam nhiem vu tan thu (an, luon chay) toi het nhiem vu Lam tuong quan",
-    "ngay": "2026-11-20 17:37"
+    "ban": 1127,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1127.jar",
+    "sha256": "a7eaa920acad3499782fe4f9e1d8056ec221f49d3ff4bc97730695f66d265d74",
+    "kichThuoc": 1241357,
+    "ghiChu": "Tu lam nhiem vu tan thu: sua dung khi toi NPC, tu qua thoai mo dau, khong phai bam OK",
+    "ngay": "2026-11-20 22:01"
   },
   "jar_up": {
     "ban": 1126,
