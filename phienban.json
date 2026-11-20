@@ -88,12 +88,12 @@
     "ngay": "2026-11-05 11:48"
   },
   "pc_chedo": {
-    "ban": 73,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-CheDo-PC-73.zip",
-    "sha256": "5163734e2a1aa4f088da3930eb341e2961afc6401b5a80f5187a07badcc50c5c",
-    "kichThuoc": 37630811,
-    "ghiChu": "Tu lam nhiem vu chinh (Tien ich: tu di toi NPC, tu bam thoai + Co); Che do nhanh: Kich 5 hanh; thoai nhiem vu ngan hon",
-    "ngay": "2026-11-20 16:19"
+    "ban": 74,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-CheDo-PC-74.zip",
+    "sha256": "097f18c511b60b15b13dbd7188872895603070e8f46c315e27f5ab3776984704",
+    "kichThuoc": 37630757,
+    "ghiChu": "Tu lam nhiem vu chinh: chuc nang an, luon tu chay (khong can bat)",
+    "ngay": "2026-11-20 17:19"
   },
   "pc_pk": {
     "ban": 73,
