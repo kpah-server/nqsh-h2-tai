@@ -40,12 +40,12 @@
     "ngay": "2026-11-20 17:16"
   },
   "jar_pk": {
-    "ban": 1123,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-PK-v1123.jar",
-    "sha256": "7e0385e3ae6ec04d8331def7244340b1b5697187be10e4ece121c73e6c78d906",
-    "kichThuoc": 1241305,
-    "ghiChu": "Tu lam nhiem vu chinh (Tien ich: tu di toi NPC, tu bam thoai + Co); Che do nhanh: Kich 5 hanh; thoai nhiem vu ngan hon",
-    "ngay": "2026-11-20 16:18"
+    "ban": 1124,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-PK-v1124.jar",
+    "sha256": "791cba7172dfcfb173987e1888e0e24c90044ba8763ec883bffde3b9da776c98",
+    "kichThuoc": 1240975,
+    "ghiChu": "Tu lam nhiem vu chinh: chuc nang an, luon tu chay (khong can bat)",
+    "ngay": "2026-11-20 17:17"
   },
   "jar_ditieu": {
     "ban": 1049,
