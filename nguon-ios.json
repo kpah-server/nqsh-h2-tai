@@ -68,12 +68,12 @@
       "category": "games",
       "versions": [
         {
-          "version": "38",
-          "buildVersion": "38",
-          "date": "2026-11-19T19:32:00Z",
-          "localizedDescription": "PC/iOS: man Khoa do thu / Khoa trang bi 2 o + nut Khoa nhu ban jar/Android",
-          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-PK-38.ipa",
-          "size": 20491903,
+          "version": "39",
+          "buildVersion": "39",
+          "date": "2026-11-20T16:42:00Z",
+          "localizedDescription": "Tu lam nhiem vu chinh; Kich 5 hanh (Che do)",
+          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-PK-39.ipa",
+          "size": 20496926,
           "minOSVersion": "15.0"
         }
       ],
