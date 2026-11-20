@@ -112,12 +112,12 @@
     "ngay": "2026-11-05 11:51"
   },
   "pc_up": {
-    "ban": 72,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-Up-PC-72.zip",
-    "sha256": "b1d02e8eeea3932beddba17225bcbbc8b037d167426b53dfc8f81a26db304eb8",
-    "kichThuoc": 37628938,
-    "ghiChu": "PC/iOS: man Khoa do thu / Khoa trang bi 2 o + nut Khoa nhu ban jar/Android",
-    "ngay": "2026-11-19 19:02"
+    "ban": 73,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-Up-PC-73.zip",
+    "sha256": "2a147431204d840fe038cc7cc5c576a41a5c823173f0e3bf38ea827c4c41c67d",
+    "kichThuoc": 37630021,
+    "ghiChu": "Tu lam nhiem vu chinh (Tien ich: tu di toi NPC, tu bam thoai + Co); Che do nhanh: Kich 5 hanh; thoai nhiem vu ngan hon",
+    "ngay": "2026-11-20 16:20"
   },
   "ios_chedo": {
     "ban": 38,
