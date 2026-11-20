@@ -56,12 +56,12 @@
     "ngay": "2026-11-05 11:46"
   },
   "android_chedo": {
-    "ban": 1490,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-CheDo-1490.apk",
-    "sha256": "57e805d573cd3dc3a2ff207094cf293e88417bd255b5fe58adc154e879ecdc77",
+    "ban": 1491,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-CheDo-1491.apk",
+    "sha256": "8c079afef9a869524393607215bc9b5a2193eb2d7f9c9e2b463ce9f9dd4477d2",
     "kichThuoc": 1423723,
-    "ghiChu": "Tu lam nhiem vu chinh: chuc nang an, luon tu chay (khong can bat)",
-    "ngay": "2026-11-20 17:17"
+    "ghiChu": "Tu lam nhiem vu tan thu (an, luon chay) toi het nhiem vu Lam tuong quan",
+    "ngay": "2026-11-20 17:38"
   },
   "android_up": {
     "ban": 1490,
