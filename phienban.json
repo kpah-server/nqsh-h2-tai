@@ -128,12 +128,12 @@
     "ngay": "2026-11-20 16:29"
   },
   "ios_up": {
-    "ban": 38,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-Up-38.ipa",
-    "sha256": "4a9cb5e56a6388bb55401f7f7a931ab890bcdd8739bbfcf11d83b89a903b300f",
-    "kichThuoc": 20491898,
-    "ghiChu": "PC/iOS: man Khoa do thu / Khoa trang bi 2 o + nut Khoa nhu ban jar/Android",
-    "ngay": "2026-11-19 19:21"
+    "ban": 39,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-Up-39.ipa",
+    "sha256": "dae0896356016fa6e8da26db7892099d10509591e990afa778f433742a33e97a",
+    "kichThuoc": 20496917,
+    "ghiChu": "Tu lam nhiem vu chinh; Kich 5 hanh (Che do)",
+    "ngay": "2026-11-20 16:35"
   },
   "ios_pk": {
     "ban": 38,
