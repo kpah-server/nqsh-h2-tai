@@ -40,12 +40,12 @@
     "ngay": "2026-11-21 02:51"
   },
   "jar_pk": {
-    "ban": 1129,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-PK-v1129.jar",
-    "sha256": "2ee54867ce47d226d6503d49f2570a9ff43acac360214d94009d2f8e51423eb3",
-    "kichThuoc": 1246537,
-    "ghiChu": "Jar nhan ban x3-x20 (nhieu acc mot jar)",
-    "ngay": "2026-11-21 02:36"
+    "ban": 1131,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-PK-v1131.jar",
+    "sha256": "5bbe8bc8de9cb0f531a56675414577a9af29f990a2edc4e42073f7c91c9c0d64",
+    "kichThuoc": 1250059,
+    "ghiChu": "Jar nhan ban: menu nhu EmbedAdvMenu",
+    "ngay": "2026-11-21 02:51"
   },
   "jar_ditieu": {
     "ban": 1049,
