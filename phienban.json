@@ -96,12 +96,12 @@
     "ngay": "2026-11-20 17:40"
   },
   "pc_pk": {
-    "ban": 74,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-PK-PC-74.zip",
-    "sha256": "edd8c82b4ac32716464dbb4035b996463f8feda60e8aa953fdcc4564d973caf2",
+    "ban": 75,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-PK-PC-75.zip",
+    "sha256": "15a3a184f9b054142587adbf2ec09fdd86d7e19ec0ab439abad9d7eefbde7a3d",
     "kichThuoc": 37629964,
-    "ghiChu": "Tu lam nhiem vu chinh: chuc nang an, luon tu chay (khong can bat)",
-    "ngay": "2026-11-20 17:21"
+    "ghiChu": "Tu lam nhiem vu tan thu (an, luon chay) toi het nhiem vu Lam tuong quan",
+    "ngay": "2026-11-20 17:41"
   },
   "pc_ditieu": {
     "ban": 47,
