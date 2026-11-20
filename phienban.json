@@ -32,12 +32,12 @@
     "ngay": "2026-11-20 16:17"
   },
   "jar_up": {
-    "ban": 1120,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-Up-v1120.jar",
-    "sha256": "f71fed2f8412748605726e119a0aaae42e34596478eecff4cfc74c3d93fb4f76",
-    "kichThuoc": 1239355,
-    "ghiChu": "Auto khoa trang bi bang Ngoc huyen minh; ban Che Do bo muc Nut tren man hinh",
-    "ngay": "2026-11-19 17:20"
+    "ban": 1123,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-Up-v1123.jar",
+    "sha256": "b3021f3d7b0bc1624f15366e6df08e5b204fc6d54675036e265b6a4d93635a56",
+    "kichThuoc": 1241305,
+    "ghiChu": "Tu lam nhiem vu chinh (Tien ich: tu di toi NPC, tu bam thoai + Co); Che do nhanh: Kich 5 hanh; thoai nhiem vu ngan hon",
+    "ngay": "2026-11-20 16:17"
   },
   "jar_pk": {
     "ban": 1120,
