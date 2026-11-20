@@ -64,12 +64,12 @@
     "ngay": "2026-11-20 17:38"
   },
   "android_up": {
-    "ban": 1490,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-Up-1490.apk",
-    "sha256": "eaa288af65af4ef96a97ef8b5e0b82d12810502caeafa1dc41a6aeaca523c2d0",
-    "kichThuoc": 1433867,
-    "ghiChu": "Tu lam nhiem vu chinh: chuc nang an, luon tu chay (khong can bat)",
-    "ngay": "2026-11-20 17:18"
+    "ban": 1491,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-Up-1491.apk",
+    "sha256": "701bac1832fc6a613cdccec7b9db54798d1252a0a23031d1ee70fe30fd4e27eb",
+    "kichThuoc": 1433871,
+    "ghiChu": "Tu lam nhiem vu tan thu (an, luon chay) toi het nhiem vu Lam tuong quan",
+    "ngay": "2026-11-20 17:39"
   },
   "android_pk": {
     "ban": 1490,
