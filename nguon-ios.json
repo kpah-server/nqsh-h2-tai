@@ -18,12 +18,12 @@
       "category": "games",
       "versions": [
         {
-          "version": "39",
-          "buildVersion": "39",
-          "date": "2026-11-20T16:29:00Z",
-          "localizedDescription": "Tu lam nhiem vu chinh; Kich 5 hanh (Che do)",
-          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-CheDo-39.ipa",
-          "size": 20496962,
+          "version": "40",
+          "buildVersion": "40",
+          "date": "2026-11-20T17:25:00Z",
+          "localizedDescription": "Tu lam nhiem vu tan thu (an, luon chay) toi het nhiem vu Lam tuong quan",
+          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-CheDo-40.ipa",
+          "size": 20494095,
           "minOSVersion": "15.0"
         }
       ],
