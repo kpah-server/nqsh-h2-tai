@@ -1,11 +1,11 @@
 {
   "jar": {
-    "ban": 1120,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1120.jar",
-    "sha256": "d97c0852b37f3c4aa84295c3444dd2fde6b411cba916352b94d71a493a3fd086",
-    "kichThuoc": 1239355,
-    "ghiChu": "Auto khoa trang bi bang Ngoc huyen minh; ban Che Do bo muc Nut tren man hinh",
-    "ngay": "2026-11-19 17:20"
+    "ban": 1123,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1123.jar",
+    "sha256": "2f7f14498a24600e05ff126cb3124e964521cf6bc624c0b623bc77c9e0122973",
+    "kichThuoc": 1241305,
+    "ghiChu": "Tu lam nhiem vu chinh (Tien ich: tu di toi NPC, tu bam thoai + Co); Che do nhanh: Kich 5 hanh; thoai nhiem vu ngan hon",
+    "ngay": "2026-11-20 16:17"
   },
   "android": {
     "ban": 1446,
@@ -24,12 +24,12 @@
     "ngay": "2026-10-23 11:47"
   },
   "jar_chedo": {
-    "ban": 1120,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1120.jar",
-    "sha256": "d97c0852b37f3c4aa84295c3444dd2fde6b411cba916352b94d71a493a3fd086",
-    "kichThuoc": 1239355,
-    "ghiChu": "Auto khoa trang bi bang Ngoc huyen minh; ban Che Do bo muc Nut tren man hinh",
-    "ngay": "2026-11-19 17:20"
+    "ban": 1123,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1123.jar",
+    "sha256": "2f7f14498a24600e05ff126cb3124e964521cf6bc624c0b623bc77c9e0122973",
+    "kichThuoc": 1241305,
+    "ghiChu": "Tu lam nhiem vu chinh (Tien ich: tu di toi NPC, tu bam thoai + Co); Che do nhanh: Kich 5 hanh; thoai nhiem vu ngan hon",
+    "ngay": "2026-11-20 16:17"
   },
   "jar_up": {
     "ban": 1120,
