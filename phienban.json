@@ -64,12 +64,12 @@
     "ngay": "2026-11-20 16:18"
   },
   "android_up": {
-    "ban": 1488,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-Up-1488.apk",
-    "sha256": "14df5323fb9fda287b99e6679442313d66ea764340211d468bdd11da89087fcb",
-    "kichThuoc": 1433347,
-    "ghiChu": "Auto khoa trang bi bang Ngoc huyen minh; ban Che Do bo muc Nut tren man hinh",
-    "ngay": "2026-11-19 17:21"
+    "ban": 1489,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-Up-1489.apk",
+    "sha256": "a4a4190d61bf444f9a7d19cb224e650948fbb2d41ec7dc67d6147d19923c9fc6",
+    "kichThuoc": 1434047,
+    "ghiChu": "Tu lam nhiem vu chinh (Tien ich: tu di toi NPC, tu bam thoai + Co); Che do nhanh: Kich 5 hanh; thoai nhiem vu ngan hon",
+    "ngay": "2026-11-20 16:18"
   },
   "android_pk": {
     "ban": 1488,
