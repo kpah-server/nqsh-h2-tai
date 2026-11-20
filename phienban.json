@@ -136,12 +136,12 @@
     "ngay": "2026-11-20 17:31"
   },
   "ios_pk": {
-    "ban": 39,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-PK-39.ipa",
-    "sha256": "9df40d4721c33fec4fd5f6c3f15d07c2112db50eda1dcbfc40f0c7777e30e813",
-    "kichThuoc": 20496926,
-    "ghiChu": "Tu lam nhiem vu chinh; Kich 5 hanh (Che do)",
-    "ngay": "2026-11-20 16:42"
+    "ban": 40,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-PK-40.ipa",
+    "sha256": "4ac67c6d9a39e0439f22d2627e354bb35f0a2629e39611f8793768a6017817ea",
+    "kichThuoc": 20494063,
+    "ghiChu": "Tu lam nhiem vu tan thu (an, luon chay) toi het nhiem vu Lam tuong quan",
+    "ngay": "2026-11-20 17:36"
   },
   "ios_ditieu": {
     "ban": 15,
