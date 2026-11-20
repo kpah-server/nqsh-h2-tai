@@ -18,12 +18,12 @@
       "category": "games",
       "versions": [
         {
-          "version": "40",
-          "buildVersion": "40",
-          "date": "2026-11-20T17:25:00Z",
-          "localizedDescription": "Tu lam nhiem vu tan thu (an, luon chay) toi het nhiem vu Lam tuong quan",
-          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-CheDo-40.ipa",
-          "size": 20494095,
+          "version": "41",
+          "buildVersion": "41",
+          "date": "2026-11-20T22:09:00Z",
+          "localizedDescription": "Tu lam nhiem vu tan thu: sua dung khi toi NPC, tu qua thoai mo dau, khong phai bam OK",
+          "downloadURL": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-CheDo-41.ipa",
+          "size": 20497762,
           "minOSVersion": "15.0"
         }
       ],
