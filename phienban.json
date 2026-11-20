@@ -136,12 +136,12 @@
     "ngay": "2026-11-20 22:15"
   },
   "ios_pk": {
-    "ban": 40,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-PK-40.ipa",
-    "sha256": "4ac67c6d9a39e0439f22d2627e354bb35f0a2629e39611f8793768a6017817ea",
-    "kichThuoc": 20494063,
-    "ghiChu": "Tu lam nhiem vu tan thu (an, luon chay) toi het nhiem vu Lam tuong quan",
-    "ngay": "2026-11-20 17:36"
+    "ban": 41,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/ios/NQSH-H2-PK-41.ipa",
+    "sha256": "743091f3b71c0f7a7934afc57365787589859ce5fc96dc7ebdc9327c0754e368",
+    "kichThuoc": 20497728,
+    "ghiChu": "Tu lam nhiem vu tan thu: sua dung khi toi NPC, tu qua thoai mo dau, khong phai bam OK",
+    "ngay": "2026-11-20 22:22"
   },
   "ios_ditieu": {
     "ban": 15,
