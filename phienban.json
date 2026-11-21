@@ -32,12 +32,12 @@
     "ngay": "2026-11-21 08:32"
   },
   "jar_up": {
-    "ban": 1131,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-Up-v1131.jar",
-    "sha256": "745f6e1fe0757d240eea29e9ed57609ca8cc7a7c19ee6d6ab8702fe144dbd287",
-    "kichThuoc": 1250059,
-    "ghiChu": "Jar nhan ban: menu nhu EmbedAdvMenu",
-    "ngay": "2026-11-21 02:51"
+    "ban": 1133,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-Up-v1133.jar",
+    "sha256": "d787a7a4f8b5ab276b41813db66415c07898043986227350d27482f22f876865",
+    "kichThuoc": 1250091,
+    "ghiChu": "Tu lam nhiem vu: thoai NPC nhanh hon",
+    "ngay": "2026-11-21 08:32"
   },
   "jar_pk": {
     "ban": 1131,
