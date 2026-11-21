@@ -40,12 +40,12 @@
     "ngay": "2026-11-21 18:55"
   },
   "jar_pk": {
-    "ban": 1137,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-PK-v1137.jar",
-    "sha256": "3d9166c03c6e93df8cf9abcf7630e74e0fab100619a3b1b44f75ffbbc9ce102d",
-    "kichThuoc": 1251494,
-    "ghiChu": "Ban Up: tu thu cay than (menu Auto up)",
-    "ngay": "2026-11-21 18:38"
+    "ban": 1138,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-PK-v1138.jar",
+    "sha256": "b4bc972483f8675fef15d272bf4cc99872520254d4f6660cc685c170cda38ca7",
+    "kichThuoc": 1251537,
+    "ghiChu": "Quay so: mua ve nhanh hon (50 ms / lan)",
+    "ngay": "2026-11-21 18:56"
   },
   "jar_ditieu": {
     "ban": 1049,
