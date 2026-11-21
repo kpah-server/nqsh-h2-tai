@@ -56,12 +56,12 @@
     "ngay": "2026-11-05 11:46"
   },
   "android_chedo": {
-    "ban": 1493,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-CheDo-1493.apk",
-    "sha256": "f8526b3c78b8d9c50e442cfbc6b57d5221c6d43573133c2fcfd1524d4fe57c63",
-    "kichThuoc": 1424603,
-    "ghiChu": "Tu lam nhiem vu nhanh: thoai NPC qua ngay, chay nhanh toi NPC",
-    "ngay": "2026-11-21 09:26"
+    "ban": 1494,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-CheDo-1494.apk",
+    "sha256": "0f20914cbcb547ade2d368dc7109694ef3a7536c70c72e2cc78a20798f38ceb6",
+    "kichThuoc": 1424723,
+    "ghiChu": "Sua ban do o cua hang: mon sau chi xem / phai bam 2 lan / ve lai hanh trang",
+    "ngay": "2026-11-21 09:44"
   },
   "android_up": {
     "ban": 1493,
