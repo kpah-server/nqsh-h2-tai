@@ -64,12 +64,12 @@
     "ngay": "2026-11-21 09:26"
   },
   "android_up": {
-    "ban": 1492,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-Up-1492.apk",
-    "sha256": "66ec263d3e63773738e2a8166e3af4fb7e62bfa4623d76d74c0262044f803102",
-    "kichThuoc": 1434227,
-    "ghiChu": "Tu lam nhiem vu tan thu: sua dung khi toi NPC, tu qua thoai mo dau, khong phai bam OK",
-    "ngay": "2026-11-20 22:02"
+    "ban": 1493,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-Up-1493.apk",
+    "sha256": "8e8a717bbcd38f5e755904d11859d0d21a6b6cd32b7997f6efa97a173b397321",
+    "kichThuoc": 1434495,
+    "ghiChu": "Tu lam nhiem vu nhanh: thoai NPC qua ngay, chay nhanh toi NPC",
+    "ngay": "2026-11-21 09:26"
   },
   "android_pk": {
     "ban": 1492,
