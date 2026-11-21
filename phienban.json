@@ -56,12 +56,12 @@
     "ngay": "2026-11-05 11:46"
   },
   "android_chedo": {
-    "ban": 1495,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-CheDo-1495.apk",
-    "sha256": "3a104905eb5b9937f40e3d9dd79935e155e0ee7b3e3bd7b95e85fa59083cc822",
-    "kichThuoc": 1425051,
-    "ghiChu": "Ban do o cua hang: moi o nho dung mon, het bam khong ra hop ban / phai bam 2 lan",
-    "ngay": "2026-11-21 10:11"
+    "ban": 1499,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-CheDo-1499.apk",
+    "sha256": "9ab4ce9182272ef0b8a1467230bd06af98ef959c2dc7f9407ead70459becd149",
+    "kichThuoc": 1425495,
+    "ghiChu": "Len thanh: xa phu Ham Tu -> Dong Son -> Truong Giang, chuyen map nhanh hon",
+    "ngay": "2026-11-21 19:30"
   },
   "android_up": {
     "ban": 1498,
