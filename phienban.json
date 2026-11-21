@@ -32,12 +32,12 @@
     "ngay": "2026-11-21 20:32"
   },
   "jar_up": {
-    "ban": 1147,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-Up-v1147.jar",
-    "sha256": "46d1cb4397256159a65f57d7d8f6cbac923e83860a7adb6441cabcb1df6e2677",
-    "kichThuoc": 1251946,
-    "ghiChu": "Len thanh / nuoi pet: vao Thanh dat chan gan NPC tho san",
-    "ngay": "2026-11-21 20:31"
+    "ban": 1148,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-Up-v1148.jar",
+    "sha256": "d02c29da11802b2b20b0bb88382f1fed0ffaaabeba9ca182518064d01916c4b2",
+    "kichThuoc": 1251977,
+    "ghiChu": "Len thanh vao o cong Thanh; nuoi pet vao Thanh gan NPC tho san",
+    "ngay": "2026-11-21 20:32"
   },
   "jar_pk": {
     "ban": 1147,
