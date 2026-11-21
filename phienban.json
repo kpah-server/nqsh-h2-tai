@@ -1,11 +1,11 @@
 {
   "jar": {
-    "ban": 1147,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1147.jar",
-    "sha256": "b676ee76c705fcf4a05670dca284e73cfc81ab7b8950a3b96ce34b21cc974c02",
-    "kichThuoc": 1251946,
-    "ghiChu": "Len thanh / nuoi pet: vao Thanh dat chan gan NPC tho san",
-    "ngay": "2026-11-21 20:30"
+    "ban": 1148,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1148.jar",
+    "sha256": "4e07901818574b06597bd3dc8362095e267e396a23227b865b2307ce848ddfd1",
+    "kichThuoc": 1251978,
+    "ghiChu": "Len thanh vao o cong Thanh; nuoi pet vao Thanh gan NPC tho san",
+    "ngay": "2026-11-21 20:32"
   },
   "android": {
     "ban": 1446,
@@ -24,12 +24,12 @@
     "ngay": "2026-10-23 11:47"
   },
   "jar_chedo": {
-    "ban": 1147,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1147.jar",
-    "sha256": "b676ee76c705fcf4a05670dca284e73cfc81ab7b8950a3b96ce34b21cc974c02",
-    "kichThuoc": 1251946,
-    "ghiChu": "Len thanh / nuoi pet: vao Thanh dat chan gan NPC tho san",
-    "ngay": "2026-11-21 20:30"
+    "ban": 1148,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1148.jar",
+    "sha256": "4e07901818574b06597bd3dc8362095e267e396a23227b865b2307ce848ddfd1",
+    "kichThuoc": 1251978,
+    "ghiChu": "Len thanh vao o cong Thanh; nuoi pet vao Thanh gan NPC tho san",
+    "ngay": "2026-11-21 20:32"
   },
   "jar_up": {
     "ban": 1147,
