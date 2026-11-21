@@ -1,11 +1,11 @@
 {
   "jar": {
-    "ban": 1137,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1137.jar",
-    "sha256": "c4c4056c2cdc360e67c819c8e11e5511260b491162e1bdfe731b4f9f5d0d7238",
-    "kichThuoc": 1251495,
-    "ghiChu": "Ban Up: tu thu cay than (menu Auto up)",
-    "ngay": "2026-11-21 18:37"
+    "ban": 1138,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1138.jar",
+    "sha256": "91c71aed9dbbbb8af3643a91737c9b47c2c4ecff822a93f0e3ad0c381f5ea2a3",
+    "kichThuoc": 1251538,
+    "ghiChu": "Quay so: mua ve nhanh hon (50 ms / lan)",
+    "ngay": "2026-11-21 18:55"
   },
   "android": {
     "ban": 1446,
@@ -24,12 +24,12 @@
     "ngay": "2026-10-23 11:47"
   },
   "jar_chedo": {
-    "ban": 1137,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1137.jar",
-    "sha256": "c4c4056c2cdc360e67c819c8e11e5511260b491162e1bdfe731b4f9f5d0d7238",
-    "kichThuoc": 1251495,
-    "ghiChu": "Ban Up: tu thu cay than (menu Auto up)",
-    "ngay": "2026-11-21 18:37"
+    "ban": 1138,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1138.jar",
+    "sha256": "91c71aed9dbbbb8af3643a91737c9b47c2c4ecff822a93f0e3ad0c381f5ea2a3",
+    "kichThuoc": 1251538,
+    "ghiChu": "Quay so: mua ve nhanh hon (50 ms / lan)",
+    "ngay": "2026-11-21 18:55"
   },
   "jar_up": {
     "ban": 1137,
