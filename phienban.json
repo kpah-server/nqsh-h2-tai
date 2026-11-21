@@ -72,12 +72,12 @@
     "ngay": "2026-11-21 20:38"
   },
   "android_pk": {
-    "ban": 1500,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-PK-1500.apk",
-    "sha256": "4dbf1aedab3a598309eb058dfe12ae11dd34a23bda630ee5d3d794b3245dd2e4",
-    "kichThuoc": 1440611,
-    "ghiChu": "Len thanh: tha sat cong Thanh o Truong Giang, vao Thanh nhanh",
-    "ngay": "2026-11-21 20:23"
+    "ban": 1501,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-PK-1501.apk",
+    "sha256": "e3fd620d0bfb76acc934437c24ff5aa4947d316bc59815ce3bf3bd6f620cb2a0",
+    "kichThuoc": 1440783,
+    "ghiChu": "Len thanh vao o cong Thanh; nuoi pet vao Thanh gan NPC tho san",
+    "ngay": "2026-11-21 20:38"
   },
   "android_ditieu": {
     "ban": 1467,
