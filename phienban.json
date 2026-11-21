@@ -96,12 +96,12 @@
     "ngay": "2026-11-21 09:28"
   },
   "pc_pk": {
-    "ban": 76,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-PK-PC-76.zip",
-    "sha256": "44750727955400d802559b2f572b3ddaa950c3a3b4096f2b9c5710e4c99d4038",
-    "kichThuoc": 37630261,
-    "ghiChu": "Tu lam nhiem vu tan thu: sua dung khi toi NPC, tu qua thoai mo dau, khong phai bam OK",
-    "ngay": "2026-11-20 22:05"
+    "ban": 77,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-PK-PC-77.zip",
+    "sha256": "f76d191bf3987a2e16324c7716fe313eb4a86e67bbe8fc66f03dfeab9a4a7719",
+    "kichThuoc": 37630493,
+    "ghiChu": "Tu lam nhiem vu nhanh: thoai NPC qua ngay, chay nhanh toi NPC",
+    "ngay": "2026-11-21 09:29"
   },
   "pc_ditieu": {
     "ban": 47,
