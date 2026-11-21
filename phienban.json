@@ -88,12 +88,12 @@
     "ngay": "2026-11-05 11:48"
   },
   "pc_chedo": {
-    "ban": 79,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-CheDo-PC-79.zip",
-    "sha256": "cde60b01e8dd2af2d781d1d3023e2bb8953dee86de5b57335c9b1713857395cb",
-    "kichThuoc": 37631656,
-    "ghiChu": "Ban do o cua hang: moi o nho dung mon, het bam khong ra hop ban / phai bam 2 lan",
-    "ngay": "2026-11-21 10:13"
+    "ban": 83,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-CheDo-PC-83.zip",
+    "sha256": "93cb608bf4671aac4c847a095a30950c5b0aae5e170c7aacb84e545a275cc452",
+    "kichThuoc": 37632034,
+    "ghiChu": "Len thanh: xa phu Ham Tu -> Dong Son -> Truong Giang, chuyen map nhanh hon",
+    "ngay": "2026-11-21 19:32"
   },
   "pc_pk": {
     "ban": 79,
