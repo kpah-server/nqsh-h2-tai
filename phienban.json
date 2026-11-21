@@ -112,12 +112,12 @@
     "ngay": "2026-11-05 11:51"
   },
   "pc_up": {
-    "ban": 81,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-Up-PC-81.zip",
-    "sha256": "3cdf3f29fcc65bebae4d983815fb9b82a3ed3b43ec6239b56dc51f05c8b4eb8f",
-    "kichThuoc": 37631134,
-    "ghiChu": "Quay so: mua ve nhanh hon (50 ms / lan)",
-    "ngay": "2026-11-21 19:01"
+    "ban": 82,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-Up-PC-82.zip",
+    "sha256": "2ac330161ae4929e19b1ba28a2502c476ecc11d8fffb12163f07221851a592ad",
+    "kichThuoc": 37631136,
+    "ghiChu": "Quay so: tu quay nhanh hon (50 ms / lan)",
+    "ngay": "2026-11-21 19:14"
   },
   "ios_chedo": {
     "ban": 41,
