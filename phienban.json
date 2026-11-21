@@ -56,12 +56,12 @@
     "ngay": "2026-11-05 11:46"
   },
   "android_chedo": {
-    "ban": 1500,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-CheDo-1500.apk",
-    "sha256": "281305b6a9741285a1324420fc7e59b2b20d04e41e949081f1bc75de88964a0c",
-    "kichThuoc": 1425675,
-    "ghiChu": "Len thanh: tha sat cong Thanh o Truong Giang, vao Thanh nhanh",
-    "ngay": "2026-11-21 20:21"
+    "ban": 1501,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-CheDo-1501.apk",
+    "sha256": "133b7793604155ad0cc6e9d95b580e70680d552ffcf7d9b58afc572b543c4523",
+    "kichThuoc": 1425859,
+    "ghiChu": "Len thanh vao o cong Thanh; nuoi pet vao Thanh gan NPC tho san",
+    "ngay": "2026-11-21 20:37"
   },
   "android_up": {
     "ban": 1500,
