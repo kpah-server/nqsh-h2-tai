@@ -72,12 +72,12 @@
     "ngay": "2026-11-21 19:30"
   },
   "android_pk": {
-    "ban": 1495,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-PK-1495.apk",
-    "sha256": "db4756060075e952cbeae81363c519c800c8c68f38ec0ae1b0b8153cd06a615c",
-    "kichThuoc": 1439963,
-    "ghiChu": "Ban do o cua hang: moi o nho dung mon, het bam khong ra hop ban / phai bam 2 lan",
-    "ngay": "2026-11-21 10:12"
+    "ban": 1499,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-PK-1499.apk",
+    "sha256": "57a2833cbe5b857417337ccf7fe7486028e7bf6116d9245cc96c7af7d5484cb5",
+    "kichThuoc": 1440447,
+    "ghiChu": "Len thanh: xa phu Ham Tu -> Dong Son -> Truong Giang, chuyen map nhanh hon",
+    "ngay": "2026-11-21 19:31"
   },
   "android_ditieu": {
     "ban": 1467,
