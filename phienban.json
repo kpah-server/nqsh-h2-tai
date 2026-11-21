@@ -96,12 +96,12 @@
     "ngay": "2026-11-21 10:13"
   },
   "pc_pk": {
-    "ban": 78,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-PK-PC-78.zip",
-    "sha256": "0a0661a1b0ca9455baa48d92c2cbeaa261f3f7ce03634e4237ff3b519c7bdf0d",
-    "kichThuoc": 37630600,
-    "ghiChu": "Sua ban do o cua hang: mon sau chi xem / phai bam 2 lan / ve lai hanh trang",
-    "ngay": "2026-11-21 09:43"
+    "ban": 79,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-PK-PC-79.zip",
+    "sha256": "22c52143350eb44754fd0bc908ef64789ab376b4026a6722890481fbfa02ba80",
+    "kichThuoc": 37630865,
+    "ghiChu": "Ban do o cua hang: moi o nho dung mon, het bam khong ra hop ban / phai bam 2 lan",
+    "ngay": "2026-11-21 10:15"
   },
   "pc_ditieu": {
     "ban": 47,
