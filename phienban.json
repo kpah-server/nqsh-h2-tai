@@ -64,12 +64,12 @@
     "ngay": "2026-11-21 19:30"
   },
   "android_up": {
-    "ban": 1498,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-Up-1498.apk",
-    "sha256": "03246134c63d77c84d096035df5cd3a017b6f04e813b42e3e82905847f22c967",
-    "kichThuoc": 1435075,
-    "ghiChu": "Quay so: tu quay nhanh hon (50 ms / lan)",
-    "ngay": "2026-11-21 19:13"
+    "ban": 1499,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-Up-1499.apk",
+    "sha256": "4248dacd26226efeee115b4b84e067ffff608c5d5224c375e11aff076d54c9cc",
+    "kichThuoc": 1435183,
+    "ghiChu": "Len thanh: xa phu Ham Tu -> Dong Son -> Truong Giang, chuyen map nhanh hon",
+    "ngay": "2026-11-21 19:30"
   },
   "android_pk": {
     "ban": 1495,
