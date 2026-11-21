@@ -32,12 +32,12 @@
     "ngay": "2026-11-21 20:30"
   },
   "jar_up": {
-    "ban": 1145,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-Up-v1145.jar",
-    "sha256": "a43e40d0f61489ac059a0005ad9b0254d791d42a53c5a9ca5f549344bd212b4a",
-    "kichThuoc": 1251839,
-    "ghiChu": "Len thanh: tha sat cong Thanh o Truong Giang, vao Thanh nhanh",
-    "ngay": "2026-11-21 20:16"
+    "ban": 1147,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-Up-v1147.jar",
+    "sha256": "46d1cb4397256159a65f57d7d8f6cbac923e83860a7adb6441cabcb1df6e2677",
+    "kichThuoc": 1251946,
+    "ghiChu": "Len thanh / nuoi pet: vao Thanh dat chan gan NPC tho san",
+    "ngay": "2026-11-21 20:31"
   },
   "jar_pk": {
     "ban": 1145,
