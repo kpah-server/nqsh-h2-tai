@@ -1,11 +1,11 @@
 {
   "jar": {
-    "ban": 10000,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v10000.jar",
-    "sha256": "c278f6cee6504a7d496a284b12b1e8206f7531309851e37397407672811c1266",
-    "kichThuoc": 1250087,
-    "ghiChu": "Tu lam nhiem vu: thoai NPC qua ngay, khong cho",
-    "ngay": "2026-11-21 08:40"
+    "ban": 1133,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1133.jar",
+    "sha256": "a9f1b0ec1487c4fd6a9d7f3a7834d40621fc62921487f43fe85588520746ec39",
+    "kichThuoc": 1250091,
+    "ghiChu": "Tu lam nhiem vu: thoai NPC nhanh hon",
+    "ngay": "2026-11-21 08:32"
   },
   "android": {
     "ban": 1446,
@@ -24,28 +24,28 @@
     "ngay": "2026-10-23 11:47"
   },
   "jar_chedo": {
-    "ban": 10000,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v10000.jar",
-    "sha256": "c278f6cee6504a7d496a284b12b1e8206f7531309851e37397407672811c1266",
-    "kichThuoc": 1250087,
-    "ghiChu": "Tu lam nhiem vu: thoai NPC qua ngay, khong cho",
-    "ngay": "2026-11-21 08:40"
+    "ban": 1133,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1133.jar",
+    "sha256": "a9f1b0ec1487c4fd6a9d7f3a7834d40621fc62921487f43fe85588520746ec39",
+    "kichThuoc": 1250091,
+    "ghiChu": "Tu lam nhiem vu: thoai NPC nhanh hon",
+    "ngay": "2026-11-21 08:32"
   },
   "jar_up": {
-    "ban": 10000,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-Up-v10000.jar",
-    "sha256": "840fd021a4143e0d4242ef9acb138612cb5ebb8e0ec5f872eaf5538acf071797",
-    "kichThuoc": 1250086,
-    "ghiChu": "Tu lam nhiem vu: thoai NPC qua ngay, khong cho",
-    "ngay": "2026-11-21 08:40"
+    "ban": 1133,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-Up-v1133.jar",
+    "sha256": "d787a7a4f8b5ab276b41813db66415c07898043986227350d27482f22f876865",
+    "kichThuoc": 1250091,
+    "ghiChu": "Tu lam nhiem vu: thoai NPC nhanh hon",
+    "ngay": "2026-11-21 08:32"
   },
   "jar_pk": {
-    "ban": 10000,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-PK-v10000.jar",
-    "sha256": "ed89047d1ab383b5da06f8e94f8af89339db9802bb193f750951741f6ad369d7",
-    "kichThuoc": 1250086,
-    "ghiChu": "Tu lam nhiem vu: thoai NPC qua ngay, khong cho",
-    "ngay": "2026-11-21 08:40"
+    "ban": 1133,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-PK-v1133.jar",
+    "sha256": "b556776fa61701dec26cbc968c27a3f716d93fc02526e61a7f6b776d10de27d2",
+    "kichThuoc": 1250091,
+    "ghiChu": "Tu lam nhiem vu: thoai NPC nhanh hon",
+    "ngay": "2026-11-21 08:33"
   },
   "jar_ditieu": {
     "ban": 1049,
