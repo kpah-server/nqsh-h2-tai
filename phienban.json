@@ -56,12 +56,12 @@
     "ngay": "2026-11-05 11:46"
   },
   "android_chedo": {
-    "ban": 1499,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-CheDo-1499.apk",
-    "sha256": "9ab4ce9182272ef0b8a1467230bd06af98ef959c2dc7f9407ead70459becd149",
-    "kichThuoc": 1425495,
-    "ghiChu": "Len thanh: xa phu Ham Tu -> Dong Son -> Truong Giang, chuyen map nhanh hon",
-    "ngay": "2026-11-21 19:30"
+    "ban": 1500,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/android/NQSH-H2-CheDo-1500.apk",
+    "sha256": "281305b6a9741285a1324420fc7e59b2b20d04e41e949081f1bc75de88964a0c",
+    "kichThuoc": 1425675,
+    "ghiChu": "Len thanh: tha sat cong Thanh o Truong Giang, vao Thanh nhanh",
+    "ngay": "2026-11-21 20:21"
   },
   "android_up": {
     "ban": 1499,
