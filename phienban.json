@@ -1,11 +1,11 @@
 {
   "jar": {
-    "ban": 1145,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1145.jar",
-    "sha256": "a588a8cb1f33229cf7184c9b599e709733e54841b1dc050a3b0b4ebbf485452c",
-    "kichThuoc": 1251840,
-    "ghiChu": "Len thanh: tha sat cong Thanh o Truong Giang, vao Thanh nhanh",
-    "ngay": "2026-11-21 20:16"
+    "ban": 1147,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1147.jar",
+    "sha256": "b676ee76c705fcf4a05670dca284e73cfc81ab7b8950a3b96ce34b21cc974c02",
+    "kichThuoc": 1251946,
+    "ghiChu": "Len thanh / nuoi pet: vao Thanh dat chan gan NPC tho san",
+    "ngay": "2026-11-21 20:30"
   },
   "android": {
     "ban": 1446,
@@ -24,12 +24,12 @@
     "ngay": "2026-10-23 11:47"
   },
   "jar_chedo": {
-    "ban": 1145,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1145.jar",
-    "sha256": "a588a8cb1f33229cf7184c9b599e709733e54841b1dc050a3b0b4ebbf485452c",
-    "kichThuoc": 1251840,
-    "ghiChu": "Len thanh: tha sat cong Thanh o Truong Giang, vao Thanh nhanh",
-    "ngay": "2026-11-21 20:16"
+    "ban": 1147,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1147.jar",
+    "sha256": "b676ee76c705fcf4a05670dca284e73cfc81ab7b8950a3b96ce34b21cc974c02",
+    "kichThuoc": 1251946,
+    "ghiChu": "Len thanh / nuoi pet: vao Thanh dat chan gan NPC tho san",
+    "ngay": "2026-11-21 20:30"
   },
   "jar_up": {
     "ban": 1145,
