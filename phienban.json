@@ -32,12 +32,12 @@
     "ngay": "2026-11-21 20:16"
   },
   "jar_up": {
-    "ban": 1142,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-Up-v1142.jar",
-    "sha256": "aeb17e513b8fc4614eb494ad25aa1e1db00f273bc6f2ea4c4ca90ad6624333e6",
-    "kichThuoc": 1251641,
-    "ghiChu": "Len thanh: xa phu Ham Tu -> Dong Son -> Truong Giang, chuyen map nhanh hon",
-    "ngay": "2026-11-21 19:24"
+    "ban": 1145,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-Up-v1145.jar",
+    "sha256": "a43e40d0f61489ac059a0005ad9b0254d791d42a53c5a9ca5f549344bd212b4a",
+    "kichThuoc": 1251839,
+    "ghiChu": "Len thanh: tha sat cong Thanh o Truong Giang, vao Thanh nhanh",
+    "ngay": "2026-11-21 20:16"
   },
   "jar_pk": {
     "ban": 1142,
