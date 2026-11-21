@@ -1,11 +1,11 @@
 {
   "jar": {
-    "ban": 1140,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1140.jar",
-    "sha256": "a781e24f4a5104eed7962d7fa45899b54d6f07a757d9b483269e56ce7e6a898d",
-    "kichThuoc": 1251540,
-    "ghiChu": "Quay so: tu quay nhanh hon (50 ms / lan)",
-    "ngay": "2026-11-21 19:07"
+    "ban": 1142,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1142.jar",
+    "sha256": "2ae1f05d26a0e02c5d50a26d8f0625a9ba8b5416cee5cdd7c778062b21d14d4f",
+    "kichThuoc": 1251642,
+    "ghiChu": "Len thanh: xa phu Ham Tu -> Dong Son -> Truong Giang, chuyen map nhanh hon",
+    "ngay": "2026-11-21 19:24"
   },
   "android": {
     "ban": 1446,
@@ -24,12 +24,12 @@
     "ngay": "2026-10-23 11:47"
   },
   "jar_chedo": {
-    "ban": 1140,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1140.jar",
-    "sha256": "a781e24f4a5104eed7962d7fa45899b54d6f07a757d9b483269e56ce7e6a898d",
-    "kichThuoc": 1251540,
-    "ghiChu": "Quay so: tu quay nhanh hon (50 ms / lan)",
-    "ngay": "2026-11-21 19:07"
+    "ban": 1142,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-CheDo-v1142.jar",
+    "sha256": "2ae1f05d26a0e02c5d50a26d8f0625a9ba8b5416cee5cdd7c778062b21d14d4f",
+    "kichThuoc": 1251642,
+    "ghiChu": "Len thanh: xa phu Ham Tu -> Dong Son -> Truong Giang, chuyen map nhanh hon",
+    "ngay": "2026-11-21 19:24"
   },
   "jar_up": {
     "ban": 1140,
