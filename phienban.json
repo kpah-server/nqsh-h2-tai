@@ -40,12 +40,12 @@
     "ngay": "2026-11-25 22:11"
   },
   "jar_pk": {
-    "ban": 1148,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-PK-v1148.jar",
-    "sha256": "09142e088724d183817ec4cb06355c566b76e09f53d8af9fc09cca454aab594c",
-    "kichThuoc": 1251977,
-    "ghiChu": "Len thanh vao o cong Thanh; nuoi pet vao Thanh gan NPC tho san",
-    "ngay": "2026-11-21 20:32"
+    "ban": 1152,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/jar/NQSH-H2-PK-v1152.jar",
+    "sha256": "69bdf9ecf97861880341c1a7205c7da633fb7aa0ad344ef71f77fd5b4b969be7",
+    "kichThuoc": 1256704,
+    "ghiChu": "Sua tu dang nhap lai khi mat ket noi + nhat ky mang gui server de tra loi",
+    "ngay": "2026-11-25 22:12"
   },
   "jar_ditieu": {
     "ban": 1049,
