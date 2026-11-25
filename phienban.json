@@ -112,12 +112,12 @@
     "ngay": "2026-11-05 11:51"
   },
   "pc_up": {
-    "ban": 85,
-    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-Up-PC-85.zip",
-    "sha256": "c73e844b64817eb8e5fecadd964babf9228533392b72faeadadc011129f2e846",
-    "kichThuoc": 37631712,
-    "ghiChu": "Len thanh vao o cong Thanh; nuoi pet vao Thanh gan NPC tho san",
-    "ngay": "2026-11-21 20:40"
+    "ban": 87,
+    "link": "https://github.com/kpah-server/nqsh-h2-tai/releases/download/pc/NQSH-H2-Up-PC-87.zip",
+    "sha256": "b310eb66914e96636df64212412de0053daeb665c0e962102b13699a46a8638f",
+    "kichThuoc": 37634374,
+    "ghiChu": "Sua tu dang nhap lai khi mat ket noi + nhat ky mang gui server de tra loi",
+    "ngay": "2026-11-25 22:17"
   },
   "ios_chedo": {
     "ban": 41,
